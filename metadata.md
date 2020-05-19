@@ -1,10 +1,10 @@
 ---
 cloud: experience-cloud
-product: adobe experience platform
+product: customer journey analytics
 solution-title: Documentation
-solution-hub-url: https://docs.adobe.com/content/help/en/experience-platform/landing/home.html
+solution-hub-url: https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html
 getting-started-title: Experience League
-getting-started-url: https://experienceleague.adobe.com/#recommended/solutions/experience-platform
+getting-started-url: https://experienceleague.adobe.com/
 tutorials-title: Tutorials
 tutorials-url: /content/help/en/platform-learn/tutorials/overview.html
 git-repo: https://github.com/AdobeDocs/platform-learn.en
