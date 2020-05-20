@@ -24,7 +24,7 @@ Customer Journey Analytics lets you control how you connect your online and offl
 <tr>
   <td>
     <a href="intro-to-platform/a-customer-experience-powered-by-experience-platform.md">
-      <img alt="A Customer Experience Powered by Experience Platform video" src="assets/thumb_A-Customer-Experience.jpg" />
+      <img alt="Test" src="assets/thumb_A-Customer-Experience.jpg" />
     </a>
     <div>
       <a href="intro-to-platform/a-customer-experience-powered-by-experience-platform.md">
