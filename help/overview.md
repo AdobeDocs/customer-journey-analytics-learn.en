@@ -15,7 +15,7 @@ Customer Journey Analytics lets you control how you connect your online and offl
 
 * **[Create Cross-Channel Filters (Video)](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
-* **[Understanding How CJA Uses Identity (Video)](/help/understanding-how-customer-journey-analytics-uses-identity.md)**
+* **[2Understanding How CJA Uses Identity (Video)](/help/understanding-how-customer-journey-analytics-uses-identity.md)**
 
 <!--
 ## Staff Picks
@@ -24,7 +24,7 @@ Customer Journey Analytics lets you control how you connect your online and offl
 <tr>
   <td>
     <a href="intro-to-platform/a-customer-experience-powered-by-experience-platform.md">
-      <img alt="Test" src="assets/thumb_A-Customer-Experience.jpg" />
+      <img alt="Test 2" src="assets/thumb_A-Customer-Experience.jpg" />
     </a>
     <div>
       <a href="intro-to-platform/a-customer-experience-powered-by-experience-platform.md">
