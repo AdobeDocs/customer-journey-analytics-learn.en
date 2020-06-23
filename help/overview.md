@@ -10,12 +10,11 @@ Customer Journey Analytics lets you control how you connect your online and offl
 ## What's New
 
 * **[Move Adobe Analytics Segments to Customer Journey Analytics (Video)](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
-    <br>
     *Learn how to start using your Analytics Segments in Customer Journey Analytics*
 
 * **[Create Cross-Channel Filters (Video)](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
-* **[Understanding How CJA Uses Identity (Video)](/help/understanding-how-customer-journey-analytics-uses-identity.md)**
+* **[2Understanding How CJA Uses Identity (Video)](/help/understanding-how-customer-journey-analytics-uses-identity.md)**
 
 <!--
 ## Staff Picks
@@ -24,7 +23,7 @@ Customer Journey Analytics lets you control how you connect your online and offl
 <tr>
   <td>
     <a href="intro-to-platform/a-customer-experience-powered-by-experience-platform.md">
-      <img alt="A Customer Experience Powered by Experience Platform video" src="assets/thumb_A-Customer-Experience.jpg" />
+      <img alt="Test 2" src="assets/thumb_A-Customer-Experience.jpg" />
     </a>
     <div>
       <a href="intro-to-platform/a-customer-experience-powered-by-experience-platform.md">
