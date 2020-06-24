@@ -1,65 +1,81 @@
 ---
-title: Customer Journey Analytics Tutorials
-description: Learn about Customer Journey Analytics
+title: Customer Journey Analytics Videos and Tutorials
+description: A collection of videos and tutorials for Adobe Customer Journey Analytics.
+feature: overview
+topics: 
+audience: all
+activity: use
+doc-type: overview
+team: Technical Marketing
 ---
 
 # Overview
+
+Welcome to the [!DNL Customer Journey Analytics] Tutorials Site.  Using these tutorials along with the [documentation](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html) will give you a better understanding how to use Adobe Analytics to gain multi-channel customer insights faster than ever.  To get started,
+
+* See the **"What's New"** section below for the latest goodies
+* **Staff Picks** highlights some of our favorite content 
+* Explore the content by topic and subtopic in the **left navigation**
+* Use the **search** field at the top of the page if you know what you are looking for
 
 Customer Journey Analytics lets you control how you connect your online and offline data in Analysis Workspace on any common customer ID, finally allowing you to do attribution, segmentation, flow, fallout, etc. across your entire customer data set.
 
 ## What's New
 
 * **[Move Adobe Analytics Segments to Customer Journey Analytics (Video)](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
-    *Learn how to start using your Analytics Segments in Customer Journey Analytics*
+  <br>
+    *Learn tips on how to re-create your Adobe Analytics Segments in Customer Journey Analytics*
+
+* **[Move your Calculated Metrics from Adobe Analytics to Customer Journey Analytics (Video)](/help/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
+  <br>
+    *Learn tips for re-creating your Adobe Analytics Calculated Metrics in Customer Journey Analytics*    
 
 * **[Create Cross-Channel Filters (Video)](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)**
+  <br>
+    *Create filters in Customer Journey Analytics that utilize more than one data source, and more than one channel*
 
-* **[2Understanding How CJA Uses Identity (Video)](/help/understanding-how-customer-journey-analytics-uses-identity.md)**
-
-<!--
 ## Staff Picks
 
 <table>
 <tr>
   <td>
-    <a href="intro-to-platform/a-customer-experience-powered-by-experience-platform.md">
-      <img alt="Test 2" src="assets/thumb_A-Customer-Experience.jpg" />
+    <a href="/help/understanding-how-customer-journey-analytics-uses-identity.md">
+      <img alt="Understanding How CJA Uses Identity" src="assets/30750.jpg" />
     </a>
     <div>
-      <a href="intro-to-platform/a-customer-experience-powered-by-experience-platform.md">
-    <strong>A Customer Experience Powered by Experience Platform</strong>
+      <a href="/help/understanding-how-customer-journey-analytics-uses-identity.md">
+    <strong>Understanding How Customer Journey Analytics Uses Identity</strong>
     </a>
     </div>
     <p>
-    <em>See how Platform can be used to power a customer experience</em>
+    <em>A practical look at how identity affects your analysis in Customer Journey Analytics</em>
+    <p>
+  </td>
+   <td>
+    <a href="/help/architecture-and-integrations-of-cja.md">
+      <img alt="Architecture and Integrations of Customer Journey Analytics" src="assets/32483.jpg" />
+    </a>
+    <div>
+      <a href="/help/architecture-and-integrations-of-cja.md">
+    <strong>Architecture and Integrations of Customer Journey Analytics</strong>
+    </a>
+    </div>
+    <p>
+    <em>Walkthrough of the architecture of Customer Journey Analytics, including integration with the Adobe Experience Platform.</em>
     <p>
   </td>
   <td>
-    <a href="rtcdp/understanding-the-real-time-customer-data-platform.md">
-      <img alt="thumbnail image for the 'Understanding the Real-time Customer Data Platform' video" src="assets/thumb_RTCDP.png" />
+    <a href="/help/cross-channel-attribution-in-customer-journey-analytics.md">
+      <img alt="Cross-Channel Attribution in Customer Journey Analytics" src="assets/31772.jpg" />
     </a>
     <div>
-      <a href="rtcdp/understanding-the-real-time-customer-data-platform.md">
-    <strong>Understanding the Real-time Customer Data Platform (CDP)</strong>
+      <a href="/help/cross-channel-attribution-in-customer-journey-analytics.md">
+    <strong>Cross-Channel Attribution in Customer Journey Analytics</strong>
     </a>
     </div>
     <p>
-    <em>Activate your profiles with Real-time CDP</em>
-    <p>
-  </td>
-  <td>
-    <a href="data-ingestion/understanding-source-connectors.md">
-      <img alt="thumbnail image for the 'Understanding Source connectors' video" src="assets/thumb_Sources.png" />
-    </a>
-    <div>
-      <a href="data-ingestion/understanding-source-connectors.md">
-    <strong>Understanding Source Connectors</strong>
-    </a>
-    </div>
-    <p>
-    <em>Easily ingest your data</em>
+    <em>How you can use visualizations to show attribution (give credit) across channels.</em>
     <p>
   </td>
 </tr>
 </table>
--->

@@ -1,13 +1,13 @@
 ---
 cloud: experience-cloud
 product: customer journey analytics
-solution-title: Documentation
-solution-hub-url: https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html
+solution-title:  Customer Journey Analytics
+solution-hub-url: https://docs.adobe.com/content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 getting-started-title: Experience League
 getting-started-url: https://experienceleague.adobe.com/
 tutorials-title: Tutorials
-tutorials-url: /content/help/en/platform-learn/tutorials/overview.html
-git-repo: https://github.com/AdobeDocs/platform-learn.en
+tutorials-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
+git-repo: https://git.corp.adobe.com/AdobeDocs/customer-journey-analytics-learn.en
 index: yes
 mini-toc-levels: 2
 ---
