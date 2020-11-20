@@ -23,15 +23,15 @@ Customer Journey Analytics lets you control how you connect your online and offl
 ## What's New
 
 * **[Move Adobe Analytics Segments to Customer Journey Analytics (Video)](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
-  <br>
+
     *Learn tips on how to re-create your Adobe Analytics Segments in Customer Journey Analytics*
 
 * **[Move your Calculated Metrics from Adobe Analytics to Customer Journey Analytics (Video)](/help/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
-  <br>
+
     *Learn tips for re-creating your Adobe Analytics Calculated Metrics in Customer Journey Analytics*    
 
 * **[Create Cross-Channel Filters (Video)](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)**
-  <br>
+
     *Create filters in Customer Journey Analytics that utilize more than one data source, and more than one channel*
 
 ## Staff Picks
