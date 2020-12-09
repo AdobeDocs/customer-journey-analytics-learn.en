@@ -1,12 +1,13 @@
 ---
 title: Working with Data in Customer Journey Analytics
-description: In this video, you will learn how dataset schemas are translated into variables in Customer Journey Analytics (CJA), as well as how CJA handles very high cardinality.
+description: In this video, you will learn how dataset schemas are translated into variables in Adobe Customer Journey Analytics (CJA), as well as how CJA handles very high cardinality.
 feature: customer journey analytics
 topics: 
 audience: administrator, analyst, marketer, architect
 activity: understand
 doc-type: technical video
 team: Technical Marketing
+thumbnail: 32112.jpg
 kt: 3964
 
 ---

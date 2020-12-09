@@ -1,12 +1,13 @@
 ---
 title: Understanding How Customer Journey Analytics Uses Identity
-description: This video is not a technical deep dive, but rather a practical look at how identity affects your analysis in Customer Journey Analytics, including a look at cross-channel visualizations made possible by stitching visitor IDs.
+description: This video is not a technical deep dive, but rather a practical look at how identity affects your analysis in Adobe Customer Journey Analytics, including a look at cross-channel visualizations made possible by stitching visitor IDs.
 feature: customer journey analytics
 topics: topics
 audience: analyst, marketer
 activity: understand
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 30750.jpg
 kt: 3955
 
 ---
