@@ -1,12 +1,13 @@
 ---
 title: Introduction to Calculated Metrics in Customer Journey Analytics
-description: In this video, we'll walk through the basics of creating Calculated Metrics in Customer Journey Analytics.
+description: In this video, we'll walk through the basics of creating Calculated Metrics in Adobe Customer Journey Analytics.
 feature: customer journey analytics - calculated metrics
 topics: 
 audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 31787.jpg
 kt: 4448
 
 ---

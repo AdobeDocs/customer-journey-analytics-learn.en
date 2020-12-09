@@ -1,12 +1,13 @@
 ---
 title: Cross-Channel Attribution in Customer Journey Analytics
-description: In this video, we will show how you can use visualizations to show attribution (give credit) across channels in Customer Journey Analytics.
+description: In this video, we will show how you can use visualizations to show attribution (give credit) across channels in Adobe Customer Journey Analytics.
 feature: customer journey analytics
 topics: 
 audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 31772.jpg
 kt: 3963
 
 ---

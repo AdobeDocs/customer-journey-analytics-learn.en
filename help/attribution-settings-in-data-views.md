@@ -1,12 +1,13 @@
 ---
 title: Attribution Settings in Data Views in Customer Journey Analytics
-description: When configuring Data Views in Customer Journey Analytics, you can choose attribution settings in order to control how dimensions and metrics will work together. This video walks you through the defaults, the options, and how metric and dimension attribution settings interact.
+description: When configuring Data Views in Adobe Customer Journey Analytics, you can choose attribution settings in order to control how dimensions and metrics will work together. This video walks you through the defaults, the options, and how metric and dimension attribution settings interact.
 feature: customer journey analytics
 topics: 
 audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 30185.jpg
 kt: 3959
 
 ---
