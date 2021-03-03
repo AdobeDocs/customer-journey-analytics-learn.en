@@ -1,7 +1,6 @@
 ---
 user-guide-title: Customer Journey Analytics
 user-guide-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
-audience: all
 type: Tutorial
 ---
 

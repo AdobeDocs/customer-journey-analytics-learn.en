@@ -1,15 +1,16 @@
 ---
 title: Create Cross-Channel Filters in Customer Journey Analytics
 description: In this video we discuss how to create filters in Adobe Customer Journey Analytics that utilize more than one data source, and more than one channel. You will also see how these filters can be combined in visualizations.
-feature: customer journey analytics
+feature: Filters
 topics: 
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31983.jpg
 kt: 3962
 
+role: Business Practitioner
+level: Beginner
 ---
 
 # Create Cross-Channel [!UICONTROL Filters] in Customer Journey Analytics
