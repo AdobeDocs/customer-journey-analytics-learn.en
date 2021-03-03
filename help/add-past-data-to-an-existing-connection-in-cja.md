@@ -1,15 +1,16 @@
 ---
 title: Add Past Data to an Existing Connection in Customer Journey Analytics
 description: In this video, learn about adding past data (data that has a previous timestamp associated with it) into your existing Adobe Customer Journey Analytics analysis via connections and data views.
-feature: customer journey analytics
+feature: Connections
 topics: 
-audience: administrator, architect
 activity: understand
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 32549.jpg
 kt: 3965
 
+role: "Data Engineer, Data Architect"
+level: Beginner
 ---
 
 # Add Past Data to an Existing [!UICONTROL Connection] in Customer Journey Analytics

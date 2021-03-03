@@ -1,15 +1,16 @@
 ---
 title: Introduction to Filters in Customer Journey Analytics
 description: This video will introduce you to filters and the Filter Builder in Adobe Customer Journey Analytics.
-feature: customer journey analytics
+feature: Filters
 topics: 
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 32114.jpg
 kt: 4447
 
+role: Business Practitioner
+level: Beginner
 ---
 
 # Introduction to [!UICONTROL Filters] in Customer Journey Analytics

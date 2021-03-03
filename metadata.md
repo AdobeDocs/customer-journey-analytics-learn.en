@@ -2,6 +2,7 @@
 cloud: experience-cloud
 product: customer journey analytics
 solution: Customer Journey Analytics
+feature-set: Customer Journey Analytics
 type: Tutorial
 solution-title:  Customer Journey Analytics
 solution-hub-url: https://docs.adobe.com/content/help/en/customer-journey-analytics-learn/tutorials/overview.html
