@@ -23,3 +23,7 @@ type: Tutorial
 + [Introduction to Filters](/help/introduction-to-filters-in-cja.md)
 + [Create Cross-Channel Filters](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)
 + [Move Adobe Analytics Segments to Customer Journey Analytics](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
++ Blueprints {#blueprints}
+  + [Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
+  + [Digital Behavioral Data Consolidation scenario](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
+  + [Call Deflection Journey Analysis scenario](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=en#customer-journey-analytics)
