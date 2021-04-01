@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 product: customer journey analytics
 solution: Customer Journey Analytics
 feature-set: Customer Journey Analytics
