@@ -11,8 +11,8 @@ kt: 3959
 
 role: Administrator
 level: Beginner
+exl-id: 9a1663ec-3fd1-4899-971f-11e42cea94fc
 ---
-
 # [!UICONTROL Attribution] Settings in [!UICONTROL Data Views] in Customer Journey Analytics
 
 When configuring [!UICONTROL Data Views] in Customer Journey Analytics, you can choose [!UICONTROL attribution] settings in order to control how [!UICONTROL dimensions] and [!UICONTROL metrics] will work together. This video walks you through the defaults, the options, and how [!UICONTROL metric] and [!UICONTROL dimension] [!UICONTROL attribution] settings interact.

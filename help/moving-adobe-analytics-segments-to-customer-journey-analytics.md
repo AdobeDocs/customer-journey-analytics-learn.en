@@ -12,8 +12,8 @@ kt: 3967
 topic: Migration
 role: Business Practitioner
 level: Beginner
+exl-id: b359a509-f920-40d2-978f-983f1b555e86
 ---
-
 # Move Adobe Analytics [!UICONTROL Segments] to Customer Journey Analytics
 
 In this video you will learn tips for re-creating your Adobe Analytics [!UICONTROL segments] as "[!UICONTROL filters]" in Customer Journey Analytics.

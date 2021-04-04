@@ -11,8 +11,8 @@ kt: 3964
 
 role: "Data Engineer, Data Architect"
 level: Intermediate
+exl-id: 5562f818-0c5f-4421-b715-ca083b81a00c
 ---
-
 # Working with Data in Customer Journey Analytics
 
 In this video, you will learn how [!UICONTROL dataset] [!UICONTROL schemas] are translated into variables in Customer Journey Analytics (CJA), as well as how CJA handles very high cardinality.

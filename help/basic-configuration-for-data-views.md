@@ -11,8 +11,8 @@ kt: 3958
 
 role: Administrator
 level: Beginner
+exl-id: 132e8131-1574-4728-9108-8e5cdff3145e
 ---
-
 # Basic Configuration for [!UICONTROL Data Views] in Customer Journey Analytics
 
 Once you have created a [!UICONTROL connection] in Customer Journey Analytics to [!UICONTROL datasets] in the Adobe Experience Platform, you need to create a [!UICONTROL Data View] for that [!UICONTROL Connection], so that you can use the data in Analysis Workspace on Platform. This video walks you through the basic configuration of a [!UICONTROL Data View].

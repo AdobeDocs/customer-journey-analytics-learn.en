@@ -11,8 +11,8 @@ kt: 3965
 
 role: "Data Engineer, Data Architect"
 level: Beginner
+exl-id: c8f0b90d-d31f-4702-a838-70ab78b690c0
 ---
-
 # Add Past Data to an Existing [!UICONTROL Connection] in Customer Journey Analytics
 
 In this video, learn about adding past data (data that has a previous timestamp associated with it) into your existing Customer Journey Analytics analysis via [!UICONTROL connections] and [!UICONTROL data views].

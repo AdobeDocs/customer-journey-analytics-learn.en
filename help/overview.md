@@ -7,8 +7,8 @@ doc-type: overview
 team: Technical Marketing
 role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
+exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
 ---
-
 # Overview
 
 Welcome to the [!DNL Customer Journey Analytics] Tutorials Site.  Using these tutorials along with the [documentation](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html) will give you a better understanding how to use Adobe Analytics to gain multi-channel customer insights faster than ever.  To get started,

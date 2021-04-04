@@ -11,8 +11,8 @@ kt: 3961
 
 role: Business Practitioner
 level: Beginner
+exl-id: 077bed60-9aa2-47f9-af66-2f99453d64fb
 ---
-
 # Create Cross-Channel [!UICONTROL Visualizations] in Customer Journey Analytics
 
 In this video, discover how Customer Journey Analytics allows you to create [!UICONTROL visualizations] that include data from multiple [!UICONTROL datasets] across multiple channels, including merging the data per [!UICONTROL visitor].

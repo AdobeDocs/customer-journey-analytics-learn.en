@@ -12,8 +12,8 @@ kt: 4449
 topic: Architecture
 role: "Architect, Data Architect"
 level: Intermediate
+exl-id: 441e632f-b8d0-428a-9db6-c048bf173443
 ---
-
 # Architecture and Integrations of Customer Journey Analytics
 
 In this video, find a walkthrough of the architecture of Customer Journey Analytics, including how it connects to and integrates with the Adobe Experience Platform.

@@ -11,8 +11,8 @@ kt: 4448
 
 role: Business Practitioner
 level: Beginner
+exl-id: a44b1f31-005e-4f44-b941-60e44aeea605
 ---
-
 # Introduction to [!UICONTROL Calculated Metrics] in Customer Journey Analytics
 
 In this video, we'll walk through the basics of creating [!UICONTROL Calculated Metrics] in Customer Journey Analytics.

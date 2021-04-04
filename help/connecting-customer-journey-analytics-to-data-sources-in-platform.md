@@ -11,8 +11,8 @@ kt: 3954
 
 role: "Data Engineer, Data Architect"
 level: Intermediate
+exl-id: d25dab66-52c7-45aa-b102-e3e41fa7d017
 ---
-
 # Connect Customer Journey Analytics to Data [!UICONTROL Sources] in Platform
 
 Customer Journey Analytics (CJA) gives you Analysis Workspace on top of [!UICONTROL datasets] from Adobe Experience Platform, in order to do cross-channel analysis of your data. This video will show you how to make the [!UICONTROL connection] between CJA and the Platform [!UICONTROL datasets], including setting the [!UICONTROL connection] to stream ongoing data into CJA from the Platform.

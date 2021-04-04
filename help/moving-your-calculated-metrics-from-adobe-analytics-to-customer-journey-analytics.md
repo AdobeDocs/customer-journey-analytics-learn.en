@@ -12,8 +12,8 @@ kt: 3966
 topic: Migration
 role: Business Practitioner
 level: Beginner
+exl-id: 52ff7388-6463-47fa-aec9-ab9531cd105f
 ---
-
 # Move your [!UICONTROL Calculated Metrics] from Adobe Analytics to Customer Journey Analytics
 
 In this video, find tips for re-creating your Adobe Analytics [!UICONTROL Calculated Metrics] in Customer Journey Analytics.

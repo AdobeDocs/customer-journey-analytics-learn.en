@@ -11,8 +11,8 @@ kt: 4447
 
 role: Business Practitioner
 level: Beginner
+exl-id: 22076ef3-8d97-4483-bc05-5f37b15c868f
 ---
-
 # Introduction to [!UICONTROL Filters] in Customer Journey Analytics
 
 This video will introduce you to [!UICONTROL filters] and the [!UICONTROL Filter Builder] in Customer Journey Analytics.
