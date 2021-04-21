@@ -13,6 +13,8 @@ type: Tutorial
 + [Working with Data](/help/working-with-data-in-cja.md)
 + [Connect to Data Sources in Platform](/help/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
 + [Basic Configuration for Data Views](/help/basic-configuration-for-data-views.md)
++ [Configuring component settings in Data Views](/help/configuring-component-settings-in-data-views.md)
++ [Formatting metrics in Data Views](/help/formatting-metrics-in-data-views.md)
 + [Attribution Settings in Data Views](/help/attribution-settings-in-data-views.md)
 + [Understanding How CJA Uses Identity](/help/understanding-how-customer-journey-analytics-uses-identity.md)
 + [Add Past Data to an Existing Connection](/help/add-past-data-to-an-existing-connection-in-cja.md)
