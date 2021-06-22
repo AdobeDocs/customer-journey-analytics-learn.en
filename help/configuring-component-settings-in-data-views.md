@@ -7,9 +7,8 @@ level: Beginner
 doc-type: feature video
 thumbnail: 332788.jpg
 kt: 7582
-
+exl-id: e0c2cf9f-5c5e-45e2-a738-cc7afc0a440f
 ---
-
 # Configuring component settings in Data Views
 
 In this video we'll walk through a few of the basic component settings that you'll want to configure for each of the [!UICONTROL components] (metrics and dimensions) when you are setting up a [!UICONTROL Data View] in Customer Journey Analytics.
