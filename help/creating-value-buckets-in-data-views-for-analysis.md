@@ -2,7 +2,7 @@
 title: Creating value buckets in Data Views for analysis
 description: When configuring a Data View in Customer Journey Analytics, you can set a numeric dimension to be lumped into defined buckets, so that you can limit the number of items available for the table to ranges of numbers (very cool). This video walks you through configuration of this feature.
 feature: Data Views
-role: Administrator
+role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 332864.jpg

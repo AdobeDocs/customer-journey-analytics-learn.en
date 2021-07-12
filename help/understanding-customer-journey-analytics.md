@@ -9,7 +9,7 @@ doc-type: presentation
 team: Technical Marketing
 thumbnail: 30090.jpg
 kt: 3953
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 8b9644dd-1992-499c-88f0-acd3ef182956
 ---

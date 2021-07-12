@@ -3,7 +3,7 @@ title: Configure No Value options in Data Views
 description: During configuration of Data Views in Customer Journey Analytics, you can choose if and how to display the -no value- option in your reports.
 feature: Data Views
 topic: Administration
-role: Administrator
+role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 333113.jpg

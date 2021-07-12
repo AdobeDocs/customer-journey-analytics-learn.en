@@ -2,7 +2,7 @@
 title: Formatting metrics in Data Views
 description: In this video you will learn about the options for formatting metrics in the component screen of Data View configuration. We will also discuss a couple of tips that can help you get more out of your components.
 feature: Data Views
-role: Administrator
+role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 332806.jpg

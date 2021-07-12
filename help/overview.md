@@ -5,7 +5,7 @@ topics:
 activity: use
 doc-type: overview
 team: Technical Marketing
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
 ---

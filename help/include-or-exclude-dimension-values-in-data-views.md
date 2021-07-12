@@ -3,7 +3,7 @@ title: Include or exclude dimension values in Data Views
 description: With this Data View configuration feature, you can filter values in dimensions in order to make your analysts' lives easier when they are creating projects in Customer Journey Analytics. You'll thank me later (after your analysts thank you).
 feature: Data Views
 topic: Administration
-role: Administrator
+role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 332906.jpg

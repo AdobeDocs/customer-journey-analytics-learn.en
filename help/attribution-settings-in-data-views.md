@@ -3,7 +3,7 @@ title: Attribution Settings in Data Views
 description: Each dimension should have an allocation setting (to decide which value gets credit for conversion) and an expiration setting (how long the value persists), so that the system knows how to assign value to the dimension values. Similarly, and working together, metrics should have an attribution model and lookback window set as well. This video walks you through setting these all-important settings.
 feature: Data Views
 topic: Administration
-role: Administrator
+role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 30185.jpg

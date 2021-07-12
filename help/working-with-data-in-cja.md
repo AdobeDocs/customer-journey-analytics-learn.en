@@ -9,7 +9,7 @@ team: Technical Marketing
 thumbnail: 32112.jpg
 kt: 3964
 
-role: "Data Engineer, Data Architect"
+role: Data Engineer, Data Architect
 level: Intermediate
 exl-id: 5562f818-0c5f-4421-b715-ca083b81a00c
 ---

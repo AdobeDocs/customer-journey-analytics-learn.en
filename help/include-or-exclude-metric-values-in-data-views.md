@@ -3,7 +3,7 @@ title: Include or exclude metric values in Data Views
 description: In this video, learn how to create and configure new metrics that are subsets of other metrics, as well as the use cases that can make this a very powerful analysis tool in Data Views.
 feature: Data Views
 topic: Administration
-role: Administrator
+role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 333120.jpg

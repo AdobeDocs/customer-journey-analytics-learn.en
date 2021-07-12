@@ -6,7 +6,7 @@ doc-type: feature video
 thumbnail: 30186.jpg
 kt: 3958
 
-role: Administrator
+role: Admin
 level: Beginner
 exl-id: 132e8131-1574-4728-9108-8e5cdff3145e
 ---

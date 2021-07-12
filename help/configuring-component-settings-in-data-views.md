@@ -2,7 +2,7 @@
 title: Configuring component settings in Data Views
 description: In this video we'll walk through a few of the basic component settings that you'll want to configure for each of the components (metrics and dimensions) when you are setting up a Data View in Customer Journey Analytics.
 feature: Data Views
-role: Administrator
+role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 332788.jpg
