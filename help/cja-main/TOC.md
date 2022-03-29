@@ -12,6 +12,7 @@ type: Tutorial
 + [Architecture and Integrations](/help/architecture-and-integrations-of-cja.md)
 + [Working with Data](/help/working-with-data-in-cja.md)
 + [Connect to Data Sources in Platform](/help/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
++ [Overview of configuring Data Views for CJA](/help/overview-of-configuring-data-views-for-cja.md)
 + [Basic configuration for Data Views](/help/basic-configuration-for-data-views.md)
 + [Configure component settings in Data Views](/help/configuring-component-settings-in-data-views.md)
 + [Component type settings in Data Views](/help/component-type-settings-in-data-views.md)
