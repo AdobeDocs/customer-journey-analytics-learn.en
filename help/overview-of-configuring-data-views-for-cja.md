@@ -16,4 +16,6 @@ In Customer Journey Analytics, Data Views are similar to Virtual Report Suites i
 
 >[!VIDEO](https://video.tv.adobe.com/v/35110/?quality=12&learn=on)
 
+Please see additional Data Views videos to focus on specific functionality that can make your data more useful.
+
 For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html?lang=en).
