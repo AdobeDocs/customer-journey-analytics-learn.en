@@ -6,7 +6,7 @@ type: Tutorial
 
 # Customer Journey Analytics Tutorials {#tutorials}
 
-+ [Overview](/help/overview.md)
++ [Overview](overview.md)
 + Customer Journey Analytics Basics {#cja-basics}
   + [Understanding Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
   + [New Terms and Concepts](cja-basics/new-terms-and-concepts-in-cja.md)
