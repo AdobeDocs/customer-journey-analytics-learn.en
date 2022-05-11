@@ -22,15 +22,15 @@ Customer Journey Analytics lets you control how you connect your online and offl
 
 ## What's New
 
-* **[Move Adobe Analytics Segments to Customer Journey Analytics (Video)](/help/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
+* **[Move Adobe Analytics Segments to Customer Journey Analytics (Video)](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
 
     *Learn tips on how to re-create your Adobe Analytics Segments in Customer Journey Analytics*
 
-* **[Move your Calculated Metrics from Adobe Analytics to Customer Journey Analytics (Video)](/help/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
+* **[Move your Calculated Metrics from Adobe Analytics to Customer Journey Analytics (Video)](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
 
     *Learn tips for re-creating your Adobe Analytics Calculated Metrics in Customer Journey Analytics*    
 
-* **[Create Cross-Channel Filters (Video)](/help/creating-cross-channel-filters-in-customer-journey-analytics.md)**
+* **[Create Cross-Channel Filters (Video)](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
     *Create filters in Customer Journey Analytics that utilize more than one data source, and more than one channel*
 
@@ -39,11 +39,11 @@ Customer Journey Analytics lets you control how you connect your online and offl
 <table>
 <tr>
   <td>
-    <a href="/help/understanding-how-customer-journey-analytics-uses-identity.md">
+    <a href="visitor-id/understanding-how-customer-journey-analytics-uses-identity.md">
       <img alt="Understanding How CJA Uses Identity" src="assets/30750.jpg" />
     </a>
     <div>
-      <a href="/help/understanding-how-customer-journey-analytics-uses-identity.md">
+      <a href="visitor-id/understanding-how-customer-journey-analytics-uses-identity.md">
     <strong>Understanding How Customer Journey Analytics Uses Identity</strong>
     </a>
     </div>
@@ -52,11 +52,11 @@ Customer Journey Analytics lets you control how you connect your online and offl
     <p>
   </td>
    <td>
-    <a href="/help/architecture-and-integrations-of-cja.md">
+    <a href="architecture/architecture-and-integrations-of-cja.md">
       <img alt="Architecture and Integrations of Customer Journey Analytics" src="assets/32483.jpg" />
     </a>
     <div>
-      <a href="/help/architecture-and-integrations-of-cja.md">
+      <a href="architecture/architecture-and-integrations-of-cja.md">
     <strong>Architecture and Integrations of Customer Journey Analytics</strong>
     </a>
     </div>
@@ -65,11 +65,11 @@ Customer Journey Analytics lets you control how you connect your online and offl
     <p>
   </td>
   <td>
-    <a href="/help/cross-channel-attribution-in-customer-journey-analytics.md">
+    <a href="visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
       <img alt="Cross-Channel Attribution in Customer Journey Analytics" src="assets/31772.jpg" />
     </a>
     <div>
-      <a href="/help/cross-channel-attribution-in-customer-journey-analytics.md">
+      <a href="visualizations/cross-channel-attribution-in-customer-journey-analytics.md">
     <strong>Cross-Channel Attribution in Customer Journey Analytics</strong>
     </a>
     </div>
