@@ -40,7 +40,7 @@ type: Tutorial
 + Components {#components}
   + Filters (segmentation) {#filters}
     + [Introduction to filters](components/filters/introduction-to-filters-in-cja.md)
-    + [Create dross-dhannel filters](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
+    + [Create cross-channel filters](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
     + [Move Adobe Analytics segments to Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
   + Calculated metrics {#calc-metrics}
     + [Introduction to calculated metrics in Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
