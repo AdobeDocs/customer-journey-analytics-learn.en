@@ -17,6 +17,7 @@ type: Tutorial
 + Connections {#connections}
   + [Connect to Data Sources in Platform](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
   + [Connections Details Experience in CJA](connections/connections-details-experience-in-cja.md)
+  + [Connections creation and edit experience](connections/cja-connections-creation-and-edit-experience.md)
   + [Add Past Data to an Existing Connection](connections/add-past-data-to-an-existing-connection-in-cja.md)
 + Visitor Identification {#visitor-id}
   + [Understanding How CJA Uses Identity](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
