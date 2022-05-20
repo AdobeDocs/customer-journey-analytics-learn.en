@@ -7,10 +7,9 @@ role: Developer, Admin
 level: Intermediate
 doc-type: feature video
 thumbnail: 29687.jpg
-kt: 
-
+kt: null
+exl-id: 74998f1c-c2d2-425f-b662-58781c825bee
 ---
-
 # Ingest, map, and transform Adobe Analytics data
 
 In this video, we demonstrate how to use data prep features for Analytics data, including data manipulation features such as mapping Analytics variables to new custom fields and performing transformations and calculations. These activities are done in the Source Connections workflow for Analytics in Experience Platform.
