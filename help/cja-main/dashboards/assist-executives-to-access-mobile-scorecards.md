@@ -21,4 +21,4 @@ For more information, please visit the [documentation](https://experienceleague.
 
 ## More help on this feature
 
-[Assist executives to access mobile scorecards](create-a-mobile-scorecard.md)
+[Create a mobile scorecard](create-a-mobile-scorecard.md)
