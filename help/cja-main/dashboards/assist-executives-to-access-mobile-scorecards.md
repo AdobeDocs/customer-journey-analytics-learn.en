@@ -1,6 +1,6 @@
 ---
 title: Assist executives to access mobile scorecards
-description: Executive users may need additional assistance to access and use the mobile app for Customer Journey Analytics mobile scorecards. This video provides information to help you provide that assistance. This is the second step to provide anytime access to key performance metrics and detailed views, or breakdowns, to your executives. Setting up a mobile scorecard in Customer Journey Analytics is the first step.
+description: Assist executives to access mobile scorecards created in Customer Journey Analytics using the Analytics dashboard mobile application.  Mobile scorecards provide anytime access to key performance metrics and detailed views, or breakdowns. 
 feature: Analytics Dashboards
 topic: Mobile
 role: User, Admin
@@ -13,7 +13,7 @@ kt: 10446
 
 # Assist executives to access mobile scorecards
 
-Executive users may need additional assistance to access and use the mobile app for [!DNL Customer Journey Analytics] mobile scorecards. This video provides information to help you provide that assistance. This is the second step to provide anytime access to key performance metrics and detailed views, or breakdowns, to your executives. Setting up a mobile scorecard in [!DNL Customer Journey Analytics] is the first step.
+Assist executives to access mobile scorecards created in [!DNL Customer Journey Analytics] using the [!DNL Analytics] dashboard mobile application.  Mobile scorecards provide anytime access to key performance metrics and detailed views, or breakdowns. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/343460/?quality=12&learn=on)
 
