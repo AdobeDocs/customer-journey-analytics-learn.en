@@ -7,7 +7,7 @@ role: Developer, Admin
 level: Intermediate
 doc-type: feature video
 thumbnail: 29687.jpg
-kt: null
+kt: 10421
 exl-id: 74998f1c-c2d2-425f-b662-58781c825bee
 ---
 # Ingest, map, and transform Adobe Analytics data
