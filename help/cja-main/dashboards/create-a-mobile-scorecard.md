@@ -13,7 +13,7 @@ kt: 10445
 
 # Create a mobile scorecard
 
-This video shows you how to create a mobile scorecard using the [!DNL Scorecard Builder] in [!DNL Customer Journey Analytics]. Provide anytime access to key performance metrics and detailed views, or breakdowns, to your executives. The [!DNL Scorecard Builder] provides an easy-to-use interface that helps you produce multi-channel dashboards using [!Customer Journey Analytics] data views.
+This video shows you how to create a mobile scorecard using the [!DNL Scorecard Builder] in [!DNL Customer Journey Analytics]. Provide anytime access to key performance metrics and detailed views, or breakdowns, to your executives. The [!DNL Scorecard Builder] provides an easy-to-use interface that helps you produce multi-channel dashboards using [!DNL Customer Journey Analytics] data views.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343458/?quality=12&learn=on)
 
