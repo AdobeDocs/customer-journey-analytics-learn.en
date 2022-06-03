@@ -17,7 +17,3 @@ Assist executives to access mobile scorecards created in [!DNL Customer Journey 
 >[!VIDEO](https://video.tv.adobe.com/v/343460/?quality=12&learn=on)
 
 For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/set-up-execs.html).
-
-## More help on this feature
-
-[Create a mobile scorecard](create-a-mobile-scorecard.md)

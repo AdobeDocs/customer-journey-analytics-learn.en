@@ -17,7 +17,3 @@ This video shows you how to create a mobile scorecard using the [!DNL Scorecard 
 >[!VIDEO](https://video.tv.adobe.com/v/343458/?quality=12&learn=on)
 
 For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/create-scorecard.html).
-
-## More help on this feature
-
-[Assist executives to access mobile scorecards](assist-executives-to-access-mobile-scorecards.md)

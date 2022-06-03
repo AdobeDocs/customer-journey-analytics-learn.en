@@ -19,4 +19,4 @@ This video will introduce you to [!UICONTROL filters] and the [!UICONTROL Filter
 
 >[!VIDEO](https://video.tv.adobe.com/v/32114/?quality=12)
 
-For more information about Customer Journey Analytics, visit the [documentation](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html).
+For more information about Customer Journey Analytics, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).
