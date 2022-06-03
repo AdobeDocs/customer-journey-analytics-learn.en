@@ -21,5 +21,5 @@ Customer Journey Analytics (CJA) gives you Analysis Workspace on top of [!UICONT
 
 ## Additional Resources
 
-* [Create Datasets and Ingest Data in Adobe Experience Platform - video](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html)
-* [Customer Journey Analytics Documentation](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html)
+* [Create Datasets and Ingest Data in Adobe Experience Platform - video](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/create-datasets-and-ingest-data.html)
+* [Customer Journey Analytics Documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html)
