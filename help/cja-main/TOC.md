@@ -29,6 +29,7 @@ type: Tutorial
   + [Configure component settings in data views](data-views/configuring-component-settings-in-data-views.md)
   + [Component type settings in data views](data-views/component-type-settings-in-data-views.md)
   + [Formatting metrics in data views](data-views/formatting-metrics-in-data-views.md)
+  + [Configure substring component settings](data-views/configure-substring-component-settings.md)
   + [Include or exclude metric values in data views](data-views/include-or-exclude-metric-values-in-data-views.md)
   + [Creating value buckets in data views for analysis](data-views/creating-value-buckets-in-data-views-for-analysis.md)
   + [Include or exclude dimension values in data views](data-views/include-or-exclude-dimension-values-in-data-views.md)
