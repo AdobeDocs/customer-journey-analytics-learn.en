@@ -7,9 +7,8 @@ level: Beginner
 doc-type: feature video
 thumbnail: 343526.jpg
 kt: 10451
-
+exl-id: 0728ed4c-9a38-4e8f-8b08-175c68c36ea6
 ---
-
 # Configure substring component settings
 
 Learn to use string manipulation methods to obtain the desired portion of dimension values in Customer Journey Analytics reports. Once applied, the data transformation happens retroactively and immediately.
