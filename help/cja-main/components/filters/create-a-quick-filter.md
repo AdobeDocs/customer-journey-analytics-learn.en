@@ -12,6 +12,6 @@ kt: 10452
 
 # Create a quick filter
 
-Create [!UI CONTROL quick filters] directly in your [!DNL Customer Journey Analytics] projects and bypass the complexity of the full [!UI CONTROL filter builder]. This gives you a convenient way to filter your component data based on simple criteria and see the results immediately. 
+Create [!UICONTROL quick filters] directly in your [!DNL Customer Journey Analytics] projects and bypass the complexity of the full [!UICONTROL filter builder]. This gives you a convenient way to filter your component data based on simple criteria and see the results immediately. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/343743/?quality=12&learn=on)
