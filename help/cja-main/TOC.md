@@ -42,8 +42,11 @@ type: Tutorial
 + Components {#components}
   + Filters (segmentation) {#filters}
     + [Introduction to filters](components/filters/introduction-to-filters-in-cja.md)
+    + [Create a quick filter](components/filters/create-a-quick-filter.md)
     + [Create cross-channel filters](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
     + [Move Adobe Analytics segments to Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+  + Annotations {#annotations}
+    + [Create an annotation](components/create-an-annotation.md)  
 + Dashboards (scorecards) {#dashboards}
     + [Create a mobile scorecard](dashboards/create-a-mobile-scorecard.md)
     + [Assist executives to access mobile scorecards](dashboards/assist-executives-to-access-mobile-scorecards.md)
