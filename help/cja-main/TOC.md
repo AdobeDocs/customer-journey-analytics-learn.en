@@ -45,7 +45,9 @@ type: Tutorial
     + [Create a quick filter](components/filters/create-a-quick-filter.md)
     + [Create cross-channel filters](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
     + [Move Adobe Analytics segments to Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
-  + Annotations {#annotations}
++ Panels (#panels)
+  + [Configure the next and previous item panel](panels/configure-next-previous-item-panel.md)
++ Annotations {#annotations}
     + [Create an annotation](components/create-an-annotation.md)  
 + Dashboards (scorecards) {#dashboards}
     + [Create a mobile scorecard](dashboards/create-a-mobile-scorecard.md)
