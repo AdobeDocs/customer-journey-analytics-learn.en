@@ -7,9 +7,8 @@ level: Beginner
 doc-type: feature video
 thumbnail: 344430.jpg
 kt: 10656
-
+exl-id: 51a86808-75b2-4bd7-80dd-d7c8ef3c8368
 ---
-
 # Configure the next and previous item panel
 
 Learn how to configure the next and previous item panel in [!DNL Customer Journey Analytics]. This panel generates tables and visualizations to identify the next or previous item for a specific dimension value.
