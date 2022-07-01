@@ -9,9 +9,9 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 3eb8a80c-955a-4a5d-a00e-daeabd69655b
 ---
-# Overview
+# Customer Journey Analytics tutorials
 
-Welcome to the [!DNL Customer Journey Analytics] Tutorials Site.  Using these tutorials along with the [documentation](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html) will give you a better understanding how to use Adobe Analytics to gain multi-channel customer insights faster than ever.  To get started,
+Welcome to the [!DNL Customer Journey Analytics] tutorials Site.  Using these tutorials along with the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html) will give you a better understanding how to use Adobe Analytics to gain multi-channel customer insights faster than ever.  To get started,
 
 * See the **"What's New"** section below for the latest goodies
 * **Staff Picks** highlights some of our favorite content 

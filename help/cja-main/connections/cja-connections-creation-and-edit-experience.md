@@ -7,8 +7,8 @@ role: Admin
 level: Beginner
 kt: 10439
 thumbnail: 343044.jpeg
+exl-id: e78d17ec-9d62-4ef5-a1b9-05604869c070
 ---
-
 # Connections creation and edit experience
 
 A new Connections experience with new capabilities that allow clients to enable rolling data retention window, enable and request backfill data based on events timestamp, and import existing data by dataset.

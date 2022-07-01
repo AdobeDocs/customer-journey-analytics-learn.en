@@ -20,4 +20,4 @@ In this video, find a walkthrough of the architecture of Customer Journey Analyt
 
 >[!VIDEO](https://video.tv.adobe.com/v/32483/?quality=12)
 
-For more information regarding Customer Journey Analytics, visit the [documentation](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html).
+For more information regarding Customer Journey Analytics, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).

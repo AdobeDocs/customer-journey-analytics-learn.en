@@ -19,4 +19,4 @@ Adobe Customer Journey Analytics (CJA) is an application service built on top of
 
 >[!VIDEO](https://video.tv.adobe.com/v/30090/?quality=12&enable10seconds=on&speedcontrol=on)
 
-For more information, visit the [documentation](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-landing.html).
+For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).
