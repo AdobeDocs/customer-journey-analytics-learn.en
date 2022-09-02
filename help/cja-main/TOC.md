@@ -45,6 +45,11 @@ type: Tutorial
     + [Create a quick filter](components/filters/create-a-quick-filter.md)
     + [Create cross-channel filters](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
     + [Move Adobe Analytics segments to Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+  + Calculated metrics {#calc-metrics}
+    + [Introduction to calculated metrics in Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
+    + [Move your calculated metrics from Adobe Analytics to Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
+  + Audiences {#audiences}
+    + [Audience publishing](components/audiences/audience-publishing-for-cja.md)
 + Panels {#panels}
   + [Configure the next and previous item panel](panels/configure-next-previous-item-panel.md)
 + Annotations {#annotations}
@@ -52,9 +57,6 @@ type: Tutorial
 + Dashboards (scorecards) {#dashboards}
     + [Create a mobile scorecard](dashboards/create-a-mobile-scorecard.md)
     + [Assist executives to access mobile scorecards](dashboards/assist-executives-to-access-mobile-scorecards.md)
-+ Calculated metrics {#calc-metrics}
-    + [Introduction to calculated metrics in Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
-    + [Move your calculated metrics from Adobe Analytics to Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
 + Exporting {#exporting}
   + Report Builder {#report-builder}
     + [Report Builder for Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
