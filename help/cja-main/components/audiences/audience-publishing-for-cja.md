@@ -7,6 +7,7 @@ role: User
 level: Beginner
 kt: 11024
 thumbnail: 346759.jpeg
+last-substantial-update: 2022-08-29
 ---
 
 # Audience Publishing for Customer Journey Analytics

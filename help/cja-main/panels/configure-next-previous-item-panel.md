@@ -7,6 +7,7 @@ level: Beginner
 doc-type: feature video
 thumbnail: 344430.jpg
 kt: 10656
+last-substantial-update: 2022-06-28
 exl-id: 51a86808-75b2-4bd7-80dd-d7c8ef3c8368
 ---
 # Configure the next and previous item panel

@@ -7,6 +7,7 @@ level: Beginner
 doc-type: feature video
 thumbnail: 343743.jpg
 kt: 10452
+last-substantial-update: 2022-06-10
 exl-id: 0982261b-92da-48b0-a0b4-9bd24a083631
 ---
 # Create a quick filter
