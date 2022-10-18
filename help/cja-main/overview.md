@@ -35,11 +35,16 @@ Customer Journey Analytics lets you control how you connect your online and offl
 * **[Create Cross-Channel Filters (Video)](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
 
     *Create filters in Customer Journey Analytics that utilize more than one data source, and more than one channel*
-
 </div>
 
-<div id="staff-picks-section">
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 
+<div id="staff-picks-section">
 ## Staff Picks
 
 <table>
