@@ -45,6 +45,7 @@ Customer Journey Analytics lets you control how you connect your online and offl
 <div id="recs-overview-body-6"></div>
 
 <div id="staff-picks-section">
+   
 ## Staff Picks
 
 <table>
