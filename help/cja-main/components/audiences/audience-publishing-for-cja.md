@@ -1,6 +1,6 @@
 ---
 title: Audience publishing for Customer Journey Analytics
-description: Customer Journey Analytics allows you to publish audiences you discover from your analysis to the Adobe Experience Platform Real-Time Customer Profile for segment activation using Adobe Real-Time Customer Data Platform, or for more personalized journey orchestration using Adobe Journey Optimizer. (Should be between 60 and 160 characters, but is 297 characters)
+description: Learn how to publish audiences from Customer Journey Analytics to the Adobe Experience Platform Real-Time Customer Profile for segment activation or for more personalized journey orchestration.
 feature: Components
 topic: Integrations
 role: User
@@ -12,7 +12,7 @@ last-substantial-update: 2022-08-29
 
 # Audience Publishing for Customer Journey Analytics
 
-Customer Journey Analytics allows you to publish audiences you discover from your analysis to the Adobe Experience Platform Real-Time Customer Profile for segment activation using Adobe Real-Time Customer Data Platform, or for more personalized journey orchestration using Adobe Journey Optimizer.
+Learn how to publish audiences from Customer Journey Analytics to the Adobe Experience Platform Real-Time Customer Profile for segment activation or for more personalized journey orchestration.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346759/?quality=12&learn=on)
 
