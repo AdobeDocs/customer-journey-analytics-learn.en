@@ -52,6 +52,7 @@ type: Tutorial
     + [Audience publishing](components/audiences/audience-publishing-for-cja.md)
 + Panels {#panels}
   + [Configure the next and previous item panel](panels/configure-next-previous-item-panel.md)
+  + [Use the experimentation panel](panels/use-the-experimentation-panel.md)
 + Annotations {#annotations}
     + [Create an annotation](components/create-an-annotation.md)  
 + Dashboards (scorecards) {#dashboards}
