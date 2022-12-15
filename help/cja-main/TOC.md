@@ -61,6 +61,10 @@ type: Tutorial
 + Exporting {#exporting}
   + Report Builder {#report-builder}
     + [Report Builder for Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
++ Use cases {#use-cases}
+  + Data views use cases {#data-views-use-cases}
+    + [First-time and returning sessions reporting](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
+    + [Leverage date field support](use-cases/data-views-use-cases/leverage-date-field-support.md)
 + Blueprints {#blueprints}
   + [Customer Journey Analytics blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
   + [Digital behavioral data consolidation scenario](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
