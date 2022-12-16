@@ -8,8 +8,8 @@ doc-type: Feature Video
 last-substantial-update: 2022-12-15
 kt: 11621
 thumbnail: 3412322.jpg
+exl-id: 3055e4f0-a073-4e5c-a390-83bbf87e57c2
 ---
-
 # Leverage date field support
 
 Date field support adds the ability to work with date and date-time fields within Customer Journey Analytics. You can select how the date or date-time field is displayed as well as use date-specific logical operators in the include/exclude functionality to filter what is displayed.

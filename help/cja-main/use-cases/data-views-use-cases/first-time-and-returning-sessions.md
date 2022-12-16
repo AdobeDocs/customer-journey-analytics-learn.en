@@ -8,8 +8,8 @@ doc-type: Feature Video
 last-substantial-update: 2022-12-15
 kt: 11620
 thumbnail: 3412321.jpg
+exl-id: fe7c73c1-3a47-4249-aa2d-eb32248df427
 ---
-
 # First-time and returning sessions
 
 First-time and returning sessions functionality provides the ability to distinguish between first-time and returning sessions for your users. This is accomplished through a 13-month look-back applied to your report.
