@@ -61,7 +61,7 @@ type: Tutorial
 + Exporting {#exporting}
   + Report Builder {#report-builder}
     + [Report Builder for Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
-    + [Scheduling Report Builder for CJA data](exporting/report-builder/scheduling-report-builder-for-cja-data.md)
+    + [Schedule Customer Journey Analytics workbooks using Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
 + Blueprints {#blueprints}
   + [Customer Journey Analytics blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
   + [Digital behavioral data consolidation scenario](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
