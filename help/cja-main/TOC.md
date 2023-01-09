@@ -61,6 +61,7 @@ type: Tutorial
 + Exporting {#exporting}
   + Report Builder {#report-builder}
     + [Report Builder for Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
+    + [Schedule Customer Journey Analytics workbooks using Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
 + Use cases {#use-cases}
   + Data views use cases {#data-views-use-cases}
     + [First-time and returning sessions reporting](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
