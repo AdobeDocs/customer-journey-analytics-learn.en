@@ -17,9 +17,8 @@ type: Tutorial
   + [Working with data](data-prep/working-with-data-in-cja.md)
   + [Ingest, map and transform Adobe Analytics data](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
 + Connections {#connections}
-  + [Connect to data sources in Platform](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
-  + [Connections details experience in CJA](connections/connections-details-experience-in-cja.md)
-  + [Connections creation and edit experience](connections/cja-connections-creation-and-edit-experience.md)
+  + [Connect to Experience Platform data sources](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
+  + [View, troubleshoot, and modify connection settings](connections/connections-details-experience-in-cja.md)
   + [Add past data to an existing connection](connections/add-past-data-to-an-existing-connection-in-cja.md)
 + Visitor identification {#visitor-id}
   + [Understanding how CJA uses identity](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
