@@ -12,7 +12,7 @@ kt: 3965
 last-substantial-update: 2023-03-17
 exl-id: c8f0b90d-d31f-4702-a838-70ab78b690c0
 ---
-# Add new data to a connection [!UICONTROL Connection] in Customer Journey Analytics
+# Add new data to a connection in Customer Journey Analytics
 
 Get more value out of your analysis by adding new data from other channels to a Customer Journey Analytics connection. Moreover, understand the requirements for merging this new data, and the impacts to analysis and reports that are addressed using configuration settings. 
 
