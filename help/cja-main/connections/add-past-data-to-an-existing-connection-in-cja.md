@@ -18,9 +18,4 @@ Get more value out of your analysis by adding new data from other channels to a 
 
 >[!VIDEO](https://video.tv.adobe.com/v/32549/?learn=on&quality=12)
 
-## Related videos and documentation:
-
-[Connect Customer Journey Analytics to data sources](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections/connecting-customer-journey-analytics-to-data-sources-in-platform.html)
-[Overview for configuring data views](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/overview-of-configuring-data-views-for-cja.html)
-[Understand how Customer Journey Analytics uses identity](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/visitor-id/understanding-how-customer-journey-analytics-uses-identity.html)
-[Cross-channel Analytics](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html)
+For more information about Cross-Channel Analytics, review the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html).
