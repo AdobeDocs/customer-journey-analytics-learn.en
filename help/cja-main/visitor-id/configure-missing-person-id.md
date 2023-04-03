@@ -13,7 +13,7 @@ level: Beginner
 last-substantial-update: 2023-04-03
 
 ---
-# Configure a missing Person ID in [!UI Control Customer Journey Analytics]
+# Configure a missing Person ID in Customer Journey Analytics
 
 How do you address a dataset that doesn't have an available Person ID to configure in a Customer Journey Analytics connection? To see how it's done, watch this video.
 
