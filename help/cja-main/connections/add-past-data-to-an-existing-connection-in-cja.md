@@ -16,6 +16,6 @@ exl-id: c8f0b90d-d31f-4702-a838-70ab78b690c0
 
 Get more value out of your analysis by adding new data from other channels to a Customer Journey Analytics connection. Moreover, understand the requirements for merging this new data, and the impacts to analysis and reports that are addressed using configuration settings. 
 
->[!VIDEO](https://video.tv.adobe.com/v/32549/?learn=on&quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32549/?learn=on&quality=12&learn=on)
 
 For more information about Cross-Channel Analytics, review the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html).

@@ -17,6 +17,6 @@ exl-id: a44b1f31-005e-4f44-b941-60e44aeea605
 
 In this video, we'll walk through the basics of creating [!UICONTROL Calculated Metrics] in Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/31787/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31787/?quality=12&learn=on)
 
 For more information about Customer Journey Analytics, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).

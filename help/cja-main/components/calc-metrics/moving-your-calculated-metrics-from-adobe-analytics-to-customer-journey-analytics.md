@@ -18,6 +18,6 @@ exl-id: 52ff7388-6463-47fa-aec9-ab9531cd105f
 
 In this video, find tips for re-creating your Adobe Analytics [!UICONTROL Calculated Metrics] in Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/31788/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31788/?quality=12&learn=on)
 
 For more information about Customer Journey Analytics, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).

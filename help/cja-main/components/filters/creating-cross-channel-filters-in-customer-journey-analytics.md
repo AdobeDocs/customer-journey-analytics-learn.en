@@ -17,6 +17,6 @@ exl-id: 6af79964-b56a-4bc8-9b2f-b2a64ec0edef
 
 In this video we discuss how to create [!UICONTROL filters] in Customer Journey Analytics that utilize more than one data source, and more than one channel. You will also see how these [!UICONTROL filters] can be combined in [!UICONTROL visualizations].
 
->[!VIDEO](https://video.tv.adobe.com/v/31983/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31983/?quality=12&learn=on)
 
 For more information about Customer Journey Analytics, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).

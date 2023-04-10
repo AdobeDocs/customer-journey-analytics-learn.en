@@ -17,6 +17,6 @@ exl-id: 077bed60-9aa2-47f9-af66-2f99453d64fb
 
 In this video, discover how Customer Journey Analytics allows you to create [!UICONTROL visualizations] that include data from multiple [!UICONTROL datasets] across multiple channels, including merging the data per [!UICONTROL visitor].
 
->[!VIDEO](https://video.tv.adobe.com/v/31771/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31771/?quality=12&learn=on)
 
 For more information about Customer Journey Analytics, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).

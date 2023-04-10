@@ -17,6 +17,6 @@ exl-id: 5562f818-0c5f-4421-b715-ca083b81a00c
 
 In this video, you will learn how [!UICONTROL dataset] [!UICONTROL schemas] are translated into variables in Customer Journey Analytics (CJA), as well as how CJA handles very high cardinality.
 
->[!VIDEO](https://video.tv.adobe.com/v/32112/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32112/?quality=12&learn=on)
 
 For more information about Customer Journey Analytics, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).
