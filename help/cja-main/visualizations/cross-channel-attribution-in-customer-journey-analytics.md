@@ -17,6 +17,6 @@ exl-id: 0c43da6a-f809-49b1-8488-030ce70cd2d1
 
 In this video, we will show how you can use [!UICONTROL visualizations] to show [!UICONTROL attribution] (give credit) across channels in Customer Journey Analytics.
 
->[!VIDEO](https://video.tv.adobe.com/v/31772/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31772/?quality=12&learn=on)
 
 For more information about Customer Journey Analytics, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).
