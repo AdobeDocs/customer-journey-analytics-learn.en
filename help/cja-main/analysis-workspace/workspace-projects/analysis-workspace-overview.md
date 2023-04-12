@@ -9,7 +9,7 @@ team: Technical Marketing
 thumbnail: 3418008.jpg
 kt: 13008
 last-substantial-update: 2023-04-10
-
+exl-id: a1b37000-b31f-4704-83e0-af0b3e8a7c25
 ---
 # [!DNL Analysis Workspace] overview
 
