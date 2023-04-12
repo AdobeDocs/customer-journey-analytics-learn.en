@@ -11,7 +11,7 @@ kt: 13007
 role: User
 level: Beginner
 last-substantial-update: 2023-04-03
-
+exl-id: 0432241b-da61-430b-a4d3-0822d8f994c6
 ---
 # Configure a missing Person ID in Customer Journey Analytics
 
