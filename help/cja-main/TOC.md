@@ -39,6 +39,7 @@ type: Tutorial
 +   Analysis Workspace {#analysis-workspace}
     +   Workspace project {#workspace-projects}
         + [Analysis Workspace overview](analysis-workspace/workspace-projects/analysis-workspace-overview.md)  
+        + [Build a new project](analysis-workspace/workspace-projects/build-a-new-project.md)
 +   Visualizations {#visualizations}
     + [Create cross-channel visualizations](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
     + [Cross-channel attribution](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
@@ -74,3 +75,6 @@ type: Tutorial
     + [Digital behavioral data consolidation scenario](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
     + [Call deflection journey analysis scenario](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=en#customer-journey-analytics)
 
+
+
+[def]: analysis-workspace/workspace-projects/build-a-new-project.md
