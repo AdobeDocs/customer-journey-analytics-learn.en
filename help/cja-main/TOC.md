@@ -49,6 +49,7 @@ type: Tutorial
         + [Introduction to filters](components/filters/introduction-to-filters-in-cja.md)
         + [Create a quick filter](components/filters/create-a-quick-filter.md)
         + [Create cross-channel filters](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
+        + [Use filters as dimensions](components/filters/use-filters-as-dimensions.md)
         + [Move Adobe Analytics segments to Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
     +   Calculated metrics {#calc-metrics}
         + [Introduction to calculated metrics in Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
