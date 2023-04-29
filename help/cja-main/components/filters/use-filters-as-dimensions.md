@@ -9,7 +9,7 @@ level: Beginner
 thumbnail: 3419024.jpg
 kt: 13151
 last-substantial-update: 2023-04-28
-
+exl-id: 5739ad15-18cb-42c7-b219-041696e0833d
 ---
 # Use [!DNL filters] as dimensions in Analysis Workspace
 
