@@ -46,7 +46,7 @@ type: Tutorial
     + [Cross-channel attribution](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
 +   Components {#components}
     +   Filters (segmentation) {#filters}
-        + [Introduction to filters](components/filters/introduction-to-filters-in-cja.md)
+        + [Filters overview](components/filters/introduction-to-filters-in-cja.md)
         + [Create a quick filter](components/filters/create-a-quick-filter.md)
         + [Create cross-channel filters](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
         + [Use filters as dimensions](components/filters/use-filters-as-dimensions.md)
