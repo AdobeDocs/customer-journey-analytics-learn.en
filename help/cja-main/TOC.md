@@ -16,7 +16,7 @@ type: Tutorial
     + [Architecture and integrations](architecture/architecture-and-integrations-of-cja.md)
 +   Data prep and planning {#data-prep}
     + [Working with data](data-prep/working-with-data-in-cja.md)
-    + [Ingest, map and transform Adobe Analytics data](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
+    + [Ingest, map, and transform Adobe Analytics data](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
 +   Connections {#connections}
     + [Connect to Experience Platform data sources](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
     + [View, troubleshoot, and modify connection settings](connections/connections-details-experience-in-cja.md)
@@ -38,7 +38,7 @@ type: Tutorial
     + [Configure no value options in data views](data-views/configure-no-value-options-in-data-views.md)
     + [Attribution settings in data views](data-views/attribution-settings-in-data-views.md)
 +   Analysis Workspace {#analysis-workspace}
-    +   Workspace project {#workspace-projects}
+    +   Workspace projects {#workspace-projects}
         + [Analysis Workspace overview](analysis-workspace/workspace-projects/analysis-workspace-overview.md)  
         + [Build a new project](analysis-workspace/workspace-projects/build-a-new-project.md)
 +   Visualizations {#visualizations}
@@ -56,6 +56,8 @@ type: Tutorial
         + [Move your calculated metrics from Adobe Analytics to Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
     +   Audiences {#audiences}
         + [Audience publishing](components/audiences/audience-publishing-for-cja.md)
+    +   Data Dictionary {#data-dictionary}
+        + [Use Data Dictionary](components/data%20dictionary/use-data-dictionary.md)
 +   Panels {#panels}
     + [Configure the next and previous item panel](panels/configure-next-previous-item-panel.md)
     + [Use the experimentation panel](panels/use-the-experimentation-panel.md)
@@ -71,11 +73,11 @@ type: Tutorial
 +   Use cases {#use-cases}
     +   Data views use cases {#data-views-use-cases}
         + [First-time and returning sessions reporting](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
-        + [Leverage date field support](use-cases/data-views-use-cases/leverage-date-field-support.md)
+        + [Use date field support](use-cases/data-views-use-cases/leverage-date-field-support.md)
 +   Blueprints {#blueprints}
     + [Customer Journey Analytics blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
-    + [Digital behavioral data consolidation scenario](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/digital-behavioral-data-consolidation.html)
-    + [Call deflection journey analysis scenario](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/call-deflect.html?lang=en#customer-journey-analytics)
+    + [Digital behavioral data consolidation scenario](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel.html)
+    + [Call deflection journey analysis scenario](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/call-center.html?lang=en)
 
 
 
