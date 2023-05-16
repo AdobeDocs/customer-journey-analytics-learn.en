@@ -57,7 +57,7 @@ type: Tutorial
     +   Audiences {#audiences}
         + [Audience publishing](components/audiences/audience-publishing-for-cja.md)
     +   Data Dictionary {#data-dictionary}
-        + [Use Data Dictionary](components/data%20dictionary/use-data-dictionary.md)
+        + [Use Data Dictionary](components/data-dictionary/use-data-dictionary.md)
 +   Panels {#panels}
     + [Configure the next and previous item panel](panels/configure-next-previous-item-panel.md)
     + [Use the experimentation panel](panels/use-the-experimentation-panel.md)
@@ -79,6 +79,3 @@ type: Tutorial
     + [Digital behavioral data consolidation scenario](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel.html)
     + [Call deflection journey analysis scenario](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/call-center.html?lang=en)
 
-
-
-[def]: analysis-workspace/workspace-projects/build-a-new-project.md
