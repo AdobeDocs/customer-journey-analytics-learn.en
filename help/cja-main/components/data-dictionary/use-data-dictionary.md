@@ -1,7 +1,6 @@
 ---
 title: Use the data dictionary
 description: Learn about the Data Dictionary in Analysis Workspace for Customer Journey Analytics. This feature helps users and administrators track and understand the components used in projects. 
-feature: components
 topic: Administration
 doc-type: feature video
 thumbnail: 3418028.jpg
