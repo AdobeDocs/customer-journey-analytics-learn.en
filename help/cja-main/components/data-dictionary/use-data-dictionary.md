@@ -8,6 +8,7 @@ kt: 13271
 role: Admin, User
 level: Beginner
 last-substantial-update: 2023-05-16
+exl-id: 11ef0108-9bf9-42dc-83b2-056daf46622c
 ---
 # Use the Data Dictionary
 
