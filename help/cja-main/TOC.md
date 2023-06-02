@@ -44,6 +44,7 @@ type: Tutorial
 +   Visualizations {#visualizations}
     + [Create cross-channel visualizations](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
     + [Cross-channel attribution](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
+    + [Intelligent captions](visualizations/intelligent-captions.md)
 +   Components {#components}
     +   Filters (segmentation) {#filters}
         + [Filters overview](components/filters/introduction-to-filters-in-cja.md)
