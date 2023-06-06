@@ -41,6 +41,8 @@ type: Tutorial
     +   Workspace projects {#workspace-projects}
         + [Analysis Workspace overview](analysis-workspace/workspace-projects/analysis-workspace-overview.md)  
         + [Build a new project](analysis-workspace/workspace-projects/build-a-new-project.md)
+    +   Curate and share {#curate-and-share}
+        + [Share with anyone in Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
 +   Visualizations {#visualizations}
     + [Create cross-channel visualizations](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
     + [Cross-channel attribution](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
