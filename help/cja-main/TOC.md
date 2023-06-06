@@ -29,6 +29,7 @@ type: Tutorial
     + [Basic configuration for data views](data-views/basic-configuration-for-data-views.md)
     + [Configure component settings in data views](data-views/configuring-component-settings-in-data-views.md)
     + [Component type settings in data views](data-views/component-type-settings-in-data-views.md)
+    + [Derived fields](data-views/derived-fields-in-cja.md)
     + [Formatting metrics in data views](data-views/formatting-metrics-in-data-views.md)
     + [Configure substring component settings](data-views/configure-substring-component-settings.md)
     + [Include or exclude metric values in data views](data-views/include-or-exclude-metric-values-in-data-views.md)
