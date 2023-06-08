@@ -46,7 +46,7 @@ type: Tutorial
         + [Configure the next and previous item panel](analysis-workspace/panels/configure-next-previous-item-panel.md)
         + [Use the experimentation panel](analysis-workspace/panels/use-the-experimentation-panel.md)
     +   Visualizations {#visualizations}
-        + [Create cross-channel visualizations](analysis-workspace/analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
+        + [Create cross-channel visualizations](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
         + [Cross-channel attribution](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
         + [Create intelligent captions](analysis-workspace/visualizations/intelligent-captions.md)
         + [Add area visualizations](analysis-workspace/visualizations/add-area-visualizations.md)
