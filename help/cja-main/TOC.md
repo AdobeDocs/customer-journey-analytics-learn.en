@@ -65,7 +65,7 @@ type: Tutorial
     +   Curate and share {#curate-and-share}
         + [Share with anyone in Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
     +   Tips and tricks {#tips-and-tricks}
-        + [Dynamic Drop-downs](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
+        + [Create dynamic drop-down filters](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Components {#components}
     +   Filters (segmentation) {#filters}
         + [Filters overview](components/filters/introduction-to-filters-in-cja.md)
