@@ -1,5 +1,5 @@
 ---
-title: Intelligent captions
+title: Create intelligent captions
 description: Learn how to enable intelligent captions in your visualizations so that you can get natural language insights automatically created for you about your data.
 feature: Visualizations
 role: User
@@ -10,7 +10,7 @@ jira: KT-13383
 thumbnail: 3420131.jpeg
 ---
 
-# Intelligent captions
+# Create intelligent captions
 
 Learn how to enable intelligent captions in your visualizations so that you can get natural language insights automatically created for you about your data.
 

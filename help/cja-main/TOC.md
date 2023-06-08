@@ -47,8 +47,19 @@ type: Tutorial
 +   Visualizations {#visualizations}
     + [Create cross-channel visualizations](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
     + [Cross-channel attribution](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
-    + [Intelligent captions](visualizations/intelligent-captions.md)
-+   Components {#components}
+    + [Create intelligent captions](visualizations/intelligent-captions.md)
+    + [Add area visualizations](visualizations/add-area-visualizations.md)
+    + [Add bar visualizations](visualizations/add-bar-visualizations.md)
+    + [Add bullet graph visualizations](visualizations/add-bullet-graph-visualizations.md)
+    + [Add donut visualizations](visualizations/add-donut-visualizations.md)
+    + [Add line visualizations](visualizations/add-line-visualizations.md)
+    + [Use the map visualization](visualizations/use-map-visualization.md)
+    + [Use summary visualizations](visualizations/use-summary-visualizations.md)
+    + [Add text visualizations](visualizations/add-text-visualizations.md)
+    + [Use the scatterplot visualization](visualizations/use-scatterplot-visualizations.md)
+    + [Add the tree map visualization](visualizations/add-treemap-visualizations.md)
+    + [Create fully stacked visualizations](visualizations/create-stacked-visualizations.md)
++ Components {#components}
     +   Filters (segmentation) {#filters}
         + [Filters overview](components/filters/introduction-to-filters-in-cja.md)
         + [Create a quick filter](components/filters/create-a-quick-filter.md)
@@ -69,7 +80,7 @@ type: Tutorial
     + [Create an annotation](components/create-an-annotation.md)  
 +   Dashboards (scorecards) {#dashboards}
     + [Create a mobile scorecard](dashboards/create-a-mobile-scorecard.md)
-    + [Assist executives to access mobile scorecards](dashboards/assist-executives-to-access-mobile-scorecards.md)
+    + [Assist executives with mobile scorecard access](dashboards/assist-executives-to-access-mobile-scorecards.md)
 +   Exporting {#exporting}
     +   Report Builder {#report-builder}
         + [Report Builder for Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
@@ -80,6 +91,6 @@ type: Tutorial
         + [Use date field support](use-cases/data-views-use-cases/leverage-date-field-support.md)
 +   Blueprints {#blueprints}
     + [Customer Journey Analytics blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
-    + [Digital behavioral data consolidation scenario](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel.html)
-    + [Call deflection journey analysis scenario](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/call-center.html?lang=en)
+    + [Digital behavioral data consolidation scenario](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html)
+    + [Call deflection journey analysis scenario](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html)
 
