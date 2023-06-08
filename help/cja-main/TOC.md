@@ -42,23 +42,30 @@ type: Tutorial
     +   Workspace projects {#workspace-projects}
         + [Analysis Workspace overview](analysis-workspace/workspace-projects/analysis-workspace-overview.md)  
         + [Build a new project](analysis-workspace/workspace-projects/build-a-new-project.md)
+    +   Panels {#panels}
+        + [Configure the next and previous item panel](panels/configure-next-previous-item-panel.md)
+        + [Use the experimentation panel](panels/use-the-experimentation-panel.md)
+    +   Visualizations {#visualizations}
+        + [Create cross-channel visualizations](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
+        + [Cross-channel attribution](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
+        + [Create intelligent captions](visualizations/intelligent-captions.md)
+        + [Add area visualizations](visualizations/add-area-visualizations.md)
+        + [Add bar visualizations](visualizations/add-bar-visualizations.md)
+        + [Add bullet graph visualizations](visualizations/add-bullet-graph-visualizations.md)
+        + [Add donut visualizations](visualizations/add-donut-visualizations.md)
+        + [Add line visualizations](visualizations/add-line-visualizations.md)
+        + [Use the map visualization](visualizations/use-map-visualization.md)
+        + [Use summary visualizations](visualizations/use-summary-visualizations.md)
+        + [Add text visualizations](visualizations/add-text-visualizations.md)
+        + [Use the scatterplot visualization](visualizations/use-scatterplot-visualizations.md)
+        + [Add the tree map visualization](visualizations/add-treemap-visualizations.md)
+        + [Create fully stacked visualizations](visualizations/create-stacked-visualizations.md)
+    +   Annotations {#annotations}
+        + [Create an annotation](components/create-an-annotation.md)
     +   Curate and share {#curate-and-share}
         + [Share with anyone in Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
-+   Visualizations {#visualizations}
-    + [Create cross-channel visualizations](visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
-    + [Cross-channel attribution](visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
-    + [Create intelligent captions](visualizations/intelligent-captions.md)
-    + [Add area visualizations](visualizations/add-area-visualizations.md)
-    + [Add bar visualizations](visualizations/add-bar-visualizations.md)
-    + [Add bullet graph visualizations](visualizations/add-bullet-graph-visualizations.md)
-    + [Add donut visualizations](visualizations/add-donut-visualizations.md)
-    + [Add line visualizations](visualizations/add-line-visualizations.md)
-    + [Use the map visualization](visualizations/use-map-visualization.md)
-    + [Use summary visualizations](visualizations/use-summary-visualizations.md)
-    + [Add text visualizations](visualizations/add-text-visualizations.md)
-    + [Use the scatterplot visualization](visualizations/use-scatterplot-visualizations.md)
-    + [Add the tree map visualization](visualizations/add-treemap-visualizations.md)
-    + [Create fully stacked visualizations](visualizations/create-stacked-visualizations.md)
+    +   Tips and tricks {#tips-and-tricks}
+        + [Dynamic Drop-downs](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Components {#components}
     +   Filters (segmentation) {#filters}
         + [Filters overview](components/filters/introduction-to-filters-in-cja.md)
@@ -72,12 +79,7 @@ type: Tutorial
     +   Audiences {#audiences}
         + [Audience publishing](components/audiences/audience-publishing-for-cja.md)
     +   Data Dictionary {#data-dictionary}
-        + [Use Data Dictionary](components/data-dictionary/use-data-dictionary.md)
-+   Panels {#panels}
-    + [Configure the next and previous item panel](panels/configure-next-previous-item-panel.md)
-    + [Use the experimentation panel](panels/use-the-experimentation-panel.md)
-+   Annotations {#annotations}
-    + [Create an annotation](components/create-an-annotation.md)  
+        + [Use Data Dictionary](components/data-dictionary/use-data-dictionary.md)  
 +   Dashboards (scorecards) {#dashboards}
     + [Create a mobile scorecard](dashboards/create-a-mobile-scorecard.md)
     + [Assist executives with mobile scorecard access](dashboards/assist-executives-to-access-mobile-scorecards.md)
