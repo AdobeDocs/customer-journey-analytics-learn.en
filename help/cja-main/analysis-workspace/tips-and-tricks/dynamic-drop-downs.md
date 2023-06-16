@@ -8,8 +8,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-06-08
 jira: KT-13460
 thumbnail: 3420315.jpeg
+exl-id: 18d3ae92-9bb3-477a-924c-a5aa49a46599
 ---
-
 # Create dynamic drop-down filters in Analysis Workspace
 
 Learn how to create drop-down filters based on an entire dimension. Dimension items dynamically update based on the date range used in the report panel and values selected in other drop-down filters in the same panel.

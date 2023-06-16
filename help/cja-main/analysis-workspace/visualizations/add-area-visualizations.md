@@ -9,6 +9,7 @@ kt: 13491
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07
+exl-id: 35d59883-e355-4fcf-ab32-380c6ae6e05c
 ---
 # Add [!UICONTROL area visualizations] to [!DNL Analysis Workspace] projects in [!DNL Customer Journey Analytics]
 

@@ -8,8 +8,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-06-02
 jira: KT-13383
 thumbnail: 3420131.jpeg
+exl-id: 66b3fd42-5849-4203-bc7b-4abae5939b13
 ---
-
 # Create intelligent captions
 
 Learn how to enable intelligent captions in your visualizations so that you can get natural language insights automatically created for you about your data.

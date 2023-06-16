@@ -9,6 +9,7 @@ kt: 13407
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07
+exl-id: 063031c4-c7c8-41d8-9082-ae3c417cf6fb
 ---
 # Use [!UICONTROL map] visualizations in [!DNL Analysis Workspace] projects in [!DNL Customer Journey Analytics]
 

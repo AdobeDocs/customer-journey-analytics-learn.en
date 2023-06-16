@@ -9,6 +9,7 @@ kt: 13432
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07
+exl-id: 54c5aa1d-d4d2-466a-ae89-d08b75be054e
 ---
 # Add the [!UICONTROL tree map] visualization to [!DNL Analysis Workspace] projects in [!DNL Customer Journey Analytics]
 

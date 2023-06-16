@@ -9,6 +9,7 @@ kt: 13428
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07
+exl-id: 7510927d-d265-4e7a-9dae-f022d26872c3
 ---
 # Use [!UICONTROL scatterplot] visualizations in [!DNL Analysis Workspace] projects in [!DNL Customer Journey Analytics]
 
