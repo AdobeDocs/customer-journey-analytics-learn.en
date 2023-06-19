@@ -17,6 +17,7 @@ type: Tutorial
 +   Data prep and planning {#data-prep}
     + [Working with data](data-prep/working-with-data-in-cja.md)
     + [Ingest, map, and transform Adobe Analytics data](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
+    + [Ingest and use Adobe Analytics classifications data](data-prep/ingest-and-use-analytics-classifications.md)
 +   Connections {#connections}
     + [Connect to Experience Platform data sources](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
     + [View, troubleshoot, and modify connection settings](connections/connections-details-experience-in-cja.md)
@@ -95,4 +96,3 @@ type: Tutorial
     + [Customer Journey Analytics blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
     + [Digital behavioral data consolidation scenario](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html)
     + [Call deflection journey analysis scenario](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html)
-
