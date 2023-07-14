@@ -27,4 +27,4 @@ Using Adobe Product Analytics, teams can:
 
 Adobe Product Analytics is a paid add-on to Customer Journey Analytics. If your organization would like to be provisioned to use this feature, contact your Adobe Account Team.
 
-For  more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/overview.html).
+For  additional information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/overview.html).
