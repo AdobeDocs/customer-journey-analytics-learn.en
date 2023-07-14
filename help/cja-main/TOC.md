@@ -67,8 +67,8 @@ type: Tutorial
         + [Share with anyone in Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
     +   Tips and tricks {#tips-and-tricks}
         + [Create dynamic drop-down filters](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
-+ Guided analysis {#guided-analysis}
-    + [Adobe Product Analytics overview](guided-analysis/adobe-product-analytics-overview.md)
++ Adobe Product Analytics {#adobe-product-analytics}
+    + [Adobe Product Analytics overview](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Components {#components}
     +   Filters (segmentation) {#filters}
         + [Filters overview](components/filters/introduction-to-filters-in-cja.md)
