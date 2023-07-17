@@ -12,7 +12,7 @@ thumbnail: 3421667.jpeg
 
 # Active user growth analysis
 
-Learn how the Active view in Adobe Product Analytics provides insights around the growth of users over a specific period, split by new, repeat, return, and dormant users.
+Learn how the **active view** in Adobe Product Analytics provides insights around the growth of users over a specific period, split by new, repeat, return, and dormant users.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421667/?learn=on)
 

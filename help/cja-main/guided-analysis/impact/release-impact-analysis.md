@@ -12,7 +12,7 @@ thumbnail: 3421665.jpeg
 
 # Release impact analysis
 
-Learn how to use the release view in Adobe Product Analytics, which shows a comparison of how key indicators performed before and after a given date.
+Learn how to use the **release view** in Adobe Product Analytics, which shows a comparison of how key indicators performed before and after a given date.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421665/?learn=on)
 
