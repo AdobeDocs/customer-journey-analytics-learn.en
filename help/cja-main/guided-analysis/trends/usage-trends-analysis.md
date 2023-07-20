@@ -12,7 +12,7 @@ thumbnail: 3421666.jpeg
 
 # Usage trends analysis
 
-Learn how to use the **usage view** in Adobe Product Analytics, which provides valuable insight around the performance of your product or user engagement over time.
+Learn how to use the **usage view** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md), which provides valuable insight around the performance of your product or user engagement over time.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421666/?learn=on)
 

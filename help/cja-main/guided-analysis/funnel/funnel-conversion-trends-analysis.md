@@ -12,7 +12,7 @@ thumbnail: 3421662.jpeg
 
 # Funnel conversion trends analysis
 
-Learn how to use the **conversion trends view** in Adobe Product Analytics, which tracks changes in funnel conversion rates over time.
+Learn how to use the **conversion trends view** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md), which tracks changes in funnel conversion rates over time.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421662/?learn=on)
 
