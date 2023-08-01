@@ -1,7 +1,7 @@
 ---
 title: Customer Journey Analytics landing page
 description: The landing page for Customer Journey Analytics features a default view of your projects and mobile scorecards and a learning section to help you get started more effectively.
-feature: CJA Basics
+feature: Basics
 role: User
 level: Beginner
 doc-type: feature video

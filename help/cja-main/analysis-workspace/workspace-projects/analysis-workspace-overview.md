@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace overview
 description: Analysis Workspace is a flexible, freeform analysis environment used to explore and visualize data from Experience Platform.
-feature: CJA Workspace Basics
+feature: Workspace Basics
 doc-type: feature video
 role: User
 level: Beginner

@@ -1,7 +1,7 @@
 ---
 title: What is Customer Journey Analytics?
 description: Customer Journey Analytics (CJA) allows you to analyze your customer's journey across channels using any data available to you in Adobe Experience Platform, leveraging the power of Analysis Workspace for rapid insights.
-feature: CJA Basics
+feature: Basics
 role: Leader
 level: Beginner
 doc-type: Value Video

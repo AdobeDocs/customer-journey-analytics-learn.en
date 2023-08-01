@@ -1,7 +1,7 @@
 ---
 title: Use filters as dimensions in Analysis Workspace
 description: Learn how to compare and visualize filters when used as dimensions in Analysis Workspace projects.
-feature: CJA Workspace Basics
+feature: Workspace Basics
 doc-type: feature video
 team: Technical Marketing
 role: User

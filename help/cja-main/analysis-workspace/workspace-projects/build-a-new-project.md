@@ -1,7 +1,7 @@
 ---
 title: Build a new project in Analysis Workspace
 description: Learn how to create a basic project in Analysis Workspace for Customer Journey Analytics.
-feature: CJA Workspace Basics
+feature: Workspace Basics
 doc-type: feature video
 team: Technical Marketing
 role: User
