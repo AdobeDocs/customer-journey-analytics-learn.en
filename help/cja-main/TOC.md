@@ -106,6 +106,8 @@ type: Tutorial
     +   Data views use cases {#data-views-use-cases}
         + [First-time and returning sessions reporting](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
         + [Use date field support](use-cases/data-views-use-cases/leverage-date-field-support.md)
+    +   Complex data {#complex-data}
+        + [Use arrays of objects](use-cases/complex-data/object-arrays-in-cja.md)
 +   Blueprints {#blueprints}
     + [Customer Journey Analytics blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)
     + [Digital behavioral data consolidation scenario](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html)
