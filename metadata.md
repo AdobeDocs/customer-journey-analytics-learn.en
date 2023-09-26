@@ -13,6 +13,7 @@ tutorials-url: /content/help/en/customer-journey-analytics-learn/tutorials/overv
 git-repo: https://git.corp.adobe.com/AdobeDocs/customer-journey-analytics-learn.en
 index: yes
 mini-toc-levels: 2
+auto-video-transcripts: true
 ---
 
 # Metadata for internal use
