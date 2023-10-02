@@ -8,8 +8,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-14
 jira: KT-13650
 thumbnail: 3421621.jpeg
+exl-id: 725787ed-9dae-427a-bd69-c8f0ccadf2ed
 ---
-
 # Adobe Product Analytics overview
 
 Adobe Product Analytics enables product teams to self-serve data and insights about their product experience through guided analysis workflows, built on the same cross-channel data of Customer Journey Analytics.

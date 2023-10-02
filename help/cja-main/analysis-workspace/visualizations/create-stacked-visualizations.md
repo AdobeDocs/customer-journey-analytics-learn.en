@@ -9,7 +9,7 @@ kt: 13434
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07
-exl-id: 9e4d9e8f-6d95-479d-94bf-2e0e9c5c55ff
+exl-id: 47c482e4-91b2-4c0d-bd6d-719f20b91204
 ---
 # Create [!UICONTROL fully stacked bar] visualizations in [!DNL Analysis Workspace] projects in [!DNL Customer Journey Analytics]
 

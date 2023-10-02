@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-06-02
 jira: KT-13383
 thumbnail: 3420131.jpeg
-exl-id: 66b3fd42-5849-4203-bc7b-4abae5939b13
+exl-id: 0ac3b231-97d3-4937-b15b-0e30b4f9de2a
 ---
 # Create intelligent captions
 

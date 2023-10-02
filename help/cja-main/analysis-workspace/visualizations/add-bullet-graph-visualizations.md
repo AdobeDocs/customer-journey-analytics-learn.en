@@ -9,7 +9,7 @@ kt: 13403
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07
-exl-id: bca0e4fb-c399-4ee4-82fb-91979af7ab25
+exl-id: 3456b70a-02f6-442b-b38b-458b422d525d
 ---
 # Add [!UICONTROL bullet graph] visualizations to [!DNL Analysis Workspace] projects in [!DNL Customer Journey Analytics]
 

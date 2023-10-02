@@ -9,7 +9,7 @@ kt: 13405
 role: User
 level: Beginner
 last-substantial-update: 2023-06-07
-exl-id: 6e697fda-b300-45e7-b3fd-27b5559a7ebd
+exl-id: 6c4d5e47-37dd-453f-b59a-c21dbc5a30cd
 ---
 # Add [!UICONTROL donut] visualizations to [!DNL Analysis Workspace] projects in [!DNL Customer Journey Analytics]
 

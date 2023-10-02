@@ -10,6 +10,7 @@ kt: 13484
 role: Admin, User
 level: Beginner
 last-substantial-update: 2023-06-19
+exl-id: 70ebc514-5a2e-4947-ad2c-b90c35665b42
 ---
 # Ingest and use [!DNL Adobe Analytics] classifications data in [!DNL Analysis Workspace] in [!DNL Customer Journey Analytics]
 
@@ -19,4 +20,4 @@ Learn how to ingest and use [!DNL Analytics] classifications data in [!DNL Custo
 
 For more information about the [!DNL Adobe Analytics] source connector for [!UICONTROL classifications] data, visit the [documentation](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications.html).
 
-The derived fields feature in Customer Journey Analytics is referenced in this video. To learn more about this feature, watch the [video](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields-in-cja.html) or visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html). 
+The derived fields feature in Customer Journey Analytics is referenced in this video. To learn more about this feature, watch the [video](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields-in-cja.html) or visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html).

@@ -8,8 +8,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-17
 jira: KT-13676
 thumbnail: 3421666.jpeg
+exl-id: e4cd80da-fefa-4036-8212-923efeb65cdd
 ---
-
 # Usage trends analysis
 
 Learn how to use the **usage view** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md), which provides valuable insight around the performance of your product or user engagement over time.

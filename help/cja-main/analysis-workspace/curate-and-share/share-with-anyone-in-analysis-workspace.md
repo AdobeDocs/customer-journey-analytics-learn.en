@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-06-06
 jira: KT-13435
 thumbnail: 3420093.jpeg
-exl-id: b802bd79-4ea4-4e77-9e44-ac41015751ad
+exl-id: 1ee94404-f4b0-4185-82df-341d091963db
 ---
 # Share with anyone in Analysis Workspace
 

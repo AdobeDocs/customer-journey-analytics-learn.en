@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-06-06
 jira: KT-13438
 thumbnail: 3420258.jpeg
-exl-id: 6db8477f-0943-4dab-b3ac-3ec4fe15a2d3
+exl-id: 0feb7cde-a97c-4c64-99c1-284beb19616a
 ---
 # Create derived fields in Customer Journey Analytics
 

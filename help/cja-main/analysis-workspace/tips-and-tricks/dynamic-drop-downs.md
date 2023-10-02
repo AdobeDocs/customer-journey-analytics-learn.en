@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-06-08
 jira: KT-13460
 thumbnail: 3420315.jpeg
-exl-id: 18d3ae92-9bb3-477a-924c-a5aa49a46599
+exl-id: b67e8ae2-17c9-44b6-b62d-3adb1019c5fd
 ---
 # Create dynamic drop-down filters in Analysis Workspace
 

@@ -8,7 +8,7 @@ doc-type: Value Video
 last-substantial-update: 2023-04-21
 jira: KT-13135
 thumbnail: 3418680.jpeg
-exl-id: 794f4544-c1cf-46a5-aa1d-3c240b677793
+exl-id: 2537a4db-517b-40d5-b1c2-42350736eb75
 ---
 # What is Customer Journey Analytics?
 
