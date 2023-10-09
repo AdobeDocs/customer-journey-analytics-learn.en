@@ -39,6 +39,7 @@ type: Tutorial
     + [Binding Dimensions in data views](data-views/binding-dimensions-in-data-views.md)
     + [Configure no value options in data views](data-views/configure-no-value-options-in-data-views.md)
     + [Attribution settings in data views](data-views/attribution-settings-in-data-views.md)
+    + [Currency conversion](data-views/currency-conversion.md)
 +   Analysis Workspace {#analysis-workspace}
     +   Workspace projects {#workspace-projects}
         + [Analysis Workspace overview](analysis-workspace/workspace-projects/analysis-workspace-overview.md)  
