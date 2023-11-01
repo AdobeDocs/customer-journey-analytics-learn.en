@@ -100,6 +100,7 @@ type: Tutorial
     + [Create a mobile scorecard](dashboards/create-a-mobile-scorecard.md)
     + [Assist executives with mobile scorecard access](dashboards/assist-executives-to-access-mobile-scorecards.md)
 +   Exporting {#exporting}
+    + [Full table export](exporting/full-table-export.md)
     +   Report Builder {#report-builder}
         + [Report Builder for Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
         + [Schedule Customer Journey Analytics workbooks using Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
