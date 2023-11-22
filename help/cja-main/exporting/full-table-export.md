@@ -8,8 +8,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-11-01
 jira: KT-14282
 thumbnail: 3425389.jpeg
+exl-id: 1659b296-3fef-4497-9700-5799e3494737
 ---
-
 # Full table export in Customer Journey Analytics
 
 Learn the basic set-up of a table delivery from Customer Journey Analytics to both AEP Data Landing Zone and Snowflake. For detailed documentation, visit [Export Customer Journey Analytics reports to the cloud](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html).
