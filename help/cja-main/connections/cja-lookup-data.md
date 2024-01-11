@@ -1,6 +1,6 @@
 ---
 title: CJA lookups for lookup and profile data
-description: With CJA Lookups on lookup and profile data,  users can utilize deeper relationships between data elements, such as person to account in B2B use cases.  In this video, we cover how to add lookup data to lookup and profile datasets and how to plan out and map your key fields.  Note, if there is a one to many relationship between the key and the lookup value, the most recent value will be used.
+description: Learn how to add lookup data to lookup and profile datasets and to plan out and map your key fields.
 feature: Ingestion
 role: User
 level: Intermediate
