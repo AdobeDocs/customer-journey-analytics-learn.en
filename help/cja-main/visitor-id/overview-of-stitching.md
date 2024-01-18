@@ -9,8 +9,8 @@ duration: 495
 last-substantial-update: 2024-01-10
 jira: KT-14766
 thumbnail: 3426814.jpeg
+exl-id: 19642cfa-bc16-43d5-97bb-c738c3820302
 ---
-
 # Overview of Stitching
 
 With many individuals interacting with your content across multiple channels and devices it becomes ever important to connect these unauthenticated events to authenticated ones. This allows for a more holistic approach to reporting and ultimately activation. This video gives a quick overview into the process of stitching.
