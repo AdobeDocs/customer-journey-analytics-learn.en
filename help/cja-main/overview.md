@@ -20,20 +20,6 @@ Welcome to the [!DNL Customer Journey Analytics] tutorials Site.  Using these tu
 
 Customer Journey Analytics lets you control how you connect your online and offline data in Analysis Workspace on any common customer ID, finally allowing you to do attribution, segmentation, flow, fallout, etc. across your entire customer data set.
 
-<div id="whats-new-section">
-
-## What's new
-
-* **[Move Adobe Analytics Segments to Customer Journey Analytics (Video)](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)**
-    *Learn tips on how to re-create your Adobe Analytics Segments in Customer Journey Analytics*
-
-* **[Move your Calculated Metrics from Adobe Analytics to Customer Journey Analytics (Video)](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)**
-    *Learn tips for re-creating your Adobe Analytics Calculated Metrics in Customer Journey Analytics*    
-
-* **[Create Cross-Channel Filters (Video)](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)**
-    *Create filters in Customer Journey Analytics that utilize more than one data source, and more than one channel*
-   
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
