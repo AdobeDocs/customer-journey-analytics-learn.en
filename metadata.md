@@ -10,7 +10,7 @@ getting-started-title: Experience League
 getting-started-url: https://experienceleague.adobe.com/
 tutorials-title: Tutorials
 tutorials-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
-git-repo: https://git.corp.adobe.com/AdobeDocs/customer-journey-analytics-learn.en
+git-repo: https://github.com/AdobeDocs/customer-journey-analytics-learn.en
 index: yes
 mini-toc-levels: 2
 auto-video-transcripts: true
