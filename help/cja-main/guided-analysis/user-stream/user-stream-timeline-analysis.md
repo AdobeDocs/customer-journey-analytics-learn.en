@@ -7,6 +7,7 @@ level: Beginner
 doc-type: Feature Video
 last-substantial-update: 2024-03-15
 jira: KT-15092
+exl-id: 1eda14aa-6e1e-4a98-b0aa-f6dfc78d14c6
 ---
 # User stream timeline analysis
 
