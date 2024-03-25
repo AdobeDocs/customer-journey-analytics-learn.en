@@ -64,6 +64,7 @@ type: Tutorial
         + [Use the scatterplot visualization](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
         + [Add the tree map visualization](analysis-workspace/visualizations/add-treemap-visualizations.md)
         + [Create fully stacked visualizations](analysis-workspace/visualizations/create-stacked-visualizations.md)
+        + [Add forecasting to your visualization](analysis-workspace/visualizations/forecasting.md)
     +   Annotations {#annotations}
         + [Create an annotation](analysis-workspace/annotations/create-an-annotation.md)
     +   Curate and share {#curate-and-share}
