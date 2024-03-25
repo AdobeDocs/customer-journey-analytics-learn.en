@@ -74,17 +74,19 @@ type: Tutorial
 + Adobe Product Analytics {#adobe-product-analytics}
     + [Adobe Product Analytics overview](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Guided analysis {#guided-analysis}
-    +   Impact {#impact}
-        + [Release impact analysis](guided-analysis/impact/release-impact-analysis.md)
-        + [First use impact analysis](guided-analysis/impact/first-use-impact-analysis.md)
     +   Funnel {#funnel}
         + [Funnel friction analysis](guided-analysis/funnel/funnel-friction-analysis.md)        
         + [Funnel conversion trends analysis](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
-    +   User growth {#user-growth}
-        + [Active user growth analysis](guided-analysis/user-growth/active-user-growth-analysis.md)
-        + [Net user growth analysis](guided-analysis/user-growth/net-user-growth-analysis.md)
+    +   Impact {#impact}
+        + [Release impact analysis](guided-analysis/impact/release-impact-analysis.md)
+        + [First use impact analysis](guided-analysis/impact/first-use-impact-analysis.md)
     +   Trends {#trends}
         + [Usage trends analysis](guided-analysis/trends/usage-trends-analysis.md)
+    +   User stream {#user-stream}
+        + [User stream timeline analysis](guided-analysis/user-stream/user-stream-timeline-analysis.md)    
+    +   User growth {#user-growth}
+        + [Active user growth analysis](guided-analysis/user-growth/active-user-growth-analysis.md)
+        + [Net user growth analysis](guided-analysis/user-growth/net-user-growth-analysis.md)    
 + Components {#components}
     +   Filters (segmentation) {#filters}
         + [Filters overview](components/filters/introduction-to-filters-in-cja.md)
