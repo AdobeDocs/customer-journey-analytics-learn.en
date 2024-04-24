@@ -81,6 +81,7 @@ type: Tutorial
         + [Release impact analysis](guided-analysis/impact/release-impact-analysis.md)
         + [First use impact analysis](guided-analysis/impact/first-use-impact-analysis.md)
     +   Trends {#trends}
+        + [Frequency trends analysis](guided-analysis/trends/frequency-trends-analysis.md)
         + [Usage trends analysis](guided-analysis/trends/usage-trends-analysis.md)
     +   User stream {#user-stream}
         + [User stream timeline analysis](guided-analysis/user-stream/user-stream-timeline-analysis.md)    
