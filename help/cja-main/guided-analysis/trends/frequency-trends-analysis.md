@@ -1,6 +1,6 @@
 ---
 title: Frequency trends analysis
-description: Learn how the frequency view in Adobe Product Analytics lets you analyze user engagement with events in your product. 
+description: Learn how the frequency view in Adobe Product Analytics lets you analyze user engagement with events in your product.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-04-23
 jira: KT-15090
 thumbnail: 3428089.jpeg
-
+exl-id: 06874ef1-c746-4df5-a476-22286e5f0751
 ---
 # Frequency trends analysis
 
