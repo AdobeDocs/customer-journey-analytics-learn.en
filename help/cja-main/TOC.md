@@ -27,6 +27,7 @@ type: Tutorial
     + [Understanding how CJA uses identity](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
     + [Configure a missing Person ID](visitor-id/configure-missing-person-id.md)
     + [Overview of stitching](visitor-id/overview-of-stitching.md)
+    + [Graph-based stitching overview](visitor-id/graph-based-stitching-overview.md)
 +   Data views {#data-views}
     + [Overview of configuring data views for CJA](data-views/overview-of-configuring-data-views-for-cja.md)
     + [Basic configuration for data views](data-views/basic-configuration-for-data-views.md)
