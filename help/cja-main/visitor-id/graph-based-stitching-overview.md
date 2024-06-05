@@ -16,7 +16,7 @@ Graph-based stitching allows you to harness the power of the Identity Graph to a
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429528/?learn=on)
 
-Through Graph-based stitching we use the Identity graph to get a better view of the customer Journey through:
+Through Graph-based stitching, we use the Identity graph to get a better view of the customer Journey through:
 
 * Joining datasets with different identifiers without having to ETL data to reflect a single identifier
 * Improving coverage of preferred or golden identity for a single dataset by sharing identities across datasets.
