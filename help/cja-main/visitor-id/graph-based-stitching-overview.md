@@ -8,8 +8,8 @@ doc-type: Technical Video
 duration: 301
 last-substantial-update: 2024-06-05
 jira: KT-15651
+exl-id: b5c16b6b-3a84-49f5-b29b-a753c35e2212
 ---
-
 # Graph-based stitching overview
 
 Graph-based stitching allows you to harness the power of the Identity Graph to align identities across AEP applications and allow for more datasets to be joined in CJA by having a common person identifier in them.
