@@ -76,7 +76,7 @@ type: Tutorial
     + [Adobe Product Analytics overview](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Guided analysis {#guided-analysis}
     +   Feature matrix {#feature-matrix}
-        + [Featur engagement analysis](guided-analysis/feature-matrix/feature-engagement.md)
+        + [Feature engagement analysis](guided-analysis/feature-matrix/feature-engagement.md)
     +   Funnel {#funnel}
         + [Funnel friction analysis](guided-analysis/funnel/funnel-friction-analysis.md)        
         + [Funnel conversion trends analysis](guided-analysis/funnel/funnel-conversion-trends-analysis.md)
