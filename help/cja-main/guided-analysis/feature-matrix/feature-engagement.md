@@ -5,7 +5,6 @@ feature: Guided Analysis
 role: User
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2024-06-14
 jira: KT-15095
 thumbnail: 3429489.jpeg
 last-substantial-update: 2024-06-14
