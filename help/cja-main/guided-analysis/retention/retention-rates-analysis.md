@@ -9,7 +9,7 @@ last-substantial-update: 2023-06-25
 jira: KT-15097
 thumbnail: 3430503.jpeg
 ---
-# Frequency trends analysis
+# Retention rates analysis
 
 Explore the **Retention Rates View** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md) through this insightful video tutorial.
 
