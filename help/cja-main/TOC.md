@@ -83,6 +83,8 @@ type: Tutorial
     + Impact {#impact}
         + [Release impact analysis](guided-analysis/impact/release-impact-analysis.md)
         + [First use impact analysis](guided-analysis/impact/first-use-impact-analysis.md)
+    + Retention {#retention}
+        + [Retention rates analysis](guided-analysis/retention/retention-rates-analysis.md)
     + Trends {#trends}
         + [Frequency trends analysis](guided-analysis/trends/frequency-trends-analysis.md)
         + [Usage trends analysis](guided-analysis/trends/usage-trends-analysis.md)
