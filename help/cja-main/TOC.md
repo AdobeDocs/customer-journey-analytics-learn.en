@@ -34,6 +34,8 @@ type: Tutorial
     + [Configure component settings in data views](data-views/configuring-component-settings-in-data-views.md)
     + [Component type settings in data views](data-views/component-type-settings-in-data-views.md)
     + [Create derived fields](data-views/derived-fields-in-cja.md)
+    + [Use the Math function in derived fields](data-views/use-the-math-function-in-derived-fields.md)
+    + [Use the Next or Previous function in derived fields](data-views/use-the-next-previous-function-in-derived-fields.md)
     + [Formatting metrics in data views](data-views/formatting-metrics-in-data-views.md)
     + [Configure substring component settings](data-views/configure-substring-component-settings.md)
     + [Include or exclude metric values in data views](data-views/include-or-exclude-metric-values-in-data-views.md)
@@ -124,6 +126,6 @@ type: Tutorial
     + Complex data {#complex-data}
         + [Use arrays of objects](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprints {#blueprints}
-    + [Customer Journey Analytics blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html){target=_blank}
+    + [Customer Journey Analytics blueprint](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
     + [Digital behavioral data consolidation scenario](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html){target=_blank}
     + [Call deflection journey analysis scenario](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html){target=_blank}
