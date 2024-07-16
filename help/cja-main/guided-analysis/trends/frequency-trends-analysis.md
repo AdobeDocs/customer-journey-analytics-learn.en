@@ -12,7 +12,7 @@ exl-id: 06874ef1-c746-4df5-a476-22286e5f0751
 ---
 # Frequency trends analysis
 
-Learn about how the **frequency view** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md) lets you analyze user engagement with events in your product. 
+Learn about how the **frequency view** in Customer Journey Analytics lets you analyze user engagement with events in your product. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428089/?learn=on)
 
