@@ -12,7 +12,7 @@ exl-id: 409980dd-27f3-4d7e-984d-8b0391be7f22
 ---
 # Funnel conversion trends analysis
 
-Learn how to use the **conversion trends view** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md), which tracks changes in funnel conversion rates over time.
+Learn how to use the **conversion trends view** in Customer Journey Analytics, which tracks changes in funnel conversion rates over time.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421662/?learn=on)
 

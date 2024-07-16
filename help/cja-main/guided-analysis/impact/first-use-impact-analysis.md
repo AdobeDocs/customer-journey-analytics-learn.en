@@ -12,7 +12,7 @@ exl-id: f6a26a13-4968-4c77-9ee2-22e2c0a8319f
 ---
 # First use impact analysis
 
-Learn how to use the **first use view** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md), which shows a comparison of how key indicators performed before and after a user uses a product feature for the first time.
+Learn how to use the **first use view** in Customer Journey Analytics, which shows a comparison of how key indicators performed before and after a user uses a product feature for the first time.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421661/?learn=on)
 

@@ -12,7 +12,7 @@ exl-id: 52211513-1cda-4173-aebd-4af752c87604
 ---
 # Funnel friction analysis
 
-Learn how to use the **funnel friction view** in [Adobe Product Analytics](../../adobe-product-analytics/adobe-product-analytics-overview.md), which provides a visual representation of a critical user journey in your product and helps you determine where there is friction in it.
+Learn how to use the **funnel friction view** in Customer Journey Analytics, which provides a visual representation of a critical user journey in your product and helps you determine where there is friction in it.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421663/?learn=on)
 
