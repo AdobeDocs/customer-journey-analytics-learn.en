@@ -1,6 +1,6 @@
 ---
 title: Retention rates analysis
-description: Explore the Retention Rates View in Adobe Product Analytics. Learn how to use start and return events to measure user engagement and retention effectively.
+description: Explore the Retention Rates View in Customer Journey Analytics. Learn how to use start and return events to measure user engagement and retention effectively.
 feature: Guided Analysis
 role: User
 level: Beginner

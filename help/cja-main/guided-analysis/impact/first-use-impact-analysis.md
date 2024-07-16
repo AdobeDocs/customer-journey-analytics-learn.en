@@ -1,6 +1,6 @@
 ---
 title: First use impact analysis
-description: Learn how to use the first use view in Adobe Product Analytics, which shows a comparison of how key indicators performed before and after a user uses a product feature for the first time.
+description: Learn how to use the first use view in Customer Journey Analytics, which shows a comparison of how key indicators performed before and after a user uses a product feature for the first time.
 feature: Guided Analysis
 role: User
 level: Beginner

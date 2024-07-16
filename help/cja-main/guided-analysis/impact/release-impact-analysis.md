@@ -1,6 +1,6 @@
 ---
 title: Release impact analysis
-description: Learn how to use the release view in Adobe Product Analytics, which shows a comparison of how key indicators performed before and after a given date.
+description: Learn how to use the release view in Customer Journey Analytics, which shows a comparison of how key indicators performed before and after a given date.
 feature: Guided Analysis
 role: User
 level: Beginner

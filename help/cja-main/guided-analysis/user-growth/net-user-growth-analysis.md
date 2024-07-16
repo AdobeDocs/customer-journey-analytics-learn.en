@@ -1,6 +1,6 @@
 ---
 title: Net user growth analysis
-description: Learn how to use the net growth view in Adobe Product Analytics, which provides insights around the rate at which you gain or lose users over a specific period.
+description: Learn how to use the net growth view in Customer Journey Analytics, which provides insights around the rate at which you gain or lose users over a specific period.
 feature: Guided Analysis
 role: User
 level: Beginner

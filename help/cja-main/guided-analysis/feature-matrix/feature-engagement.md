@@ -1,6 +1,6 @@
 ---
 title: Feature engagement analysis
-description: Learn how to use the feature engagement view in Adobe Product Analytics. This analysis provides insights about how often your product features are used versus the number of people using them.
+description: Learn how to use the feature engagement view in Customer Journey Analytics. This analysis provides insights about how often your product features are used versus the number of people using them.
 feature: Guided Analysis
 role: User
 level: Beginner
