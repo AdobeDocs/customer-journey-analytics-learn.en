@@ -1,6 +1,6 @@
 ---
 title: Funnel friction analysis
-description: Learn how to use the funnel friction view in Adobe Product Analytics, which provides a visual representation of a critical user journey in your product and helps you determine where there is friction in it.
+description: Learn how to use the funnel friction view in Customer Journey Analytics, which provides a visual representation of a critical user journey in your product and helps you determine where there is friction in it.
 feature: Guided Analysis
 role: User
 level: Beginner

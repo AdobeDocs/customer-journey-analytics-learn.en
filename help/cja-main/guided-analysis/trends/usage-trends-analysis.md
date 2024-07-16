@@ -1,6 +1,6 @@
 ---
 title: Usage trends analysis
-description: Learn how to use the usage view in Adobe Product Analytics, which provides valuable insight around the performance of your product or user engagement over time.
+description: Learn how to use the usage view in Customer Journey Analytics, which provides valuable insight around the performance of your product or user engagement over time.
 feature: Guided Analysis
 role: User
 level: Beginner

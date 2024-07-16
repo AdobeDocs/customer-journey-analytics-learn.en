@@ -1,6 +1,6 @@
 ---
 title: Funnel conversion trends analysis
-description: Learn how to use the conversion trends view in Adobe Product Analytics, which tracks changes in funnel conversion rates over time.
+description: Learn how to use the conversion trends view in Customer Journey Analytics, which tracks changes in funnel conversion rates over time.
 feature: Guided Analysis
 role: User
 level: Beginner
