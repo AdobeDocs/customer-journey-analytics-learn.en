@@ -8,6 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-06-25
 jira: KT-15097
 thumbnail: 3430503.jpeg
+exl-id: 32cd06ae-d09b-48b8-8bfe-ba8e7096d50b
 ---
 # Retention rates analysis
 

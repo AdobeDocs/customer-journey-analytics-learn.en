@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2024-06-27
 jira: KT-15526
 thumbnail: 3430617.jpeg
-
+exl-id: 4e9eda19-bf4e-4509-a45b-d7b799a530d2
 ---
 # Adjust metrics by using the math function in derived fields in Customer Journey Analytics
 
