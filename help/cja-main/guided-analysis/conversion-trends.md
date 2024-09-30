@@ -1,6 +1,6 @@
 ---
-title: Funnel conversion trends analysis
-description: Learn how to use the conversion trends view in Customer Journey Analytics, which tracks changes in funnel conversion rates over time.
+title: Conversion trends
+description: Learn how conversion trends in Customer Journey Analytics tracks changes in funnel conversion rates over time.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -10,9 +10,9 @@ jira: KT-13672
 thumbnail: 3421662.jpeg
 exl-id: 409980dd-27f3-4d7e-984d-8b0391be7f22
 ---
-# Funnel conversion trends analysis
+# Conversion trends
 
-Learn how to use the **conversion trends view** in Customer Journey Analytics, which tracks changes in funnel conversion rates over time.
+Learn how **conversion trends** in Customer Journey Analytics tracks changes in funnel conversion rates over time.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421662/?learn=on)
 

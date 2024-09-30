@@ -1,6 +1,6 @@
 ---
-title: Release impact analysis
-description: Learn how to use the release view in Customer Journey Analytics, which shows a comparison of how key indicators performed before and after a given date.
+title: Release impact
+description: Learn how release impact in Customer Journey Analytics shows a comparison of how key indicators performed before and after a given date.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -10,9 +10,9 @@ jira: KT-13675
 thumbnail: 3421665.jpeg
 exl-id: 45ed4bf8-091e-4a08-a245-cc1ef226cbb9
 ---
-# Release impact analysis
+# Release impact
 
-Learn how to use the **release view** in Customer Journey Analytics, which shows a comparison of how key indicators performed before and after a given date.
+Learn how **release impact** in Customer Journey Analytics shows a comparison of how key indicators performed before and after a given date.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421665/?learn=on)
 
