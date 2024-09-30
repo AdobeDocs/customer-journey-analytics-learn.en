@@ -18,10 +18,10 @@ Adobe Product Analytics enables product teams to self-serve data and insights ab
 
 Using Adobe Product Analytics, teams can:
 
-* [Understand patterns in user engagement over time](../guided-analysis/trends/usage-trends-analysis.md)
-* [Track the growth and retention of the product's user base](../guided-analysis/user-growth/active-user-growth-analysis.md)
-* [Identify areas of friction in the product](../guided-analysis/funnel/funnel-friction-analysis.md)
-* [Measure the impact of feature releases and first use](../guided-analysis/impact/release-impact-analysis.md)
+* [Understand patterns in user engagement over time](../guided-analysis/trends.md)
+* [Track the growth and retention of the product's user base](../guided-analysis/active-growth.md)
+* [Identify areas of friction in the product](../guided-analysis/funnel.md)
+* [Measure the impact of feature releases and first use](../guided-analysis/release-impact.md)
 * Discover meaningful segments of users to engage and nurture throughout their lifelong journey with the product
 * Connect to Analysis Workspace for deeper analysis and collaboration with analysts
 
