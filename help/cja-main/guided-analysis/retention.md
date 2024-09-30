@@ -1,6 +1,6 @@
 ---
-title: Retention rates analysis
-description: Explore the Retention Rates View in Customer Journey Analytics. Learn how to use start and return events to measure user engagement and retention effectively.
+title: Retention
+description: Explore retention in Customer Journey Analytics. Learn how to use start and return events to measure user engagement and retention effectively.
 feature: Guided Analysis
 role: User
 level: Beginner
@@ -10,9 +10,9 @@ jira: KT-15097
 thumbnail: 3430503.jpeg
 exl-id: 32cd06ae-d09b-48b8-8bfe-ba8e7096d50b
 ---
-# Retention rates analysis
+# Retention
 
-Explore the **Retention Rates View** in Customer Journey Analytics through this insightful video tutorial.
+Explore **retention** in Customer Journey Analytics. Learn how to use start and return events to measure user engagement and retention effectively.
 
 Learn how to use start and return events to measure user engagement and retention effectively. The tutorial also covers how to adjust retention settings for different business models, whether you're running a travel website, e-commerce platform, or productivity tool. Gain practical tips on using retention data to optimize product market fit and drive sustained user engagement.
 
