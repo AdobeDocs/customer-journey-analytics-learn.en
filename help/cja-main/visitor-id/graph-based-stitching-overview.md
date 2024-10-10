@@ -18,6 +18,6 @@ Graph-based stitching allows you to harness the power of the Identity Graph to a
 
 Through Graph-based stitching, we use the Identity graph to get a better view of the customer Journey through:
 
-* Joining datasets with different identifiers without having to ETL data to reflect a single identifier
+* Realigning one or more datasets, each to a single identifier, instead of using a cumbersome ETL process.
 * Improving coverage of preferred or golden identity for a single dataset by sharing identities across datasets.
 * Aligning profiles created in Adobe Real-Time CDP and Adobe Journey Optimizer with people in Adobe Customer Journey Analytics.
