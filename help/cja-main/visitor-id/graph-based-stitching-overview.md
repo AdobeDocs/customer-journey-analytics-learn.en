@@ -1,6 +1,6 @@
 ---
 title: Graph-based stitching overview
-description: Graph-based stitching allows you to harness the power of the Identity Graph to align identities across AEP applications and allow for more datasets to be joined in CJA by having a common person identifier in them.
+description: Graph-based stitching harnesses the power of the Identity Graph to align identities across Experience Platform applications. This feature allows more datasets to be joined in Customer Journey Analytics by using a common person identifier in them.
 feature: Stitching
 role: Admin, Developer
 level: Intermediate
@@ -12,12 +12,12 @@ exl-id: b5c16b6b-3a84-49f5-b29b-a753c35e2212
 ---
 # Graph-based stitching overview
 
-Graph-based stitching allows you to harness the power of the Identity Graph to align identities across AEP applications and allow for more datasets to be joined in CJA by having a common person identifier in them.
+Graph-based stitching harnesses the power of the Identity Graph to align identities across Experience Platform applications. This feature allows more datasets to be joined in Customer Journey Analytics by using a common person identifier in them.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3429528/?learn=on)
 
-Through Graph-based stitching, we use the Identity graph to get a better view of the customer Journey through:
+Through Graph-based stitching using the Identity graph, get a better view of the customer Journey through:
 
-* Joining datasets with different identifiers without having to ETL data to reflect a single identifier
-* Improving coverage of preferred or golden identity for a single dataset by sharing identities across datasets.
+* Realigning one or more datasets, each to a single identifier, instead of using a cumbersome ETL process.
+* Improving coverage of a preferred identity for a single dataset to other datasets by sharing the identity.
 * Aligning profiles created in Adobe Real-Time CDP and Adobe Journey Optimizer with people in Adobe Customer Journey Analytics.
