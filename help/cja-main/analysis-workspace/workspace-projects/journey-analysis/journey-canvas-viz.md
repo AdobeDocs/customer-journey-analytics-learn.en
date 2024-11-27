@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 32280
 last-substantial-update: 2024-11-27
 jira: KT-16598
+exl-id: 3145b3e9-ff5a-4b54-9ae1-816f26ea6ad8
 ---
-
 # Journey canvas visualization
 
 Learn about the journey canvas visualization, which allows you to analyze and gain deep insights on the journeys that you provide to your users and customers.
