@@ -1,5 +1,5 @@
 ---
-title: Use Guided Analysis in Analysis Workspace 
+title: Use Guided Analysis in Analysis Workspace
 description: Use Guided Analysis in Analysis Workspace to self-serve high-quality data insights through guided workflows.
 feature: Guided Analysis
 role: User
@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2025-03-04
 jira: KT-16330
 thumbnail: 3449320.jpeg
-
+exl-id: e1a215b4-bf4f-455e-92b4-993ee73db70d
 ---
 # Use Guided Analysis in Analysis Workspace
 
