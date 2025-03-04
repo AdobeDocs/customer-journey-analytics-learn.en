@@ -80,6 +80,7 @@ type: Tutorial
 + Adobe Product Analytics {#adobe-product-analytics}
     + [Adobe Product Analytics overview](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Guided analysis {#guided-analysis}
+    + [Use Guided Analysis in Workspace](guided-analysis/guided-analysis-in-workspace.md)
     + [Active growth](guided-analysis/active-growth.md)
     + [Conversion trends](guided-analysis/conversion-trends.md)
     + [Engagement](guided-analysis/engagement.md)
@@ -123,5 +124,5 @@ type: Tutorial
         + [Use arrays of objects](use-cases/complex-data/object-arrays-in-cja.md)
 + Blueprints {#blueprints}
     + [Customer Journey Analytics blueprint](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
-    + [Digital behavioral data consolidation scenario](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel.html){target=_blank}
-    + [Call deflection journey analysis scenario](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/cross-channel/call-center.html){target=_blank}
+    + [Digital behavioral data consolidation scenario](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
+    + [Call deflection journey analysis scenario](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
