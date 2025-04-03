@@ -7,7 +7,7 @@ level: Beginner
 doc-type: Feature Video
 duration: 337
 last-substantial-update: 2025-04-03
-jira: KT-17572
+jira: KT-17555
 ---
 # [!DNL Content Analytics] - How it works
 
