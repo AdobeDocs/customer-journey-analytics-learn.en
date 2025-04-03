@@ -8,6 +8,7 @@ doc-type: Feature Video
 duration: 337
 last-substantial-update: 2025-04-03
 jira: KT-17555
+exl-id: f2244ca9-0392-493c-a0e0-bf73baf8e874
 ---
 # [!DNL Content Analytics] - How it works
 

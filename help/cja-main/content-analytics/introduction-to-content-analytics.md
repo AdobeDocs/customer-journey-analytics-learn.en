@@ -7,6 +7,7 @@ level: Beginner
 duration: 650
 last-substantial-update: 2025-04-03
 jira: KT-17556
+exl-id: 2e7c0934-69da-4b85-bf3e-eec294ff1ba0
 ---
 # Introduction to Content Analytics
 
