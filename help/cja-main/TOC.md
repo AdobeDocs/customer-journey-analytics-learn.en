@@ -106,6 +106,9 @@ type: Tutorial
         + [Audience publishing](components/audiences/audience-publishing-for-cja.md)
     + Data Dictionary {#data-dictionary}
         + [Use Data Dictionary](components/data-dictionary/use-data-dictionary.md)  
++ Content Analytics {#content-analytics}
+    + [Introduction](content-analytics/introduction-to-content-analytics.md)
+    + [How it works](content-analytics/how-it-works.md)
 + Dashboards (scorecards) {#dashboards}
     + [Create a mobile scorecard](dashboards/create-a-mobile-scorecard.md)
     + [Assist executives with mobile scorecard access](dashboards/assist-executives-to-access-mobile-scorecards.md)
