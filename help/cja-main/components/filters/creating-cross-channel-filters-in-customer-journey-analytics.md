@@ -1,22 +1,23 @@
 ---
-title: Create Cross-Channel Filters in Customer Journey Analytics
-description: In this video we discuss how to create filters in Adobe Customer Journey Analytics that utilize more than one data source, and more than one channel. You will also see how these filters can be combined in visualizations.
-feature: Filters
+title: Create cross-channel segments in Customer Journey Analytics
+description: Learn how to create segments in Adobe Customer Journey Analytics that use more than a single data source and channel. Additionally, learn how segments can be combined in visualizations.
+feature: Segments
 topics: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 31983.jpg
 kt: 3962
-
 role: User
 level: Beginner
 exl-id: 6af79964-b56a-4bc8-9b2f-b2a64ec0edef
 ---
-# Create Cross-Channel [!UICONTROL Filters] in Customer Journey Analytics
+# Create cross-channel [!UICONTROL segments] in Customer Journey Analytics
 
-In this video we discuss how to create [!UICONTROL filters] in Customer Journey Analytics that utilize more than one data source, and more than one channel. You will also see how these [!UICONTROL filters] can be combined in [!UICONTROL visualizations].
+Learn how to create [!UICONTROL segments] in Adobe Customer Journey Analytics that use more than a single data source and channel. Additionally, learn how [!UICONTROL segments] can be combined in [!UICONTROL visualizations]. For more information, please visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview).
+
+>[!NOTE]
+>
+> "[!UICONTROL Filters]" have been renamed "[!UICONTROL segments]" in the Customer Journey Analytics interface.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31983/?quality=12&learn=on)
-
-For more information about Customer Journey Analytics, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).

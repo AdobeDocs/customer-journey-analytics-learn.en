@@ -76,7 +76,7 @@ type: Tutorial
     + Curate and share {#curate-and-share}
         + [Share with anyone in Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
     + Tips and tricks {#tips-and-tricks}
-        + [Create dynamic drop-down filters](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
+        + [Create dynamic drop-down segments](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
 + Adobe Product Analytics {#adobe-product-analytics}
     + [Adobe Product Analytics overview](adobe-product-analytics/adobe-product-analytics-overview.md)
 + Guided analysis {#guided-analysis}
@@ -93,11 +93,11 @@ type: Tutorial
     + [Timeline](guided-analysis/timeline.md) 
     + [Trends](guided-analysis/trends.md)
 + Components {#components}
-    + Filters (segmentation) {#filters}
-        + [Filters overview](components/filters/introduction-to-filters-in-cja.md)
-        + [Create a quick filter](components/filters/create-a-quick-filter.md)
-        + [Create cross-channel filters](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
-        + [Use filters as dimensions](components/filters/use-filters-as-dimensions.md)
+    + Segments {#filters}
+        + [Segments overview](components/filters/introduction-to-filters-in-cja.md)
+        + [Create a quick segment](components/filters/create-a-quick-filter.md)
+        + [Create cross-channel segments](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
+        + [Use segments as dimensions](components/filters/use-filters-as-dimensions.md)
         + [Move Adobe Analytics segments to Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
     + Calculated metrics {#calc-metrics}
         + [Introduction to calculated metrics in Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
