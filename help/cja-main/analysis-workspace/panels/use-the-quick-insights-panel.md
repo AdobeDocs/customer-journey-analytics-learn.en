@@ -8,8 +8,8 @@ doc-type: feature video
 thumbnail: 3457905.jpg
 kt: 17505
 last-substantial-update: 2025-04-30
+exl-id: 3377da85-b8ff-4e6a-ad1a-e103fd458f77
 ---
-
 # Use the quick insights panel
 
 Learn how to answer business questions quickly and easily using the quick insights panel in Customer Journey Analytics. Suitable for new users or advanced analysts, this panel allows you to intuitively experiment with dimensions, metrics, visualizations, and segments to produce the best combination of components for your analysis. 
