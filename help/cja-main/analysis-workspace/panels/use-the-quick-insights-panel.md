@@ -3,7 +3,7 @@ title: Use the quick insights panel
 description: Learn how to answer business questions quickly and easily using the quick insights panel in Customer Journey Analytics.
 feature: Panels
 role: User
-level: Beginner, Intermediate, Advanced
+level: Beginner, Intermediate, Experienced
 doc-type: feature video
 thumbnail: 3457905.jpg
 kt: 17505
