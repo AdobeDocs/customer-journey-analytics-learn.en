@@ -137,7 +137,6 @@ type: Tutorial
             + [Video short](./summit/2025/shorts/analytics-easy-mode--simplifying-workspace-for-all-users.md)
             + [Video short](./summit/2025/shorts/anomaly-detection-in-customer-journey-analytics.md)
             + [Video short](./summit/2025/shorts/audience-agent--proactive-audience-health-monitoring.md)
-            + [Video short](./summit/2025/shorts/best-practices-for-data-modeling-in-adobe-experience-platform.md)
             + [Video short](./summit/2025/shorts/best-practices-for-implementing-customer-journey-analytics.md)
             + [Video short](./summit/2025/shorts/breaking-data-limits-with-summary-data-sources.md)
             + [Video short](./summit/2025/shorts/content-analytics--ai-powered-insights-for-creative-assets.md)
