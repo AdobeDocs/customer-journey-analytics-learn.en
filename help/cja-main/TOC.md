@@ -54,6 +54,7 @@ type: Tutorial
         + Journey analysis {#journey-analysis}
             + [Journey canvas visualization](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
     + Panels {#panels}
+        + [Add components to the freeform panel](analysis-workspace/panels/add-components-to-the-freeform-panel.md)
         + [Configure the next and previous item panel](analysis-workspace/panels/configure-next-previous-item-panel.md)
         + [Use the experimentation panel](analysis-workspace/panels/use-the-experimentation-panel.md)
         + [Use the quick insights panel](analysis-workspace/panels/use-the-quick-insights-panel.md)
