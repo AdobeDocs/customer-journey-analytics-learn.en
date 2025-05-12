@@ -9,7 +9,7 @@ hidefromtoc: yes
 recommendations: noCatalog, noDisplay
 ---
 
-# Best Practices for Implementing Customer Journey Analytics
+# Customer Journey Analytics Implementation Types
 
 Discover best practices for implementing Customer Journey Analytics, including proof of concept, interim solutions, and full implementation strategies.
 
