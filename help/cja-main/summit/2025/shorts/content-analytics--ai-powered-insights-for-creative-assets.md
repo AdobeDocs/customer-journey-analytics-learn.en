@@ -7,8 +7,8 @@ index: no
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
+exl-id: a50be3d1-00f6-4df4-bea9-93f26bd049ef
 ---
-
 # Content Analytics: AI-Powered Insights for Creative Assets
 
 Get a sneak peek into Content Analytics, a new feature in CJA that uses AI to analyze creative assets and their performance.

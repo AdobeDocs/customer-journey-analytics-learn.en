@@ -7,8 +7,8 @@ index: no
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
+exl-id: e004a399-77f0-4e41-a033-b41ac23b4602
 ---
-
 # Analytics Easy Mode: Simplifying Workspace for All Users
 
 Explore how Analytics Easy Mode reveals hidden features in Analysis Workspace, making it easier for users to access powerful tools and streamline their workflows.

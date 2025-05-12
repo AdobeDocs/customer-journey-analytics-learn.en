@@ -7,8 +7,8 @@ index: no
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
+exl-id: 83782049-7f14-4366-8ade-8ac9b246afca
 ---
-
 # In-Line Derived Fields: Real-Time Data Transformation in CJA
 
 See how In-Line Derived Fields empowers users to clean and group data directly in Customer Journey Analytics, reducing dependency on admins and saving time.

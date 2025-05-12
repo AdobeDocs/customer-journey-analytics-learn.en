@@ -7,8 +7,8 @@ index: no
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
+exl-id: bbfac955-703d-41ee-82b8-8cc40c7dfb61
 ---
-
 # How GenAI Enhances Customer Journey Analytics
 
 Discover how Generative AI is transforming Customer Journey Analytics by surfacing insights, empowering users, and making data analytics more accessible.

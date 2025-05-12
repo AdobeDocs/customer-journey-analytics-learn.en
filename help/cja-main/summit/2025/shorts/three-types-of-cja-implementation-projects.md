@@ -7,8 +7,8 @@ index: no
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
+exl-id: 05f25d0c-fa6a-4998-8460-82af4eeffff5
 ---
-
 # Three Types of CJA Implementation Projects
 
 Discover the three types of Customer Journey Analytics implementation projects: proof of concept, interim multi-channel use cases, and full implementation.

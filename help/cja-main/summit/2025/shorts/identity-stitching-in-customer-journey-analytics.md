@@ -7,8 +7,8 @@ index: no
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
+exl-id: 08926e4e-abac-4eb0-a415-2fa79dbd8962
 ---
-
 # Identity Stitching in Customer Journey Analytics
 
 Explore the two types of identity stitching in CJA—field-based and graph-based—and how they enable omnichannel analysis.

@@ -7,8 +7,8 @@ index: no
 hide: yes
 hidefromtoc: yes
 recommendations: noCatalog, noDisplay
+exl-id: ca7aa207-47fe-4b49-a273-579d5d17c2d9
 ---
-
 # How AI Assistant Transforms Data Insights in Adobe Experience Platform
 
 Discover how Adobe's AI Assistant delivers instant data insights, transforming workflows with natural language queries and actionable results.
