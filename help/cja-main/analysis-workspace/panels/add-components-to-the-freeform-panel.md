@@ -8,6 +8,7 @@ doc-type: feature video
 thumbnail: 3458210.jpg
 kt: 17506
 last-substantial-update: 2025-05-09
+exl-id: e5427085-5ab8-4d6b-96c6-83bc8005a08e
 ---
 # Add components to the freeform panel
 
