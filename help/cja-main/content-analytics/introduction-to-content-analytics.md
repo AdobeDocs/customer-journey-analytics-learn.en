@@ -79,7 +79,7 @@ Content Analytics uses AI and Experience Platform infrastructure to reveal what 
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="screate-configuration.md" target="_blank" rel="referrer" title="Content Analytics - Create configuration">Content Analytics - Create configuration</a>
+                        <a href="create-configuration.md" target="_blank" rel="referrer" title="Content Analytics - Create configuration">Content Analytics - Create configuration</a>
                     </p>
                     <p class="is-size-6">Learn how to use the [!DNL Content Analytics] guided workflow. It simplifies the setup process for Marketers, enabling efficient data collection, processing, and reporting within Customer Journey Analytics. </p>
                 </div>
