@@ -111,6 +111,8 @@ type: Tutorial
 + Content Analytics {#content-analytics}
     + [Introduction](content-analytics/introduction-to-content-analytics.md)
     + [How it works](content-analytics/how-it-works.md)
+    + [Create configuration](content-analytics/create-configuration.md)
+    + [Edit configuration](content-analytics/edit-configuration.md)
 + Dashboards (scorecards) {#dashboards}
     + [Create a mobile scorecard](dashboards/create-a-mobile-scorecard.md)
     + [Assist executives with mobile scorecard access](dashboards/assist-executives-to-access-mobile-scorecards.md)
