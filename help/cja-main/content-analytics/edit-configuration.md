@@ -1,6 +1,6 @@
 ---
 title: Content Analytics - Edit configuration
-description: Efficiently edit Content Analytics configurations by adjusting names, data views, and experience capture settings. 
+description: Efficiently edit Content Analytics configurations by adjusting names, data views, and experience capture settings.
 feature: Content Analytics
 role: Architect, Leader, User
 level: Beginner
@@ -8,6 +8,7 @@ doc-type: Feature Video
 duration: 113
 last-substantial-update: 2025-05-13
 jira: KT-18090
+exl-id: dcc42239-42e8-4d35-ab43-79f221e2f2e8
 ---
 # [!DNL Content Analytics] - Edit configuration
 

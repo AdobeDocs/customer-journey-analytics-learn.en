@@ -1,6 +1,6 @@
 ---
 title: Content Analytics - Create configuration
-description: Learn how to use the Content Analytics guided workflow. It simplifies the setup process for Marketers, enabling efficient data collection, processing, and reporting within Customer Journey Analytics. 
+description: Learn how to use the Content Analytics guided workflow. It simplifies the setup process for Marketers, enabling efficient data collection, processing, and reporting within Customer Journey Analytics.
 feature: Content Analytics
 role: Architect, Leader, User
 level: Beginner
@@ -8,6 +8,7 @@ doc-type: Feature Video
 duration: 299
 last-substantial-update: 2025-05-13
 jira: KT-17557
+exl-id: 1e602afb-e7ab-4391-ba62-5801c75b279e
 ---
 # [!DNL Content Analytics] - Create configuration
 
