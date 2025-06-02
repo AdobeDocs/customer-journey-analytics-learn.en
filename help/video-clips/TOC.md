@@ -1,11 +1,11 @@
 ---
-user-guide-title: Customer Journey Analytics Video Shorts
-breadcrumb-title: Video Shorts
-user-guide-description: Hidden collection
+user-guide-title: Customer Journey Analytics Video Clips
+breadcrumb-title: Customer Journey Analytics Video Clips
+user-guide-description: HCustomer Journey Analytics Video Clips
 auto-video-transcripts: true
 ---
 
-# Customer Journey Analytics tutorials {#video-shorts}
+# Customer Journey Analytics video clips {#video-clips}
 
 + Adobe Summit {#summit}
     + 2025 {#2025}
