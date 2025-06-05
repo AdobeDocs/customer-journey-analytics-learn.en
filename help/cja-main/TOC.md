@@ -18,6 +18,8 @@ type: Tutorial
     + [Working with data](data-prep/working-with-data-in-cja.md)
     + [Ingest, map, and transform Adobe Analytics data](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
     + [Ingest and use Adobe Analytics classifications data](data-prep/ingest-and-use-analytics-classifications.md)
++ Access Control {#access-control}
+    + [Set up permissions](permissions/set-up-permissions.md)
 + Connections {#connections}
     + [Connect to Experience Platform data sources](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
     + [View, troubleshoot, and modify connection settings](connections/connections-details-experience-in-cja.md)
