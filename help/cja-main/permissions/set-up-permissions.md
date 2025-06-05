@@ -8,6 +8,7 @@ doc-type: Feature Video
 duration: 483
 last-substantial-update: 2025-05-05
 jira: KT-17501
+exl-id: c6dca701-08b8-4504-8c3e-0d19fcd4c979
 ---
 # Set up permissions
 
