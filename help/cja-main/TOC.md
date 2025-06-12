@@ -48,6 +48,10 @@ type: Tutorial
     + [Configure no value options in data views](data-views/configure-no-value-options-in-data-views.md)
     + [Attribution settings in data views](data-views/attribution-settings-in-data-views.md)
     + [Currency conversion](data-views/currency-conversion.md)
++ Data Insights Agent {#data-insights-agent}
+    + [Introduction](data-insights-agent/introduction-to-the-data-insights-agent.md)
+    + [Use cases](data-insights-agent/data-insights-agent-use-cases.md)
+    + [Use the Data Insights Agent](data-insights-agent/use-the-data-insights-agent.md)
 + Analysis Workspace {#analysis-workspace}
     + Workspace projects {#workspace-projects}
         + [Analysis Workspace overview](analysis-workspace/workspace-projects/analysis-workspace-overview.md)  
