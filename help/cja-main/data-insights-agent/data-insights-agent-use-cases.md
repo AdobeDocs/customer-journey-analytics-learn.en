@@ -8,6 +8,7 @@ doc-type: Feature Video
 duration: 249
 last-substantial-update: 2025-06-12
 jira: KT-18321
+exl-id: 118aed9a-e9ff-42b2-9110-9ef1a5f8c585
 ---
 # [!DNL Data Insights Agent] use cases
 

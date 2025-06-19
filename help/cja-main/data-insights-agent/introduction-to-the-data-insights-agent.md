@@ -7,6 +7,7 @@ level: Beginner
 duration: 222
 last-substantial-update: 2025-06-12
 jira: KT-18320
+exl-id: 5842ce87-aa01-4ea6-ae56-cfd49bef4fa6
 ---
 # Introduction to the [!DNL Data Insights Agent]
 
