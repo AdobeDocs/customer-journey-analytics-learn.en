@@ -12,6 +12,6 @@ jira: KT-18527
 
 # Event Depth in Customer Journey Analytics
 
-Event Depth in Customer Journey Analytics is a standard dimension component that enables precise sequential tracking of user interactions within sessions, providing valuable insights into customer behavior patterns across digital and offline platforms. For additional information, visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/component-reference#standard-dimensions).
+Event Depth in Customer Journey Analytics is a standard dimension component that enables precise sequential tracking of user interactions within sessions, providing valuable insights into customer behavior patterns across digital and offline platforms. For additional information, visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/component-reference#standard-dimensions){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464851/?learn=on&enablevpops)
