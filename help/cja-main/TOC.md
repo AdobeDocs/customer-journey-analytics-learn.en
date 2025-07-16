@@ -108,6 +108,8 @@ type: Tutorial
         + [Create cross-channel segments](components/filters/creating-cross-channel-filters-in-customer-journey-analytics.md)
         + [Use segments as dimensions](components/filters/use-filters-as-dimensions.md)
         + [Move Adobe Analytics segments to Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+    + Dimensions {#dimensions}
+        +[Event Depth](components/dimensions/event-depth-in-cja.md)
     + Calculated metrics {#calc-metrics}
         + [Introduction to calculated metrics in Customer Journey Analytics](components/calc-metrics/introduction-to-calculated-metrics-in-customer-journey-analytics.md)
         + [Move your calculated metrics from Adobe Analytics to Customer Journey Analytics](components/calc-metrics/moving-your-calculated-metrics-from-adobe-analytics-to-customer-journey-analytics.md)
