@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 458
 last-substantial-update: 2025-07-21
 jira: KT-18571
+exl-id: d630eb46-9b34-4ffd-812f-d40511abce04
 ---
-
 # Workspace Commenting in CJA
 
 Learn how Workspace commenting in Adobe Customer Journey Analytics lets you and your team collaborate directly on your data. Ask questions, share insights, and build consensus without ever leaving your analysis. Learn more by visiting the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/build-workspace-project/comment-projects){target="_blank"}.
