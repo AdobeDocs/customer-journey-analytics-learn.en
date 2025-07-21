@@ -57,6 +57,7 @@ type: Tutorial
         + [Analysis Workspace overview](analysis-workspace/workspace-projects/analysis-workspace-overview.md)  
         + [Build a new project](analysis-workspace/workspace-projects/build-a-new-project.md)
         + [Analysis Workspace Templates](analysis-workspace/workspace-projects/analysis-workspace-templates.md)
+        + [Workspace commenting](analysis-workspace/workspace-projects/workspace-commenting.md)
         + Journey analysis {#journey-analysis}
             + [Journey canvas visualization](analysis-workspace/workspace-projects/journey-analysis/journey-canvas-viz.md)
     + Panels {#panels}
