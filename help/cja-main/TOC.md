@@ -131,8 +131,10 @@ type: Tutorial
     + Report Builder {#report-builder}
         + [Report Builder for Customer Journey Analytics](exporting/report-builder/report-builder-for-customer-journey-analytics.md)
         + [Schedule Customer Journey Analytics workbooks using Report Builder](exporting/report-builder/schedule-cja-workbooks-using-report-builder.md)
++ Reporting Activity Manager {#reporting-activity-manager}
+    + [Use the Reporting Activity Manager](reporting-activity-manager/use-the-reporting-activity-manager.md)
 + Experience Platform Integration {#experience-platform-integration}
-    +  [Enhanced reporting for Adobe Journey Optimizer](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
+    + [Enhanced reporting for Adobe Journey Optimizer](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
 + Use cases {#use-cases}
     + Data views use cases {#data-views-use-cases}
         + [First-time and returning sessions reporting](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
