@@ -8,6 +8,7 @@ doc-type: feature video
 thumbnail: 3470314.jpg
 kt: 17502
 last-substantial-update: 2025-07-30
+exl-id: bf2102a9-d536-4e68-9fa2-2ca1012f9858
 ---
 # Use the Reporting Activity Manager
 
