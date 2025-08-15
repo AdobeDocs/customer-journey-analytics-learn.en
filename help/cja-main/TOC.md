@@ -77,6 +77,7 @@ type: Tutorial
         + [Add bullet graph visualizations](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
         + [Add donut visualizations](analysis-workspace/visualizations/add-donut-visualizations.md)
         + [Add line visualizations](analysis-workspace/visualizations/add-line-visualizations.md)
+        + [Configure and use the map visualization](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
         + [Use summary visualizations](analysis-workspace/visualizations/use-summary-visualizations.md)
         + [Add text visualizations](analysis-workspace/visualizations/add-text-visualizations.md)
         + [Use the scatterplot visualization](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
