@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 295
 last-substantial-update: 2025-08-14
 jira: KT-18759
+exl-id: a8c29857-9689-4210-ba59-faa9aee65a2f
 ---
-
 # Configure and use the map visualization
 
 Bring your location data to life with the map visualization! Identify geo clusters and create on-the-fly segments using the selection tool. Just a few simple configuration steps and you're ready to go! For more information, visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/map){target="_blank"}.
