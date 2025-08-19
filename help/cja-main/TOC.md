@@ -68,6 +68,7 @@ type: Tutorial
         + [Use the quick insights panel](analysis-workspace/panels/use-the-quick-insights-panel.md)
     + Templates {#templates}
         + [Use templates](analysis-workspace/templates/use-templates.md)
+        + [Create custom templates](analysis-workspace/templates/create-custom-templates.md)
     + Visualizations {#visualizations}
         + [Create cross-channel visualizations](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
         + [Cross-channel attribution](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
