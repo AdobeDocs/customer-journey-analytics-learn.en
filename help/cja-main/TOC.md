@@ -36,9 +36,6 @@ type: Tutorial
     + [Configure component settings in data views](data-views/configuring-component-settings-in-data-views.md)
     + [Component type settings in data views](data-views/component-type-settings-in-data-views.md)
     + [Create summary-level data sources](data-views/create-summary-level-data-sources.md)
-    + [Create derived fields](data-views/derived-fields-in-cja.md)
-    + [Use the Math function in derived fields](data-views/use-the-math-function-in-derived-fields.md)
-    + [Use the Next or Previous function in derived fields](data-views/use-the-next-previous-function-in-derived-fields.md)
     + [Formatting metrics in data views](data-views/formatting-metrics-in-data-views.md)
     + [Configure substring component settings](data-views/configure-substring-component-settings.md)
     + [Include or exclude metric values in data views](data-views/include-or-exclude-metric-values-in-data-views.md)
@@ -48,6 +45,14 @@ type: Tutorial
     + [Configure no value options in data views](data-views/configure-no-value-options-in-data-views.md)
     + [Attribution settings in data views](data-views/attribution-settings-in-data-views.md)
     + [Currency conversion](data-views/currency-conversion.md)
+    + Derived fields{#derived-fields}
+        + [Create derived fields](data-views/derived-fields/derived-fields-in-cja.md)
+        + [Use the Math function](data-views/derived-fields/use-the-math-function-in-derived-fields.md)
+        + [Use the Next or Previous function](data-views/derived-fields/use-the-next-previous-function-in-derived-fields.md)
+        + [Customize Event Depth](data-views/derived-fields/customize-event-depth-in-derived-fields.md)
+        + [Use Typecasting](data-views/derived-fields/use-typecasting-in-derived-fields.md)
+        + [Use Date Math to calculate time between events](data-views/derived-fields/use-date-math-to-calculate-time-between-events.md)
+
 + Data Insights Agent {#data-insights-agent}
     + [Introduction](data-insights-agent/introduction-to-the-data-insights-agent.md)
     + [Use cases](data-insights-agent/data-insights-agent-use-cases.md)
