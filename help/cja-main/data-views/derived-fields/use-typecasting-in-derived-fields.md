@@ -8,6 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2025-08-21
 jira: KT-18791
 thumbnail: 3471042.jpeg
+exl-id: d7393a83-01e1-4d4a-a979-0c1e60a25617
 ---
 # Use Typecasting
 

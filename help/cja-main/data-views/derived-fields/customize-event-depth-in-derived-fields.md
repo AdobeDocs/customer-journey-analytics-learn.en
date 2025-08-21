@@ -8,6 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2025-08-21
 jira: KT-18790
 thumbnail: 3471041.jpeg
+exl-id: 98eef481-259e-4729-945c-8701f1216954
 ---
 # Customize Event Depth
 

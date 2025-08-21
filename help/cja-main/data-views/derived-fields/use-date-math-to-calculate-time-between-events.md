@@ -7,6 +7,7 @@ doc-type: Feature Video
 last-substantial-update: 2025-08-21
 jira: KT-18792
 thumbnail: 3471043.jpeg
+exl-id: f124f6ef-220d-498c-9cfa-a08a7983f300
 ---
 # Use Date Math to calculate the time between events
 
