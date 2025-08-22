@@ -8,6 +8,7 @@ doc-type: Feature Video
 duration: 214
 last-substantial-update: 2025-08-22
 jira: KT-18819
+exl-id: 518d895d-bb0b-4e72-927e-14b41468eda0
 ---
 # Use [!DNL AI Assistant]
 
