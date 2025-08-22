@@ -12,6 +12,7 @@ type: Tutorial
     + [Introduction to Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
     + [New terms and concepts](cja-basics/new-terms-and-concepts-in-cja.md)
     + [Customer Journey Analytics landing page](cja-basics/customer-journey-analytics-landing-page.md)
+    + [Use AI Assistant](cja-basics/use-ai-assistant.md)
 + Architecture {#architecture}
     + [Architecture and integrations](architecture/architecture-and-integrations-of-cja.md)
 + Data prep and planning {#data-prep}
@@ -52,7 +53,6 @@ type: Tutorial
         + [Customize Event Depth](data-views/derived-fields/customize-event-depth-in-derived-fields.md)
         + [Use Typecasting](data-views/derived-fields/use-typecasting-in-derived-fields.md)
         + [Use Date Math to calculate time between events](data-views/derived-fields/use-date-math-to-calculate-time-between-events.md)
-
 + Data Insights Agent {#data-insights-agent}
     + [Introduction](data-insights-agent/introduction-to-the-data-insights-agent.md)
     + [Use cases](data-insights-agent/data-insights-agent-use-cases.md)
