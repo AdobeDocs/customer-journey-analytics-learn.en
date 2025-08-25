@@ -1,6 +1,6 @@
 ---
 title: Create Audiences from Segments
-description: Learn how to create and publish audiences from Customer Journey Analytics to the Real-Time Customer Data Platform. 
+description: Learn how to create and publish audiences from Customer Journey Analytics to the Real-Time Customer Data Platform.
 feature: Segments
 role: Admin, User
 level: Beginner, Intermediate
@@ -8,6 +8,7 @@ doc-type: Feature Video
 duration: 336
 last-substantial-update: 2025-08-25
 jira: KT-17503
+exl-id: d8d2eaf8-1928-49d9-8b94-bc0a2621f649
 ---
 # Create audiences from segments
 
