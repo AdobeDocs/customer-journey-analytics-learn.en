@@ -34,7 +34,7 @@ Content Analytics uses AI and Experience Platform infrastructure to reveal what 
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="how-it-works.md" title="Set permissions for Real-Time CDP Collaboration" target="_blank" rel="referrer">
+                    <a href="how-it-works.md" title="Content Analytics - How it works" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3457423/?format=jpeg&nocache=1742338375674" alt="Content Analytics - How it works"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -81,7 +81,7 @@ Content Analytics uses AI and Experience Platform infrastructure to reveal what 
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="create-configuration.md" target="_blank" rel="referrer" title="Content Analytics - Create configuration">Content Analytics - Create configuration</a>
                     </p>
-                    <p class="is-size-6">Learn how to use the [!DNL Content Analytics] guided workflow. It simplifies the setup process for Marketers, enabling efficient data collection, processing, and reporting within Customer Journey Analytics. </p>
+                    <p class="is-size-6">Learn how to use the Content Analytics guided workflow. It simplifies the setup process for Marketers, enabling efficient data collection, processing, and reporting within Customer Journey Analytics. </p>
                 </div>
                 <a href="create-configuration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
@@ -104,9 +104,43 @@ Content Analytics uses AI and Experience Platform infrastructure to reveal what 
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="edit-configuration.md" target="_blank" rel="referrer" title="Content Analytics - Edit configuration">Content Analytics - Edit configuration</a>
                     </p>
-                    <p class="is-size-6">Efficiently edit [!DNL Content Analytics] configurations by adjusting names, data views, and experience capture settings. This action automatically updates metrics and performs fine-tuning via the Content Analytics Tags extension for optimized insights.</p>
+                    <p class="is-size-6">Efficiently edit DNL Content Analytics configurations by adjusting names, data views, and experience capture settings. This action automatically updates metrics and performs fine-tuning via the Content Analytics Tags extension for optimized insights.</p>
                 </div>
                 <a href="edit-configuration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+## Reporting
+
+<!-- CARDS
+{cta=Watch}
+* reporting.md
+-->
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Content Analytics - Reporting">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="reporting.md" title="Content Analytics - Reporting" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3473037/?format=jpeg&nocache=1742338375674" alt="Content Analytics - Reporting"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="reporting.md" target="_blank" rel="referrer" title="Content Analytics - Reporting">Content Analytics - Reporting</a>
+                    </p>
+                    <p class="is-size-6">Discover how Content Analytics provides detailed reports on website content performance.</p>
+                </div>
+                <a href="reporting.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
                 </a>
             </div>
