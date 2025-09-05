@@ -104,7 +104,7 @@ Content Analytics uses AI and Experience Platform infrastructure to reveal what 
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="edit-configuration.md" target="_blank" rel="referrer" title="Content Analytics - Edit configuration">Content Analytics - Edit configuration</a>
                     </p>
-                    <p class="is-size-6">Efficiently edit DNL Content Analytics configurations by adjusting names, data views, and experience capture settings. This action automatically updates metrics and performs fine-tuning via the Content Analytics Tags extension for optimized insights.</p>
+                    <p class="is-size-6">Efficiently edit Content Analytics configurations by adjusting names, data views, and experience capture settings. This action automatically updates metrics and performs fine-tuning via the Content Analytics Tags extension for optimized insights.</p>
                 </div>
                 <a href="edit-configuration.md" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Watch</span>
