@@ -8,6 +8,7 @@ doc-type: Feature Video
 duration: 318
 last-substantial-update: 2025-09-04
 jira: KT-17461
+exl-id: 4fd96924-f753-411c-97b7-f37c149590c1
 ---
 # [!DNL Content Analytics] - Reporting
 
