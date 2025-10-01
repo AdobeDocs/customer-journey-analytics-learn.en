@@ -10,6 +10,7 @@ type: Tutorial
 + Customer Journey Analytics basics {#cja-basics}
     + [What is Customer Journey Analytics?](cja-basics/what-is-customer-journey-analytics.md)
     + [Introduction to Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
+    + [Introduction to Customer Journey Analytics - B2B Edition](cja-basics/cja-b2b-overview.md)
     + [New terms and concepts](cja-basics/new-terms-and-concepts-in-cja.md)
     + [Customer Journey Analytics landing page](cja-basics/customer-journey-analytics-landing-page.md)
     + [Use AI Assistant](cja-basics/use-ai-assistant.md)
