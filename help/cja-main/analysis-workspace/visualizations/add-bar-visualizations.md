@@ -21,4 +21,4 @@ Learn how to add and configure standard [!UICONTROL bar] and [!UICONTROL stacked
 
 >[!VIDEO](https://video.tv.adobe.com/v/334308/?quality=12&learn=on)
 
-For more information about [!UICONTROL bar] visualizations, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html).
+For more information about [!UICONTROL bar] visualizations, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html){target="_blank"}.

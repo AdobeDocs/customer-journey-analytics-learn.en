@@ -21,4 +21,4 @@ Learn how to add and configure the [!UICONTROL tree map] visualization in [!DNL 
 
 >[!VIDEO](https://video.tv.adobe.com/v/334458/?quality=12&learn=on)
 
-For more information about [!UICONTROL tree map] visualizations, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html).
+For more information about [!UICONTROL tree map] visualizations, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/treemap.html){target="_blank"}.

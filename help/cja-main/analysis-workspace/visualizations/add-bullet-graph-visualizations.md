@@ -21,4 +21,4 @@ Learn how [!UICONTROL bullet graphs] are used and how to add them to [!DNL Analy
 
 >[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
 
-For more information about [!UICONTROL bullet graph] visualizations, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html).
+For more information about [!UICONTROL bullet graph] visualizations, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bullet-graph.html){target="_blank"}.

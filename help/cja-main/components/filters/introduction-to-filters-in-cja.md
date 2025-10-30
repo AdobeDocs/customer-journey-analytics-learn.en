@@ -12,7 +12,7 @@ exl-id: 22076ef3-8d97-4483-bc05-5f37b15c868f
 ---
 # Segments overview
 
-Segments identify subsets of visitors or customers based on attributes and events, like website visitors or call center engagement. Learn about the key components of Segment Builder in Customer Journey Analytics. For more information about Customer Journey Analytics, visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview).
+Segments identify subsets of visitors or customers based on attributes and events, like website visitors or call center engagement. Learn about the key components of Segment Builder in Customer Journey Analytics. For more information about Customer Journey Analytics, visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/filters-overview){target="_blank"}.
 
 >[!NOTE]
 >

@@ -15,4 +15,4 @@ The landing page for Customer Journey Analytics features a default view of your 
 
 >[!VIDEO](https://video.tv.adobe.com/v/343041/?quality=12&learn=on)
 
-For more information, please see the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/landing.html?lang=en).
+For more information, please see the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/landing.html?lang=en){target="_blank"}.

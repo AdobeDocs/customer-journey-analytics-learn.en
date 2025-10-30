@@ -20,4 +20,4 @@ You can also compare multiple events in a single funnel step, creating a "forked
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431113/?learn=on)
 
-For more information, please visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/funnel/friction).
+For more information, please visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/funnel/friction){target="_blank"}.

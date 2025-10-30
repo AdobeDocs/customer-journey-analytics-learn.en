@@ -16,4 +16,4 @@ Learn how **net growth** in Customer Journey Analytics provides insights around 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421664/?learn=on)
 
-For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html).
+For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/net-growth.html){target="_blank"}.

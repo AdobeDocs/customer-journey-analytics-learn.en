@@ -19,4 +19,4 @@ This video is not a technical deep dive, but rather a practical look at how [!UI
 
 >[!VIDEO](https://video.tv.adobe.com/v/30750/?learn=on&quality=12)
 
-For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).
+For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}.

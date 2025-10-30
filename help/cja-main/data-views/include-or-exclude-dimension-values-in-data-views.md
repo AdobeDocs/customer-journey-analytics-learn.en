@@ -18,4 +18,4 @@ With this [!UICONTROL Data View] configuration feature, you can filter values in
 
 ## Additional Resources
 
-* [Customer Journey Analytics - Data Views Documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html)
+* [Customer Journey Analytics - Data Views Documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html){target="_blank"}

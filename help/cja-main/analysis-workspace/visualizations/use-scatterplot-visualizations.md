@@ -21,4 +21,4 @@ Learn how to use the [!UICONTROL scatterplot] visualization in [!DNL Analysis Wo
 
 >[!VIDEO](https://video.tv.adobe.com/v/334459/?quality=12&learn=on)
 
-For more information about [!UICONTROL scatterplot] visualizations, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html).
+For more information about [!UICONTROL scatterplot] visualizations, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/scatterplot.html){target="_blank"}.

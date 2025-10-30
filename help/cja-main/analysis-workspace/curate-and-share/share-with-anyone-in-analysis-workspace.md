@@ -16,4 +16,4 @@ Learn about the "share with anyone" feature in Workspace. You can use this featu
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420093/?learn=on)
 
-For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=en#share-public-link).
+For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/share-projects.html?lang=en#share-public-link){target="_blank"}.

@@ -16,4 +16,4 @@ In this video, we demonstrate how to use data prep features for Analytics data, 
 
 >[!VIDEO](https://video.tv.adobe.com/v/29687?quality=12&learn=on)
 
-For more information, please see the [Adobe Analytics source connector documentation](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html) and the [Data prep functions documentation](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html).
+For more information, please see the [Adobe Analytics source connector documentation](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html){target="_blank"} and the [Data prep functions documentation](https://experienceleague.adobe.com/docs/experience-platform/data-prep/functions.html){target="_blank"}.

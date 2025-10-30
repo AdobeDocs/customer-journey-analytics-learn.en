@@ -21,4 +21,4 @@ Learn how to add [!UICONTROL area] and [!UICONTROL area stacked] visualizations 
 
 >[!VIDEO](https://video.tv.adobe.com/v/334261/?quality=12&learn=on)
 
-For more information about [!UICONTROL area] visualizations, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html).
+For more information about [!UICONTROL area] visualizations, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/area.html){target="_blank"}.

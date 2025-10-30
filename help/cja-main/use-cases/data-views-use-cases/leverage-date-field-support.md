@@ -16,4 +16,4 @@ Date field support adds the ability to work with date and date-time fields withi
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412322/?quality=12&learn=on)
 
-For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/data-views/data-views-usecases.html?lang=en#date).
+For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/data-views/data-views-usecases.html?lang=en#date){target="_blank"}.

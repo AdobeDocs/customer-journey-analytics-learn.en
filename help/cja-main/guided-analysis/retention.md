@@ -18,4 +18,4 @@ Learn how to use start and return events to measure user engagement and retentio
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430503/?learn=on)
 
-For more information, please visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/retention/retention-rates).
+For more information, please visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/retention/retention-rates){target="_blank"}.

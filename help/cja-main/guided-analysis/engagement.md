@@ -17,4 +17,4 @@ Learn how **engagement** in Customer Journey Analytics provides insights about h
 >[!VIDEO](https://video.tv.adobe.com/v/3429489/&learn=on)
 
 For more information, please visit the [documentation](
-https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement).
+https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/feature-matrix/engagement){target="_blank"}.

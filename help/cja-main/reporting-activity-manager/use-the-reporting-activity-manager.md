@@ -14,6 +14,6 @@ exl-id: bf2102a9-d536-4e68-9fa2-2ca1012f9858
 
 Use the Reporting Activity Manager in [!DNL Customer Journey Analytics] to monitor and manage reporting capacity across organizational connections. This video covers accessing key metrics, troubleshooting performance issues, and optimizing system efficiency.
 
-For more information, please visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview).
+For more information, please visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/reporting-activity-manager/reporting-activity-overview){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3470314/?learn=on)

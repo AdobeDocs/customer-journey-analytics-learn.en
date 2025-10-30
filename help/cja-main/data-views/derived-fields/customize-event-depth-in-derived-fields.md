@@ -14,6 +14,6 @@ exl-id: 98eef481-259e-4729-945c-8701f1216954
 
 Learn how to configure Event Depth in Customer Journey Analytics derived fields to customize analytics for page depth, internal search depth, and more. This feature empowers users to track user behavior with precision, enhancing data-driven insights.
 
-For more information, please visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields).
+For more information, please visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471041/?learn=on)

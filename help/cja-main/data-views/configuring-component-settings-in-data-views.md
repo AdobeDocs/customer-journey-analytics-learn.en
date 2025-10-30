@@ -17,4 +17,4 @@ In this video we'll walk through a few of the basic component settings that you'
 
 ## Additional Resources
 
-* [Customer Journey Analytics - Data Views Documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html)
+* [Customer Journey Analytics - Data Views Documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html){target="_blank"}

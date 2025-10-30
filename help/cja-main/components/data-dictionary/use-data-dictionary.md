@@ -12,8 +12,8 @@ exl-id: b63f8e7d-ae3f-4e4c-a221-3a90607e3ba3
 ---
 # Use the Data Dictionary
 
-Learn about the Data Dictionary in Analysis Workspace for Customer Journey Analytics. This feature helps users and administrators track and understand the components used in projects. 
+Learn about the Data Dictionary in Analysis Workspace for Customer Journey Analytics. This feature helps users and administrators track and understand the components used in projects.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418028/?quality=12&learn=on)
 
-For more information about the Data Dictionary in Analysis Workspace for Customer Journey Analytics, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview.html).
+For more information about the Data Dictionary in Analysis Workspace for Customer Journey Analytics, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/data-dictionary/data-dictionary-overview.html){target="_blank"}.

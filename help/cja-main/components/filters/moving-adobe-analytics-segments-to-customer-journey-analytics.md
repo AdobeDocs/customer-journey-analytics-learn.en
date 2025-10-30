@@ -20,4 +20,4 @@ In this video you will learn tips for re-creating your Adobe Analytics [!UICONTR
 
 >[!VIDEO](https://video.tv.adobe.com/v/31982/?quality=12&learn=on)
 
-For more information about Customer Journey Analytics, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).
+For more information about Customer Journey Analytics, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}.

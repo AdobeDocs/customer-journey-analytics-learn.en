@@ -16,4 +16,4 @@ Learn how **release impact** in Customer Journey Analytics shows a comparison of
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421665/?learn=on)
 
-For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html).
+For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/impact/release.html){target="_blank"}.

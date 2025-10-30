@@ -16,4 +16,4 @@ Learn how to utilize object arrays from profile and lookup datasets in CJA to en
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424502/?learn=on)
 
-For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/complex-data/object-arrays.html).
+For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/complex-data/object-arrays.html){target="_blank"}.

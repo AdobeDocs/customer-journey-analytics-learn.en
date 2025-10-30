@@ -15,4 +15,4 @@ Learn to use string manipulation methods to obtain the desired portion of dimens
 
 >[!VIDEO](https://video.tv.adobe.com/v/343526/?quality=12&learn=on)
 
-For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/substring.html).
+For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/substring.html){target="_blank"}.

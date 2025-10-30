@@ -21,4 +21,4 @@ Learn how to add and configure [!UICONTROL text] visualizations in [!DNL Analysi
 
 >[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12&learn=on)
 
-For more information about [!UICONTROL text] visualizations, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html).
+For more information about [!UICONTROL text] visualizations, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/text.html){target="_blank"}.

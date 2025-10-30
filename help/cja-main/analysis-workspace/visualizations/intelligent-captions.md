@@ -16,4 +16,4 @@ Learn how to enable intelligent captions in your visualizations so that you can 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420131/?learn=on)
 
-For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=en).
+For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/intelligent-captions.html?lang=en){target="_blank"}.

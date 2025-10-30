@@ -21,4 +21,4 @@ Learn how to configure [!UICONTROL fully stacked bar] visualizations (100%) usin
 
 >[!VIDEO](https://video.tv.adobe.com/v/23131/?quality=12&learn=on)
 
-For more information about [!UICONTROL fully stacked var] visualizations, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html).
+For more information about [!UICONTROL fully stacked var] visualizations, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/bar.html){target="_blank"}.

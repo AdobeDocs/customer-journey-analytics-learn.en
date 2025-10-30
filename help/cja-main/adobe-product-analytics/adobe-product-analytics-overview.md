@@ -25,4 +25,4 @@ Using Adobe Product Analytics, teams can:
 * Discover meaningful segments of users to engage and nurture throughout their lifelong journey with the product
 * Connect to Analysis Workspace for deeper analysis and collaboration with analysts
 
-For additional information, please visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/overview).
+For additional information, please visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/overview){target="_blank"}.

@@ -21,4 +21,4 @@ Learn how to add and configure [!UICONTROL line] visualizations in [!DNL Analysi
 
 >[!VIDEO](https://video.tv.adobe.com/v/40384/?quality=12&learn=on)
 
-For more information about [!UICONTROL line] visualizations, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/line.html).
+For more information about [!UICONTROL line] visualizations, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/line.html){target="_blank"}.
