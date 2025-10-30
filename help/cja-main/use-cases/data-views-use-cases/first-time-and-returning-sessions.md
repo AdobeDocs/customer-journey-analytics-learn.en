@@ -16,4 +16,4 @@ First-time and returning sessions functionality provides the ability to distingu
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412321/?quality=12&learn=on)
 
-For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/data-views/data-views-usecases.html?lang=en#new-repeat).
+For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/data-views/data-views-usecases.html?lang=en#new-repeat){target="_blank"}.

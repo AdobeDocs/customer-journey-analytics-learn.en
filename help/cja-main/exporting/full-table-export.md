@@ -12,7 +12,7 @@ exl-id: 1659b296-3fef-4497-9700-5799e3494737
 ---
 # Full table export in Customer Journey Analytics
 
-Learn the basic set-up of a table delivery from Customer Journey Analytics to both AEP Data Landing Zone and Snowflake. For detailed documentation, visit [Export Customer Journey Analytics reports to the cloud](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html).
+Learn the basic set-up of a table delivery from Customer Journey Analytics to both AEP Data Landing Zone and Snowflake. For detailed documentation, visit [Export Customer Journey Analytics reports to the cloud](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/export/export-cloud.html){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425389/?learn=on)
 

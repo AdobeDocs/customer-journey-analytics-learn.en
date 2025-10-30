@@ -14,6 +14,6 @@ exl-id: e5427085-5ab8-4d6b-96c6-83bc8005a08e
 
 Use freeform panels to explore, compare, and correlate your customer experience data through a flexible, drag-and-drop interface.
 
-For more information, please visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/freeform-panel).
+For more information, please visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/freeform-panel){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458210/?learn=on)

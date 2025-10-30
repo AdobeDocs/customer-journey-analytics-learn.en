@@ -13,6 +13,6 @@ exl-id: f124f6ef-220d-498c-9cfa-a08a7983f300
 
 Master Date Math in Customer Journey Analytics derived fields. Date Math calculates time differences between events, such as search-to-order duration, for deeper user behavior analysis. Leverage dynamic date ranges and flexible configurations to optimize analytics for industries like Travel and Hospitality.
 
-For more information, please visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields).
+For more information, please visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471043/?learn=on)

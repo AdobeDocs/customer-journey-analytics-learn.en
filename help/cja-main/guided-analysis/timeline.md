@@ -15,4 +15,4 @@ Learn about **timeline** in Customer Journey Analytics, which helps you find exp
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427810/?learn=on)
 
-For more information, please visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/streams/timeline).
+For more information, please visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/guided-analysis/streams/timeline){target="_blank"}.

@@ -16,4 +16,4 @@ Explore the potential of using Math functions for creating derived fields in Cus
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430617/&learn=on)
 
-For more information, please visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields).
+For more information, please visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields){target="_blank"}.

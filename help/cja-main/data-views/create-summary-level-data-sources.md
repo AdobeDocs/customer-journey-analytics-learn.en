@@ -17,4 +17,4 @@ Customer Journey Analytics supports summary-level data that allows users to aggr
 
 ## Additional Resources
 
-* For more information, please visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/summary-data)
+* For more information, please visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/summary-data){target="_blank"}.

@@ -14,10 +14,10 @@ exl-id: 70ebc514-5a2e-4947-ad2c-b90c35665b42
 ---
 # Ingest and use [!DNL Adobe Analytics] classifications data in [!DNL Analysis Workspace] in [!DNL Customer Journey Analytics]
 
-Learn how to ingest and use [!DNL Analytics] classifications data in [!DNL Customer Journey Analytics]. Once the classifications data is available in [!DNL Experience Platform], update [!UICONTROL connections] and [!UICONTROL data views] to include the new classification fields to use in [!DNL Analysis Workspace]. 
+Learn how to ingest and use [!DNL Analytics] classifications data in [!DNL Customer Journey Analytics]. Once the classifications data is available in [!DNL Experience Platform], update [!UICONTROL connections] and [!UICONTROL data views] to include the new classification fields to use in [!DNL Analysis Workspace].
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420556/?quality=12&learn=on)
 
-For more information about the [!DNL Adobe Analytics] source connector for [!UICONTROL classifications] data, visit the [documentation](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications.html).
+For more information about the [!DNL Adobe Analytics] source connector for [!UICONTROL classifications] data, visit the [documentation](https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/classifications.html){target="_blank"}.
 
-The derived fields feature in Customer Journey Analytics is referenced in this video. To learn more about this feature, watch the [video](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields-in-cja.html) or visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html).
+The derived fields feature in Customer Journey Analytics is referenced in this video. To learn more about this feature, watch the [video](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields-in-cja.html){target="_blank"} or visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html){target="_blank"}.

@@ -18,4 +18,5 @@ Once you have created a [!UICONTROL Connection] in Customer Journey Analytics to
 
 ## Additional Resources
 
-* [Customer Journey Analytics - Data Views Documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html)
+* [Customer Journey Analytics - Data Views Documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html){target="_blank"}.
+

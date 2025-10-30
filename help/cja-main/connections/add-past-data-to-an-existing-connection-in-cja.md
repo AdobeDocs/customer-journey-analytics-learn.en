@@ -18,4 +18,4 @@ Get more value out of your analysis by adding new data from other channels to a 
 
 >[!VIDEO](https://video.tv.adobe.com/v/32549/?learn=on&quality=12&learn=on)
 
-For more information about Cross-Channel Analytics, review the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html).
+For more information about Cross-Channel Analytics, review the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cca/overview.html){target="_blank"}.

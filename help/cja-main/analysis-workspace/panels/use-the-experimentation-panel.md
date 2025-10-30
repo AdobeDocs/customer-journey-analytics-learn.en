@@ -16,4 +16,4 @@ Learn how to configure and use the experimentation panel, which automatically bu
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412318/?quality=12&learn=on)
 
-For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/experimentation.html).
+For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/experimentation.html){target="_blank"}.

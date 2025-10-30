@@ -17,4 +17,4 @@ Learn how to create a basic project in Analysis Workspace for Customer Journey A
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418396/?learn=on&quality=12)
 
-For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/perform-basic-analysis.html).
+For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/perform-basic-analysis.html){target="_blank"}.

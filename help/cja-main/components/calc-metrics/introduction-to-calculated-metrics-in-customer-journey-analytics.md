@@ -19,4 +19,4 @@ In this video, we'll walk through the basics of creating [!UICONTROL Calculated 
 
 >[!VIDEO](https://video.tv.adobe.com/v/31787/?quality=12&learn=on)
 
-For more information about Customer Journey Analytics, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).
+For more information about Customer Journey Analytics, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}.

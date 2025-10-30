@@ -19,4 +19,4 @@ In this video, discover how Customer Journey Analytics allows you to create [!UI
 
 >[!VIDEO](https://video.tv.adobe.com/v/31771/?quality=12&learn=on)
 
-For more information about Customer Journey Analytics, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html).
+For more information about Customer Journey Analytics, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}.

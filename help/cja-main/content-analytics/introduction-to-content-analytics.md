@@ -11,7 +11,7 @@ exl-id: 2e7c0934-69da-4b85-bf3e-eec294ff1ba0
 ---
 # Introduction to Content Analytics
 
-Measuring content performance can be challenging, often leading to guesswork and inefficiencies. Content Analytics eliminates the guesswork by providing deep insights into what makes content effective—whether it's tone, imagery, color, or messaging. It answers key questions like what drives engagement and how content can be optimized.
+Measuring content performance can be challenging, often leading to guesswork and inefficiencies. Content Analytics eliminates the guesswork by providing deep insights into what makes content effective - whether it's tone, imagery, color, or messaging. It answers key questions like what drives engagement and how content can be optimized.
 
 For more information, review the Content Analytics [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/content-analytics){target="_blank"}.
 

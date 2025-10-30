@@ -14,6 +14,6 @@ exl-id: 3377da85-b8ff-4e6a-ad1a-e103fd458f77
 
 Learn how to answer business questions quickly and easily using the quick insights panel in Customer Journey Analytics. Suitable for new users or advanced analysts, this panel allows you to intuitively experiment with dimensions, metrics, visualizations, and segments to produce the best combination of components for your analysis. 
 
-For more information, please visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/quickinsight).
+For more information, please visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/panels/quickinsight){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457905/?learn=on)

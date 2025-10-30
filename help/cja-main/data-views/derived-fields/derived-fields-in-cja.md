@@ -22,4 +22,4 @@ Example use cases include:
 * Configure a derived page name field that corrects page name values that were improperly collected.
 * Configure a derived marketing channel field that determines the proper marketing channel based on one or more conditions, such as URL parameter, page URL, or page name.
 
-For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html).
+For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/derived-fields.html){target="_blank"}.

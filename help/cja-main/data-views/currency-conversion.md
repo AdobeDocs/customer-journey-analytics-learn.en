@@ -12,6 +12,6 @@ exl-id: 97a93244-a7fd-46d2-abe1-b694a73fe81a
 ---
 # Currency conversion in Customer Journey Analytics
 
-Perform currency conversion in customer journey analytics through a setting in Data Views. Use this functionality to create multiple metrics to display in different currencies. For detailed documentation, please visit [Format component settings](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/format.html?lang=en#currency).
+Perform currency conversion in customer journey analytics through a setting in Data Views. Use this functionality to create multiple metrics to display in different currencies. For detailed documentation, please visit [Format component settings](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/format.html?lang=en#currency){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424816/?learn=on)

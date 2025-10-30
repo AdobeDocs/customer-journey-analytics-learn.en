@@ -16,4 +16,4 @@ Learn how to publish audiences from Customer Journey Analytics to the Adobe Expe
 
 >[!VIDEO](https://video.tv.adobe.com/v/346759/?quality=12&learn=on)
 
-For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/audiences/audiences-overview.html?lang=en).
+For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/audiences/audiences-overview.html?lang=en){target="_blank"}.

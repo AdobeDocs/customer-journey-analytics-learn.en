@@ -16,4 +16,4 @@ Learn how **active growth** in Customer Journey Analytics provides insights arou
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421667/?learn=on)
 
-For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html).
+For more information, please visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/guided-analysis/user-growth/active.html){target="_blank"}.

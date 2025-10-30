@@ -12,7 +12,7 @@ exl-id: b67e8ae2-17c9-44b6-b62d-3adb1019c5fd
 ---
 # Create dynamic drop-down segments in Analysis Workspace
 
-Learn how to create drop-down segments based on an entire dimension. Dimension items are dynamically updated based on the date range used in the report panel. For more information, please visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/create-filters).
+Learn how to create drop-down segments based on an entire dimension. Dimension items are dynamically updated based on the date range used in the report panel. For more information, please visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/cja-segments/create-filters){target="_blank"}.
 
 >[!NOTE]
 >
