@@ -6,7 +6,7 @@ short-description: Learn how to do multi-channel analysis on any of your Experie
 feature: Workspace Basics
 thumbnail: 30090.jpg
 kt: 3953
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 8b9644dd-1992-499c-88f0-acd3ef182956
 ---

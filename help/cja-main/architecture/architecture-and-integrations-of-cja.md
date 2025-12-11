@@ -8,9 +8,8 @@ doc-type: technical video
 team: Technical Marketing
 thumbnail: 32483.jpg
 kt: 4449
-
 topic: Architecture
-role: Architect, Data Architect
+role: Developer
 level: Intermediate
 exl-id: 441e632f-b8d0-428a-9db6-c048bf173443
 ---
