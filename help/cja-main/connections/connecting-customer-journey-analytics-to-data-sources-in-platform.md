@@ -4,7 +4,7 @@ description: Customer Journey Analytics leverages datasets ingested into Adobe E
 feature: Connections
 activity: setup
 doc-type: feature video
-role: Data Engineer, Data Architect
+role: Developer
 level: Intermediate
 thumbnail: 30140.jpg
 kt: 3954

@@ -4,7 +4,7 @@ description: Learn about adding new data to a Customer Journey Analytics connect
 feature: Connections
 activity: setup
 doc-type: technical video
-role: Admin, Data Engineer, Data Architect
+role: Admin, Developer
 level: Beginner
 team: Technical Marketing
 thumbnail: 32549.jpg

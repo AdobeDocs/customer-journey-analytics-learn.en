@@ -2,7 +2,7 @@
 title: Use arrays of objects
 description: Learn how to utilize object arrays from profile and lookup datasets in CJA to enrich your B2B and B2C analysis, from Connections, to Data Views, and Workspace.
 feature: Use Cases
-role: Data Architect, Data Engineer
+role: Developer
 level: Experienced
 doc-type: Technical Video
 last-substantial-update: 2023-09-21

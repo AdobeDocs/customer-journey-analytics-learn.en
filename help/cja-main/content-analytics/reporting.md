@@ -2,7 +2,7 @@
 title: Content Analytics - Reporting
 description: Discover how Content Analytics automates asset tracking and provides detailed reports on website content performance, including views, clicks, and conversions.
 feature: Content Analytics
-role: Architect, Leader, User
+role: Developer, Leader, User
 level: Beginner
 doc-type: Feature Video
 duration: 318

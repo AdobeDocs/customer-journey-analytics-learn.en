@@ -2,7 +2,7 @@
 title: Content Analytics - How it works
 description: Learn how Content Analytics works with Customer Journey Analytics and Experience Platform.
 feature: Content Analytics
-role: Architect, Leader, User
+role: Developer, Leader, User
 level: Beginner
 doc-type: Feature Video
 duration: 337

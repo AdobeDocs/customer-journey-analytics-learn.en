@@ -2,7 +2,7 @@
 title: Content Analytics - Edit configuration
 description: Efficiently edit Content Analytics configurations by adjusting names, data views, and experience capture settings.
 feature: Content Analytics
-role: Architect, Leader, User
+role: Developer, Leader, User
 level: Beginner
 doc-type: Feature Video
 duration: 113

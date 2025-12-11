@@ -2,7 +2,7 @@
 title: Binding Dimensions in Data Views
 description: Binding dimensions is an exciting feature in Customer Journey Analytics that gives you the ability to take one dimension and connect it to another dimension fo… (Descriptions should be between 60 and 160 characters)
 feature: Data Views
-role: Data Architect, User
+role: Developer, User
 level: Intermediate
 kt: 10375
 thumbnail: 342694.jpeg
