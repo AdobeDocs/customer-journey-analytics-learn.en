@@ -151,6 +151,8 @@ type: Tutorial
 + Experience Platform Integration {#experience-platform-integration}
     + [Enhanced reporting for Adobe Journey Optimizer](experience-platform-integration/enhanced-reporting-for-adobe-journey-optimizer.md)
 + Use cases {#use-cases}
+    + Artifical Intelligence {#ai}
+        + [Track and analyze AI traffic](use-cases/ai/track-and-analyze-ai-traffic.md)
     + Data views use cases {#data-views-use-cases}
         + [First-time and returning sessions reporting](use-cases/data-views-use-cases/first-time-and-returning-sessions.md)
         + [Use date field support](use-cases/data-views-use-cases/leverage-date-field-support.md)
