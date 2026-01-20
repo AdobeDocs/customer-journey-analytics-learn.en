@@ -97,6 +97,7 @@ type: Tutorial
     + Annotations {#annotations}
         + [Create an annotation](analysis-workspace/annotations/create-an-annotation.md)
     + Curate and share {#curate-and-share}
+        + [Data Storytelling: Generate slide presentations](analysis-workspace/curate-and-share/data-storytelling-generate-slides.md)
         + [Share with anyone in Analysis Workspace](analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.md)
     + Tips and tricks {#tips-and-tricks}
         + [Create dynamic drop-down segments](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
