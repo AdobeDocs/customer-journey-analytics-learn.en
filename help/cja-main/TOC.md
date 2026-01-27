@@ -9,6 +9,7 @@ type: Tutorial
 + [Customer Journey Analytics overview](overview.md)
 + Customer Journey Analytics basics {#cja-basics}
     + [What is Customer Journey Analytics?](cja-basics/what-is-customer-journey-analytics.md)
+    + [Why CJA? Strategic Review of CJA vs. Adobe Analytics](cja-basics/why-cja-modernize-customer-analytics.md)
     + [Introduction to Customer Journey Analytics](cja-basics/understanding-customer-journey-analytics.md)
     + [New terms and concepts](cja-basics/new-terms-and-concepts-in-cja.md)
     + [Customer Journey Analytics landing page](cja-basics/customer-journey-analytics-landing-page.md)
