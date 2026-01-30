@@ -87,6 +87,7 @@ type: Tutorial
         + [Add bar visualizations](analysis-workspace/visualizations/add-bar-visualizations.md)
         + [Add bullet graph visualizations](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
         + [Add donut visualizations](analysis-workspace/visualizations/add-donut-visualizations.md)
+        + [Multiple dimension columns in freeform tables](analysis-workspace/visualizations/multiple-dimension-columns-in-freeform-tables.md)
         + [Add line visualizations](analysis-workspace/visualizations/line-visualization.md)
         + [Configure and use the map visualization](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
         + [Use summary visualizations](analysis-workspace/visualizations/use-summary-visualizations.md)
