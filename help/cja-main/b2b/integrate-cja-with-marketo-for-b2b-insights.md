@@ -8,8 +8,8 @@ doc-type: Feature Video
 duration: 252
 last-substantial-update: 2025-12-04
 jira: KT-19915
+exl-id: 82846311-393b-472a-b625-007c794c59da
 ---
-
 # Integrate Customer Journey Analytics with Marketo for B2B insights
 
 Discover how integrating Customer Journey Analytics with Marketo enhances B2B data analysis. Focus on marketing channel contribution, revenue impact, and campaign effectiveness by job title. This integration helps you understand how marketing efforts drive opportunities, particularly for C-suite executives, using advanced attribution models and audience targeting strategies.

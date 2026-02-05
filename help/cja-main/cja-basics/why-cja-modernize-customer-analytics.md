@@ -9,6 +9,7 @@ doc-type: Value Video
 duration: 185
 last-substantial-update: 2026-01-26
 jira: KT-20192
+exl-id: 4e3195d4-b281-4681-87f9-814f096a04bd
 ---
 # Why CJA? A strategic review of CJA vs. Adobe Analytics
 

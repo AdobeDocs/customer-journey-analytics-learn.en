@@ -1,5 +1,5 @@
 ---
-title: Data Storytelling - Generate Slide Presentations 
+title: Data Storytelling - Generate Slide Presentations
 description: Discover the powerful Data Storytelling feature in Adobe Customer Journey Analytics that uses generative AI to transform your Analysis Workspace projects into professional PowerPoint presentations.
 feature: Curate and Share
 topic: Artificial Intelligence
@@ -9,6 +9,7 @@ doc-type: Feature Video
 duration: 150
 last-substantial-update: 2026-01-20
 jira: KT-20142
+exl-id: 0802a5ae-2e82-4650-be5e-c174c0489457
 ---
 # Data Storytelling: Generate slide presentations
 

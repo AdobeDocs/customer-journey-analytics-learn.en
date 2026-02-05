@@ -9,6 +9,7 @@ doc-type: Feature Video
 duration: 230
 last-substantial-update: 2026-01-07
 jira: KT-20054
+exl-id: 2cd7693b-7534-408f-a128-b782222a4762
 ---
 # Track and analyze AI traffic
 
