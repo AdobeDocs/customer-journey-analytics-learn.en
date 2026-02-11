@@ -9,7 +9,7 @@ doc-type: Feature Video
 duration: 196
 last-substantial-update: 2026-02-11
 jira: KT-20295
-
+exl-id: 29b8a927-198c-4550-85b8-7f7d81ccddb5
 ---
 # Get Started with Audience Analysis
 
