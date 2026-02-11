@@ -31,6 +31,7 @@ type: Tutorial
     + [View, troubleshoot, and modify connection settings](connections/connections-details-experience-in-cja.md)
     + [Add new data to a connection](connections/add-past-data-to-an-existing-connection-in-cja.md)
     + [CJA lookups for lookup and profile data](connections/cja-lookup-data.md)
+    + [Get started with Audience Analysis](connections/get-started-with-audience-analysis.md)
 + Visitor identification {#visitor-id}
     + [Understanding how CJA uses identity](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
     + [Configure a missing Person ID](visitor-id/configure-missing-person-id.md)
