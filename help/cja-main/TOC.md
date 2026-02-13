@@ -91,7 +91,7 @@ type: Tutorial
         + [Multiple dimension columns in freeform tables](analysis-workspace/visualizations/multiple-dimension-columns-in-freeform-tables.md)
         + [Add line visualizations](analysis-workspace/visualizations/line-visualization.md)
         + [Configure and use the map visualization](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
-        + [Use summary visualizations](analysis-workspace/visualizations/use-summary-visualizations.md)
+        + [Add summary visualizations](analysis-workspace/visualizations/use-summary-visualizations.md)
         + [Add text visualizations](analysis-workspace/visualizations/add-text-visualizations.md)
         + [Use the scatterplot visualization](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
         + [Add the tree map visualization](analysis-workspace/visualizations/add-treemap-visualizations.md)
