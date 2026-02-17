@@ -127,6 +127,7 @@ type: Tutorial
         + [Use segments as dimensions](components/filters/use-filters-as-dimensions.md)
         + [Create audiences from segments](components/filters/create-audiences-from-segments.md)
         + [Move Adobe Analytics segments to Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+    + [Real-time reporting](components/real-time-reporting.md)   
     + Dimensions {#dimensions}
         + [Event Depth](components/dimensions/event-depth-in-cja.md)
     + Calculated metrics {#calc-metrics}
