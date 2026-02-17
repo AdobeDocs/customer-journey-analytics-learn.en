@@ -8,6 +8,7 @@ doc-type: Feature Video
 duration: 304
 last-substantial-update: 2026-02-17
 jira: KT-20294
+exl-id: 2b794de1-473f-4605-aa37-94ce18ab43a6
 ---
 # Real-time reporting
 
