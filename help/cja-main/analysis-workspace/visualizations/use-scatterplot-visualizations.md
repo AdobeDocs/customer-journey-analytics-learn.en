@@ -8,7 +8,7 @@ level: Beginner
 last-substantial-update: 2026-02-17
 exl-id: 2733a815-c030-4fad-81d9-3f38fb1e7378
 ---
-# Use [!UICONTROL scatter] visualizations in [!DNL Analysis Workspace] projects in [!DNL Customer Journey Analytics]
+# Add [!UICONTROL scatter] visualizations in [!DNL Analysis Workspace] projects in [!DNL Customer Journey Analytics]
 
 Learn how to use the [!UICONTROL scatter] visualization in [!DNL Analysis Workspace] projects in [!DNL Customer Journey Analytics]. This visualization shows the relationship between dimension items and up to three metrics.
 

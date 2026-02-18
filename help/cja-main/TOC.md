@@ -93,8 +93,8 @@ type: Tutorial
         + [Configure and use the map visualization](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
         + [Add summary visualizations](analysis-workspace/visualizations/use-summary-visualizations.md)
         + [Add text visualizations](analysis-workspace/visualizations/add-text-visualizations.md)
-        + [Add scatterplot visualizations](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
-        + [Add tree map visualizations](analysis-workspace/visualizations/add-treemap-visualizations.md)
+        + [Add scatter visualizations](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
+        + [Add the tree map visualization](analysis-workspace/visualizations/add-treemap-visualizations.md)
         + [Create 100% stacked visualizations](analysis-workspace/visualizations/create-stacked-visualizations.md)
         + [Add forecasting to your visualization](analysis-workspace/visualizations/forecasting.md)
     + Annotations {#annotations}
