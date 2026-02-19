@@ -12,7 +12,7 @@ exl-id: 2b794de1-473f-4605-aa37-94ce18ab43a6
 ---
 # Real-time reporting
 
-Discover how real-time reporting in Adobe Customer Journey Analytics delivers key metrics like revenue, conversions, and visits directly in Analysis Workspace. Ideal for major promotions, product launches, and journey validation—this feature empowes marketers to make faster, data-driven decisions when every minute counts.
+Discover how real-time reporting in Adobe Customer Journey Analytics delivers key metrics like revenue, conversions, and visits directly in Analysis Workspace. Ideal for major promotions, product launches, and journey validation—this feature empowers marketers to make faster, data-driven decisions when every minute counts.
 
 For more information, review the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-components/real-time-reporting/real-time){target="_blank"}.
 
