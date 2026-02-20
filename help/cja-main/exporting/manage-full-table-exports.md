@@ -2,12 +2,13 @@
 title: Administer and Manage Full Table Exports in Customer Journey Analytics
 description: Learn how to administer and manage full table exports in Customer Journey Analytics.
 feature: Curate and Share
-role: Administrator
+role: Admin
 level: Intermediate
 doc-type: Feature Video
 duration: 217
 last-substantial-update: 2026-02-19
 jira: KT-20296
+exl-id: f6b111ab-8882-43e5-a7cc-da775f53ca6b
 ---
 # Administer and manage full table exports
 
