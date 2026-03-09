@@ -11,7 +11,7 @@ last-substantial-update: 2026-02-11
 jira: KT-20295
 exl-id: 29b8a927-198c-4550-85b8-7f7d81ccddb5
 ---
-# Get Started with Audience Analysis
+# Get started with Audience Analysis
 
 Discover how Audience Analysis lets marketers ingest audience segments from Experience Platform and analyze real customer behaviors across channels for better campaign optimization. Learn the simple setup steps to enable audience membership data, explore pre-built templates, and uncover actionable insights that drive personalization, conversions, and ROI.
 
