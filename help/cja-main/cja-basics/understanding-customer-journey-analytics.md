@@ -1,19 +1,19 @@
 ---
 title: Introduction to Customer Journey Analytics
-description: Adobe's Customer Journey Analytics (CJA) is an application service built on top of Adobe Experience Platform. It brings the rich analysis tool known as Analysis Workspace into the Platform, to allow you to do multi-channel analysis on any of your Platform data sets.
-landing-page-description: Learn how to do multi-channel analysis on any of your Experience Platform data sets.
-short-description: Learn how to do multi-channel analysis on any of your Experience Platform data sets.
+description: Adobe Customer Journey Analytics (CJA) is Adobe's next-generation analytics solution built on Adobe Experience Platform. 
 feature: Workspace Basics
 thumbnail: 30090.jpg
 kt: 3953
 role: User, Developer, Admin, Leader
 level: Beginner
+duration: 270
+last-substantial-update: 2026-03-13
 exl-id: 8b9644dd-1992-499c-88f0-acd3ef182956
 ---
 # Introduction to Customer Journey Analytics
 
-Adobe Customer Journey Analytics (CJA) is an application service built on top of Adobe Experience Platform. It brings the rich analysis tool known as Analysis Workspace into the Platform, to allow you to do multi-channel analysis on any of your Platform data sets.
+Adobe Customer Journey Analytics (CJA) is Adobe's next-generation analytics solution built on Adobe Experience Platform. It unifies online and offline data sources—like websites, mobile apps, call centers, CRM, and in-store systems—into a single person-centric view to analyze complete customer journeys across channels and devices. Use Analysis Workspace's drag-and-drop interface to create  connected event-level, cross-channel reports.
+
+For more information, visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-landing){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30090/?quality=12&learn=on)
-
-For more information, visit the [documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html){target="_blank"}.
