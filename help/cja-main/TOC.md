@@ -34,9 +34,10 @@ type: Tutorial
     + [Get started with Audience Analysis](connections/get-started-with-audience-analysis.md)
 + Visitor identification {#visitor-id}
     + [Understanding how CJA uses identity](visitor-id/understanding-how-customer-journey-analytics-uses-identity.md)
-    + [Configure a missing Person ID](visitor-id/configure-missing-person-id.md)
     + [Overview of stitching](visitor-id/overview-of-stitching.md)
+    + [Validate data and stitching quality using preview](visitor-id/validate-identity-stitching-quality.md)
     + [Stitching enablement and validation](visitor-id/stitching-enablement-and-validation.md)
+    + [Configure a missing Person ID](visitor-id/configure-missing-person-id.md)
 + Data views {#data-views}
     + [Overview of configuring data views for CJA](data-views/overview-of-configuring-data-views-for-cja.md)
     + [Basic configuration for data views](data-views/basic-configuration-for-data-views.md)
