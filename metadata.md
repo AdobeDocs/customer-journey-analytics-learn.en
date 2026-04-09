@@ -3,6 +3,8 @@ cloud: Experience Cloud
 product: customer journey analytics
 solution: Customer Journey Analytics
 feature-set: Customer Journey Analytics
+landing-page-name: customer-journey-analytics
+landing-page-breadcrumb-title: Customer Journey Analytics
 type: Tutorial
 solution-title:  Customer Journey Analytics
 solution-hub-url: https://docs.adobe.com/content/help/en/customer-journey-analytics-learn/tutorials/overview.html
@@ -11,7 +13,7 @@ getting-started-url: https://experienceleague.adobe.com/
 tutorials-title: Tutorials
 tutorials-url: /content/help/en/customer-journey-analytics-learn/tutorials/overview.html
 git-repo: https://github.com/AdobeDocs/customer-journey-analytics-learn.en
-index: yes
+index: true
 mini-toc-levels: 2
 auto-video-transcripts: true
 ---
