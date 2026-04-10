@@ -3,9 +3,8 @@ title: How GenAI Enhances Customer Journey Analytics
 description: Discover how Generative AI is transforming Customer Journey Analytics by surfacing insights, empowering users, and making data analytics more accessible.
 doc-type: Short Video
 duration: 48
-index: no
+index: false
 hide: yes
-hidefromtoc: yes
 recommendations: noCatalog, noDisplay
 exl-id: bbfac955-703d-41ee-82b8-8cc40c7dfb61
 ---

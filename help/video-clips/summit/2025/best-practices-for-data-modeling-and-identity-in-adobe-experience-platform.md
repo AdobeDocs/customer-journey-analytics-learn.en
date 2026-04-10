@@ -3,9 +3,8 @@ title: Best Practices for Data Modeling and Identity in Adobe Experience Platfor
 description: Explore key data modeling and identity strategies to ensure scalable and efficient implementations in Adobe Experience Platform.
 doc-type: Short Video
 duration: 101
-index: no
+index: false
 hide: yes
-hidefromtoc: yes
 recommendations: noCatalog, noDisplay
 ---
 

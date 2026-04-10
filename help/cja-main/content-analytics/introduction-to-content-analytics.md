@@ -24,7 +24,8 @@ Content Analytics uses AI and Experience Platform infrastructure to reveal what 
 
 ## How it works
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta=Watch}
 * how-it-works.md
 -->
@@ -58,7 +59,8 @@ Content Analytics uses AI and Experience Platform infrastructure to reveal what 
 
 ## Setup
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta=Watch}
 * create-configuration.md
 * edit-configuration.md
@@ -117,7 +119,8 @@ Content Analytics uses AI and Experience Platform infrastructure to reveal what 
 
 ## Reporting
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta=Watch}
 * reporting.md
 -->

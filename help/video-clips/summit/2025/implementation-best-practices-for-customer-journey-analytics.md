@@ -3,9 +3,8 @@ title: Implementation Best Practices for Customer Journey Analytics
 description: Learn the top three areas to focus on for successful implementation of Customer Journey Analytics, including data modeling, schema design, and identity management.
 doc-type: Short Video
 duration: 181
-index: no
+index: false
 hide: yes
-hidefromtoc: yes
 recommendations: noCatalog, noDisplay
 exl-id: 0cc3333f-118c-442a-a25a-e4578a5d7963
 ---

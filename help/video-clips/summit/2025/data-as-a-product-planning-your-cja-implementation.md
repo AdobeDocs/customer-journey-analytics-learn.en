@@ -3,9 +3,8 @@ title: Data as a Product - Planning Your CJA Implementation
 description: Understand how to treat data as a product in your Customer Journey Analytics implementation, focusing on data pipelines, activation, and downstream use cases.
 doc-type: Short Video
 duration: 60
-index: no
+index: false
 hide: yes
-hidefromtoc: yes
 recommendations: noCatalog, noDisplay
 exl-id: ffbf29b1-be7a-4477-bc47-0f6fa4e6b944
 ---

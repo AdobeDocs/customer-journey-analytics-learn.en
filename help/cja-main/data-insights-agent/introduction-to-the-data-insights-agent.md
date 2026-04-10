@@ -24,7 +24,8 @@ Learn about the [!DNL Data Insights Agent] in Customer Journey Analytics. This A
 
 ## Data Insights Agent use cases
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta=Watch}
 * data-insights-agent-use-cases.md
 -->
@@ -58,7 +59,8 @@ Learn about the [!DNL Data Insights Agent] in Customer Journey Analytics. This A
 
 ## Use the Data Insights Agent
 
-<!-- CARDS
+<!-- 
+CARDS
 {cta=Watch}
 * use-the-data-insights-agent.md
 -->

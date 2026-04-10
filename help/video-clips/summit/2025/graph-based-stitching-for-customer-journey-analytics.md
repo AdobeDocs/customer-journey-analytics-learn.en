@@ -3,9 +3,8 @@ title: Graph-Based Stitching for Customer Journey Analytics
 description: Discover how graph-based stitching enables seamless integration of multiple datasets, creating a unified customer view for actionable insights.
 doc-type: Short Video
 duration: 200
-index: no
+index: false
 hide: yes
-hidefromtoc: yes
 recommendations: noCatalog, noDisplay
 exl-id: 6b2c7972-2e10-4ab6-b3b6-53120d8a3ca2
 ---
