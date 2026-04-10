@@ -5,7 +5,6 @@ doc-type: Short Video
 duration: 101
 index: no
 hide: yes
-hidefromtoc: yes
 recommendations: noCatalog, noDisplay
 ---
 
