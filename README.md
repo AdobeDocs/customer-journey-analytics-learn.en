@@ -1,3 +1,3 @@
-# platform-learn.en
+# ARCHIVED
 
-Collaborative tutorials and enablement materials for Customer Journey Analytics
+This repo has been migrated to <https://github.com/Adobe-Enterprise-Docs/customer-journey-analytics-learn.en>.
