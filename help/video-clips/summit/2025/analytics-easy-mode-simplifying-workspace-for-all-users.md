@@ -3,7 +3,7 @@ title: Analytics Easy Mode - Simplifying Workspace for All Users
 description: Explore how Analytics Easy Mode reveals hidden features in Analysis Workspace, making it easier for users to access powerful tools and streamline their workflows.
 doc-type: Short Video
 duration: 82
-index: no
+index: false
 hide: yes
 recommendations: noCatalog, noDisplay
 exl-id: e004a399-77f0-4e41-a033-b41ac23b4602

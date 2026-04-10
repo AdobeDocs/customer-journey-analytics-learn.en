@@ -3,7 +3,7 @@ title: Audience Agent - Proactive Audience Health Monitoring
 description: See how Adobe's Audience Agent proactively monitors audience health, identifies issues, and suggests actionable solutions to save time and improve engagement.
 doc-type: Short Video
 duration: 204
-index: no
+index: false
 hide: yes
 recommendations: noCatalog, noDisplay
 exl-id: 71e395d2-b67a-485c-87b0-dab34dc2ac03

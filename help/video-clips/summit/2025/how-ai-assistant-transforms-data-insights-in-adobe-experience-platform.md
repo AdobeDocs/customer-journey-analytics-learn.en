@@ -3,7 +3,7 @@ title: How AI Assistant Transforms Data Insights in Adobe Experience Platform
 description: Discover how Adobe's AI Assistant delivers instant data insights, transforming workflows with natural language queries and actionable results.
 doc-type: Short Video
 duration: 82
-index: no
+index: false
 hide: yes
 recommendations: noCatalog, noDisplay
 exl-id: ca7aa207-47fe-4b49-a273-579d5d17c2d9

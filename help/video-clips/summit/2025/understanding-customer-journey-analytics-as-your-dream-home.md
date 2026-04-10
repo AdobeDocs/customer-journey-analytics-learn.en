@@ -3,7 +3,7 @@ title: Understanding Customer Journey Analytics as Your Dream Home
 description: Learn how to think of Customer Journey Analytics (CJA) as your dream home, with new requirements and capabilities to meet evolving business needs.
 doc-type: Short Video
 duration: 96
-index: no
+index: false
 hide: yes
 recommendations: noCatalog, noDisplay
 exl-id: 4470c52d-b75b-4e9c-b513-6f6763a02c63

@@ -3,7 +3,7 @@ title: Customer Journey Analytics Implementation Types
 description: Discover best practices for implementing Customer Journey Analytics, including proof of concept, interim solutions, and full implementation strategies.
 doc-type: Short Video
 duration: 212
-index: no
+index: false
 hide: yes
 recommendations: noCatalog, noDisplay
 exl-id: a3da1b04-343a-4ea1-8b13-b7cb6b7b22df

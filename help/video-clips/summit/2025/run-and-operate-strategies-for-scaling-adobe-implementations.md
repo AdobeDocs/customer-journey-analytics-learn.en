@@ -3,7 +3,7 @@ title: Run and Operate Strategies for Scaling Adobe Implementations
 description: Explore Adobe's internal strategies for running and operating large-scale implementations, including use case prioritization, monitoring, and ROI measurement.
 doc-type: Short Video
 duration: 96
-index: no
+index: false
 hide: yes
 recommendations: noCatalog, noDisplay
 exl-id: bdd0367a-4aa4-453b-97ac-9e6bb38730c6

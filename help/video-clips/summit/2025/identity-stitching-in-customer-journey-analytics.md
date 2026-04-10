@@ -3,7 +3,7 @@ title: Identity Stitching in Customer Journey Analytics
 description: Explore the two types of identity stitching in CJA—field-based and graph-based—and how they enable omnichannel analysis.
 doc-type: Short Video
 duration: 75
-index: no
+index: false
 hide: yes
 recommendations: noCatalog, noDisplay
 exl-id: 08926e4e-abac-4eb0-a415-2fa79dbd8962
