@@ -7,6 +7,10 @@ index: false
 hide: yes
 recommendations: noCatalog, noDisplay
 exl-id: 08926e4e-abac-4eb0-a415-2fa79dbd8962
+TQID: https://experienceleague.adobe.com/MgG4aaaDZYYyPQfuVZdUSZtqnm4UW1cw0uZJgMkSY-A
+product_v2:
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
 ---
 # Identity Stitching in Customer Journey Analytics
 

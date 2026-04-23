@@ -7,6 +7,13 @@ index: false
 hide: yes
 recommendations: noCatalog, noDisplay
 exl-id: e004a399-77f0-4e41-a033-b41ac23b4602
+TQID: https://experienceleague.adobe.com/D9An4qgxQTqoy-8M-PCU980XC8IX5Qc9bjSR-LTC1eM
+product_v2:
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
+feature_v2:
+  - id: c73c4213-d623-4126-81f4-80b42e5e2656
+    internal-label: Analysis Workspace
 ---
 # Analytics Easy Mode: Simplifying Workspace for All Users
 

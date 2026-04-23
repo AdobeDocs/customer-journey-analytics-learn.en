@@ -7,6 +7,10 @@ index: false
 hide: yes
 recommendations: noCatalog, noDisplay
 exl-id: 71e395d2-b67a-485c-87b0-dab34dc2ac03
+TQID: https://experienceleague.adobe.com/5vobiSFMw41-WzrFb-I8BiJRgEX2SVwzBvhThHTj5Rg
+product_v2:
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
 ---
 # Audience Agent: Proactive Audience Health Monitoring
 

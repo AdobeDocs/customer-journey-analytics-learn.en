@@ -7,6 +7,15 @@ index: false
 hide: yes
 recommendations: noCatalog, noDisplay
 exl-id: 83782049-7f14-4366-8ade-8ac9b246afca
+TQID: https://experienceleague.adobe.com/CLXiAFDhD5tov05L56ARm30hpgvg7E87KpIusXaZR-o
+product_v2:
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
 ---
 # In-Line Derived Fields: Real-Time Data Transformation in CJA
 
