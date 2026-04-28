@@ -4,7 +4,7 @@ description: Get a sneak peek into Content Analytics, a new feature in CJA that 
 doc-type: Short Video
 duration: 116
 index: false
-hide: yes
+hide: true
 recommendations: noCatalog, noDisplay
 exl-id: a50be3d1-00f6-4df4-bea9-93f26bd049ef
 ---

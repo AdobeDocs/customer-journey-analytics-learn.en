@@ -4,7 +4,7 @@ description: See how In-Line Derived Fields empowers users to clean and group da
 doc-type: Short Video
 duration: 193
 index: false
-hide: yes
+hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 83782049-7f14-4366-8ade-8ac9b246afca
 ---
