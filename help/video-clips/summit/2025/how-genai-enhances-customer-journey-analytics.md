@@ -4,7 +4,7 @@ description: Discover how Generative AI is transforming Customer Journey Analyti
 doc-type: Short Video
 duration: 48
 index: false
-hide: yes
+hide: true
 recommendations: noCatalog, noDisplay
 exl-id: bbfac955-703d-41ee-82b8-8cc40c7dfb61
 ---

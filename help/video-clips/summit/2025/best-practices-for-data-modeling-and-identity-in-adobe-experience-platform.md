@@ -4,7 +4,7 @@ description: Explore key data modeling and identity strategies to ensure scalabl
 doc-type: Short Video
 duration: 101
 index: false
-hide: yes
+hide: true
 recommendations: noCatalog, noDisplay
 ---
 

@@ -4,7 +4,7 @@ description: Learn how anomaly detection in CJA helps identify statistical fluct
 doc-type: Short Video
 duration: 59
 index: false
-hide: yes
+hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 41cc7616-3874-45b3-8786-48fa312bcf2d
 ---

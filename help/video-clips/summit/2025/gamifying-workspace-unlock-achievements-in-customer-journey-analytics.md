@@ -4,7 +4,7 @@ description: Learn how the Gamifying Workspace feature helps users explore and m
 doc-type: Short Video
 duration: 229
 index: false
-hide: yes
+hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 84f9a1fb-2af9-473b-8ec4-b71085bd1f3e
 ---

@@ -4,7 +4,7 @@ description: Discover how Adobe's AI Assistant delivers instant data insights, t
 doc-type: Short Video
 duration: 82
 index: false
-hide: yes
+hide: true
 recommendations: noCatalog, noDisplay
 exl-id: ca7aa207-47fe-4b49-a273-579d5d17c2d9
 ---

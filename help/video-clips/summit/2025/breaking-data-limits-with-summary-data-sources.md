@@ -4,7 +4,7 @@ description: Learn how to use Summary Data Sources in Customer Journey Analytics
 doc-type: Short Video
 duration: 162
 index: false
-hide: yes
+hide: true
 recommendations: noCatalog, noDisplay
 exl-id: b817cb37-5a7d-4529-a54e-ce3ab979b3ff
 ---
