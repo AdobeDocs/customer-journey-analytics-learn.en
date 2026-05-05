@@ -18,6 +18,9 @@ type: Tutorial
     + [Introduction to Customer Journey Analytics - B2B Edition](b2b/cja-b2b-overview.md)
     + [CJA B2B Edition - Beyond the first questions](b2b/cja-b2b-beyond-the-first-questions.md)
     + [Integrate CJA with Marketo for B2B Insights](b2b/integrate-cja-with-marketo-for-b2b-insights.md)
++ Remote MCP server {#remote-mcp-server}
+     + [Remote MCP server for CJA overview](remote-mcp-server/remote-mcp-server-for-cja-overview.md)
+     + [Remote MCP server for CJA in action](remote-mcp-server/remote-mcp-server-for-cja-in-action.md)
 + Architecture {#architecture}
     + [Architecture and integrations](architecture/architecture-and-integrations-of-cja.md)
 + Data prep and planning {#data-prep}
