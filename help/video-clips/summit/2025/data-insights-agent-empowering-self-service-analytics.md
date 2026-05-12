@@ -4,7 +4,7 @@ description: Explore how the Data Insights Agent allows users to ask natural lan
 doc-type: Short Video
 duration: 60
 index: false
-hide: yes
+hide: true
 recommendations: noCatalog, noDisplay
 exl-id: f823b242-4f61-4f2f-9d8c-41c58192fd53
 TQID: https://experienceleague.adobe.com/5mH7SvQiI-dlS2THlPT3cYsuHPfFBDe431WFGIca5k8

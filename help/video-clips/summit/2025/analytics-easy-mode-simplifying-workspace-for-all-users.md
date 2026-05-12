@@ -4,7 +4,7 @@ description: Explore how Analytics Easy Mode reveals hidden features in Analysis
 doc-type: Short Video
 duration: 82
 index: false
-hide: yes
+hide: true
 recommendations: noCatalog, noDisplay
 exl-id: e004a399-77f0-4e41-a033-b41ac23b4602
 TQID: https://experienceleague.adobe.com/D9An4qgxQTqoy-8M-PCU980XC8IX5Qc9bjSR-LTC1eM

@@ -4,7 +4,7 @@ description: Understand how algorithmic attribution in CJA allocates credit acro
 doc-type: Short Video
 duration: 72
 index: false
-hide: yes
+hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 6f3566e1-3226-4abf-a99e-a131473ba77f
 TQID: https://experienceleague.adobe.com/Hfo50Wo-TX9k5j-TK-nr511DWyrnZJAn8h5BOPNWUtI

@@ -4,7 +4,7 @@ description: Understand how to treat data as a product in your Customer Journey 
 doc-type: Short Video
 duration: 60
 index: false
-hide: yes
+hide: true
 recommendations: noCatalog, noDisplay
 exl-id: ffbf29b1-be7a-4477-bc47-0f6fa4e6b944
 TQID: https://experienceleague.adobe.com/caOdB8zDSJ0jMm1iuXUp-l0qhowrPwbSmX4qoEOkYeg

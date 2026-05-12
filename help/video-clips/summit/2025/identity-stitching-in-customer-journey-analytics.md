@@ -4,7 +4,7 @@ description: Explore the two types of identity stitching in CJA—field-based an
 doc-type: Short Video
 duration: 75
 index: false
-hide: yes
+hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 08926e4e-abac-4eb0-a415-2fa79dbd8962
 TQID: https://experienceleague.adobe.com/MgG4aaaDZYYyPQfuVZdUSZtqnm4UW1cw0uZJgMkSY-A

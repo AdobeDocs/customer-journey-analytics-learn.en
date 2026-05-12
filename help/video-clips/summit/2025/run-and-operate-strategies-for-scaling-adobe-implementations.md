@@ -4,7 +4,7 @@ description: Explore Adobe's internal strategies for running and operating large
 doc-type: Short Video
 duration: 96
 index: false
-hide: yes
+hide: true
 recommendations: noCatalog, noDisplay
 exl-id: bdd0367a-4aa4-453b-97ac-9e6bb38730c6
 TQID: https://experienceleague.adobe.com/QQzNviO0EK6YsaHSeaFnsLFie2BOe3JLJhl-8GBPoYg

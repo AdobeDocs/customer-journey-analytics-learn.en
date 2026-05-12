@@ -4,7 +4,7 @@ description: Learn about Adobe's Agent Orchestrator and how it enables real-time
 doc-type: Short Video
 duration: 68
 index: false
-hide: yes
+hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 7043655f-c859-4e8b-9750-9b201892ac40
 TQID: https://experienceleague.adobe.com/83oZswGbs5bvmTWNqcsxi3R3zYzS8OSmhLchfBIJlMU

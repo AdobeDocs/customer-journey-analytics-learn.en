@@ -4,7 +4,7 @@ description: Discover how graph-based stitching enables seamless integration of 
 doc-type: Short Video
 duration: 200
 index: false
-hide: yes
+hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 6b2c7972-2e10-4ab6-b3b6-53120d8a3ca2
 TQID: https://experienceleague.adobe.com/FU7sgjwLBEGjAQ7MMnXZXGVVhkBaODEdhhhsOJ8v95A

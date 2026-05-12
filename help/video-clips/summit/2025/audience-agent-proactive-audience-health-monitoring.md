@@ -4,7 +4,7 @@ description: See how Adobe's Audience Agent proactively monitors audience health
 doc-type: Short Video
 duration: 204
 index: false
-hide: yes
+hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 71e395d2-b67a-485c-87b0-dab34dc2ac03
 TQID: https://experienceleague.adobe.com/5vobiSFMw41-WzrFb-I8BiJRgEX2SVwzBvhThHTj5Rg

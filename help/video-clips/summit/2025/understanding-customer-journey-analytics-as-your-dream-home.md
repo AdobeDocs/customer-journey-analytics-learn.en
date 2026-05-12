@@ -4,7 +4,7 @@ description: Learn how to think of Customer Journey Analytics (CJA) as your drea
 doc-type: Short Video
 duration: 96
 index: false
-hide: yes
+hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 4470c52d-b75b-4e9c-b513-6f6763a02c63
 TQID: https://experienceleague.adobe.com/hKQYVxBudDmwaJpGK3kKsqZPD8qP5pnZjHQGDq-jJT8

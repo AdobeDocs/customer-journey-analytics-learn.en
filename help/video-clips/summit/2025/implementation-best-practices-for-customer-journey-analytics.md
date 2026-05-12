@@ -4,7 +4,7 @@ description: Learn the top three areas to focus on for successful implementation
 doc-type: Short Video
 duration: 181
 index: false
-hide: yes
+hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 0cc3333f-118c-442a-a25a-e4578a5d7963
 TQID: https://experienceleague.adobe.com/PvNU5Kbz4qDL1GXpTMSCblx43IgfUaIxWIf57Fd4cmw

@@ -4,7 +4,7 @@ description: Explore why moving from device-based analytics to customer-centric 
 doc-type: Short Video
 duration: 102
 index: false
-hide: yes
+hide: true
 recommendations: noCatalog, noDisplay
 exl-id: c5ede527-0a40-45b7-80a0-7a3c28657c00
 TQID: https://experienceleague.adobe.com/CC0hXwuxA7Xp7P8A2FK14I68SkS2diovyH9fr-PSzrE

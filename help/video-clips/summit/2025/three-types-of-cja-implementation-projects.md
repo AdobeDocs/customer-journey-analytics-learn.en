@@ -4,7 +4,7 @@ description: Discover the three types of Customer Journey Analytics implementati
 doc-type: Short Video
 duration: 77
 index: false
-hide: yes
+hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 05f25d0c-fa6a-4998-8460-82af4eeffff5
 TQID: https://experienceleague.adobe.com/LkPKSY5zg-Qz90tMi21pwYJrs3WgAp4fqeiI4Zqa37s

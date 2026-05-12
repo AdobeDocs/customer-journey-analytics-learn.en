@@ -4,7 +4,7 @@ description: Discover how to create metrics for user transitions, such as moving
 doc-type: Short Video
 duration: 126
 index: false
-hide: yes
+hide: true
 recommendations: noCatalog, noDisplay
 exl-id: 14add5f6-b8e7-4233-a87e-8a8846ea8076
 TQID: https://experienceleague.adobe.com/GQ-RyaPfWRBvMsj2OXCxhWBb3RZjjhvCzIRHf2QTZlE

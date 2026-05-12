@@ -4,7 +4,7 @@ description: Discover best practices for implementing Customer Journey Analytics
 doc-type: Short Video
 duration: 212
 index: false
-hide: yes
+hide: true
 recommendations: noCatalog, noDisplay
 exl-id: a3da1b04-343a-4ea1-8b13-b7cb6b7b22df
 TQID: https://experienceleague.adobe.com/2LTmQ71dfIBS-bRwI61k6AvfN6zzZFopRCBrPbAXnPA
