@@ -7,6 +7,10 @@ index: false
 hide: true
 recommendations: noCatalog, noDisplay
 exl-id: b817cb37-5a7d-4529-a54e-ce3ab979b3ff
+TQID: https://experienceleague.adobe.com/RHddCwR2gxMmIq4shL0V1Cim73VsGSve90B8ZB-vSM4
+product_v2:
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
 ---
 # Breaking Data Limits with Summary Data Sources
 

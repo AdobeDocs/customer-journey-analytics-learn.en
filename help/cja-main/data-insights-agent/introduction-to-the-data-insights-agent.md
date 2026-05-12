@@ -5,9 +5,30 @@ feature: AI Tools
 role: Leader, User
 level: Beginner
 duration: 222
-last-substantial-update: 2025-06-12
+last-substantial-update: 2025-06-12T00:00:00.000Z
 jira: KT-18320
 exl-id: 5842ce87-aa01-4ea6-ae56-cfd49bef4fa6
+TQID: https://experienceleague.adobe.com/7gQ6ONpr450MIwBR2pdKTqvMdXr7QeROckhlyIb4rc0
+product_v2:
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
+  - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
 ---
 # Introduction to the [!DNL Data Insights Agent]
 
