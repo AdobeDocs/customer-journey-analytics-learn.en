@@ -67,6 +67,7 @@ type: Tutorial
     + [Introduction](data-insights-agent/introduction-to-the-data-insights-agent.md)
     + [Use cases](data-insights-agent/data-insights-agent-use-cases.md)
     + [Use the Data Insights Agent](data-insights-agent/use-the-data-insights-agent.md)
+    + [Integration with Microsoft 365 Copilot](data-insights-agent/data-insights-with-marketing-agent-365copilot.md)
 + Analysis Workspace {#analysis-workspace}
     + Workspace projects {#workspace-projects}
         + [Analysis Workspace overview](analysis-workspace/workspace-projects/analysis-workspace-overview.md)  

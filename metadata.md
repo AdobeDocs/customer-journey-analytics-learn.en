@@ -4,7 +4,8 @@ product: customer journey analytics
 solution: Customer Journey Analytics
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
-    label: "Customer Journey Analytics"
+    internal-label: "Customer Journey Analytics"
+usetq: true
 feature-set: Customer Journey Analytics
 landing-page-name: customer-journey-analytics
 landing-page-breadcrumb-title: Customer Journey Analytics
