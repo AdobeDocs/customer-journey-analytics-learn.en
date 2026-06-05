@@ -175,3 +175,4 @@ type: Tutorial
     + [Customer Journey Analytics blueprint](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
     + [Digital behavioral data consolidation scenario](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
     + [Call deflection journey analysis scenario](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
+

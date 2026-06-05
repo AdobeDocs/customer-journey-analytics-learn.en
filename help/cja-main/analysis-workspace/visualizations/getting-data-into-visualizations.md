@@ -12,6 +12,6 @@ jira: KT-21501
 
 # Getting data into visualizations
 
-When adding visualizations in Analysis Workspace, there are a few different ways to add data to them, depending on the visualization type. This video demonstrates these methods.
+When adding visualizations in Analysis Workspace, there are a few different ways to add data to them, depending on the visualization type. This video demonstrates these methods. For more information, please visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/visualizations/freeform-analysis-visualizations){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3491932/?learn=on&enablevpops)
