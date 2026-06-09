@@ -19,7 +19,7 @@ subfeature_v2:
     internal-label: Workspace visualizations
 ---
 
-# Dimension-Graph Live Linking in Analysis Workspace
+# Dimension-graph live linking in Analysis Workspace
 
 When you add or create a visualization from a dimension value, you can select different dimension values and change the graph dynamically or lock the visualization to stay on one dimension or location.
 
