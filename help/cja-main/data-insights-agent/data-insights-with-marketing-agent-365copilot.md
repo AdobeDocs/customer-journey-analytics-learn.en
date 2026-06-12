@@ -28,7 +28,7 @@ topic_v2:
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
     internal-label: Artificial intelligence
 ---
-# Data insights in seconds with [!DNL Adobe Marketing Agent] for [!DNL Microsoft 365 Copilot]
+# Rapid data insights with [!DNL Adobe Marketing Agent] for [!DNL Microsoft 365 Copilot]
 
 Watch a demo of the [!DNL Adobe Marketing Agent] in [!DNL Microsoft Teams] as a marketer asks natural-language questions about analytics data and gets visualizations and data back from Customer Journey Analytics.
 
