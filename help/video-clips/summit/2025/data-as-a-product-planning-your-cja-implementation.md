@@ -23,3 +23,4 @@ Understand how to treat data as a product in your Customer Journey Analytics imp
 
 <!-- 62_S113_3442460_59_data-as-a-product-planning-your-cja-implementation -->
 >[!VIDEO](https://video.tv.adobe.com/v/3458332/?learn=on&enablevpops=true)
+

@@ -18,3 +18,4 @@ Understand how algorithmic attribution in CJA allocates credit across touchpoint
 
 <!-- 85_S106_3442453_71_algorithmic-attribution-a-gamechanger-for-marketers -->
 >[!VIDEO](https://video.tv.adobe.com/v/3458301/?learn=on&enablevpops=true)
+

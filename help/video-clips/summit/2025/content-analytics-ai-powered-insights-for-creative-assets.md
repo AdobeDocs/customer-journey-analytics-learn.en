@@ -24,3 +24,4 @@ Get a sneak peek into Content Analytics, a new feature in CJA that uses AI to an
 
 <!-- 62_S103_3442450_115_content-analytics-aipowered-insights-for-creative-assets -->
 >[!VIDEO](https://video.tv.adobe.com/v/3458352/?learn=on&enablevpops=true)
+

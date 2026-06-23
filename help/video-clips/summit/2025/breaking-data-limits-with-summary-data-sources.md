@@ -18,3 +18,4 @@ Learn how to use Summary Data Sources in Customer Journey Analytics to report on
 
 <!-- 72_S103_3442450_161_breaking-data-limits-with-summary-data-sources -->
 >[!VIDEO](https://video.tv.adobe.com/v/3458347/?learn=on&enablevpops=true)
+
