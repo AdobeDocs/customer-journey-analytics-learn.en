@@ -23,3 +23,4 @@ Discover the three types of Customer Journey Analytics implementation projects: 
 
 <!-- 62_S113_3442460_77_three-types-of-cja-implementation-projects -->
 >[!VIDEO](https://video.tv.adobe.com/v/3458341/?learn=on&enablevpops=true)
+

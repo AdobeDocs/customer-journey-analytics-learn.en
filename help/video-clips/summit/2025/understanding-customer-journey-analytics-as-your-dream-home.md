@@ -23,3 +23,4 @@ Learn how to think of Customer Journey Analytics (CJA) as your dream home, with 
 
 <!-- 62_S113_3442460_95_understanding-customer-journey-analytics-as-your-dream-home -->
 >[!VIDEO](https://video.tv.adobe.com/v/3458327/?learn=on&enablevpops=true)
+

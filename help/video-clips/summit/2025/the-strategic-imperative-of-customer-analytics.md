@@ -18,3 +18,4 @@ Explore why moving from device-based analytics to customer-centric analytics is 
 
 <!-- 62_S112_3442459_101_the-strategic-imperative-of-customer-analytics -->
 >[!VIDEO](https://video.tv.adobe.com/v/3458322/?learn=on&enablevpops=true)
+

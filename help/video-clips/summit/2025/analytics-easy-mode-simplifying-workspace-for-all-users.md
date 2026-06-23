@@ -21,3 +21,4 @@ Explore how Analytics Easy Mode reveals hidden features in Analysis Workspace, m
 
 <!-- 62_S102_3442449_82_analytics-easy-mode-simplifying-workspace-for-all-users -->
 >[!VIDEO](https://video.tv.adobe.com/v/3458343/?learn=on&enablevpops=true)
+
