@@ -87,6 +87,7 @@ type: Tutorial
         + [Create custom templates](analysis-workspace/templates/create-custom-templates.md)
     + Visualizations {#visualizations}
         + [Getting data into visualizations](analysis-workspace/visualizations/getting-data-into-visualizations.md)
+        + [Use Component Dropdowns in Workspace](analysis-workspace/visualizations/component-dropdowns-in-analysis-workspace.md)
         + [Create cross-channel visualizations](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
         + [Cross-channel attribution](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
         + [Dimension-Graph Live Linking](analysis-workspace/visualizations/dimension-graph-live-linking.md)
