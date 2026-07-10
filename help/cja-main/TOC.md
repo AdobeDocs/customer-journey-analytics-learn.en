@@ -104,6 +104,7 @@ type: Tutorial
         + [Add scatter visualizations](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
         + [Add tree map visualizations](analysis-workspace/visualizations/add-treemap-visualizations.md)
         + [Create 100% stacked visualizations](analysis-workspace/visualizations/create-stacked-visualizations.md)
+        + [Customize Visualization Legends](analysis-workspace/visualizations/cja-customize-visualization-legends.md)
         + [Add forecasting to your visualization](analysis-workspace/visualizations/forecasting.md)
     + Annotations {#annotations}
         + [Create an annotation](analysis-workspace/annotations/create-an-annotation.md)
