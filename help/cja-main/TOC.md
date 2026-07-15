@@ -92,6 +92,7 @@ type: Tutorial
         + [Cross-channel attribution](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
         + [Dimension-Graph Live Linking](analysis-workspace/visualizations/dimension-graph-live-linking.md)
         + [Create intelligent captions](analysis-workspace/visualizations/intelligent-captions.md)
+        + [Table and visualization data source settings](analysis-workspace/visualizations/cja-configure-table-and-visualization-data-source-settings.md)
         + [Add area visualizations](analysis-workspace/visualizations/add-area-visualizations.md)
         + [Add bar visualizations](analysis-workspace/visualizations/add-bar-visualizations.md)
         + [Add bullet graph visualizations](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
