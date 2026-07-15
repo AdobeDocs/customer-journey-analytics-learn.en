@@ -21,3 +21,4 @@ subfeature_v2:
 In this video, see how tables and visualizations are tied together through settings, and learn how to configure those settings for different analysis use cases.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3495948/?learn=on&enablevpops)
+
