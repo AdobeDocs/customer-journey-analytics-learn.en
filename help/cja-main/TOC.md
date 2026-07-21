@@ -99,6 +99,7 @@ type: Tutorial
         + [Add donut visualizations](analysis-workspace/visualizations/add-donut-visualizations.md)
         + [Multiple dimension columns in freeform tables](analysis-workspace/visualizations/multiple-dimension-columns-in-freeform-tables.md)
         + [Add line visualizations](analysis-workspace/visualizations/line-visualization.md)
+        + [Add trendlines to line visualizations](analysis-workspace/visualizations/cja-add-trendlines-to-line-visualizations.md)
         + [Add and configure the map visualization](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
         + [Add summary visualizations](analysis-workspace/visualizations/use-summary-visualizations.md)
         + [Add text visualizations](analysis-workspace/visualizations/add-text-visualizations.md)
