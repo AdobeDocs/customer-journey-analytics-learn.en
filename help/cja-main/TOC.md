@@ -85,6 +85,8 @@ type: Tutorial
     + Templates {#templates}
         + [Use templates](analysis-workspace/templates/use-templates.md)
         + [Create custom templates](analysis-workspace/templates/create-custom-templates.md)
+    + Freeform Tables {#freeform-tables}
+        + [Use in-line classifications](analysis-workspace/freeform-tables/in-line-classifications-for-cja.md)
     + Visualizations {#visualizations}
         + [Getting data into visualizations](analysis-workspace/visualizations/getting-data-into-visualizations.md)
         + [Use Component Dropdowns in Workspace](analysis-workspace/visualizations/component-dropdowns-in-analysis-workspace.md)
@@ -104,6 +106,7 @@ type: Tutorial
         + [Add and configure the map visualization](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
         + [Add summary visualizations](analysis-workspace/visualizations/use-summary-visualizations.md)
         + [Add text visualizations](analysis-workspace/visualizations/add-text-visualizations.md)
+        + [Link inside or outside of your project](analysis-workspace/visualizations/cja-link-inside-or-outside-of-your-project.md)
         + [Add scatter visualizations](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
         + [Add tree map visualizations](analysis-workspace/visualizations/add-treemap-visualizations.md)
         + [Create 100% stacked visualizations](analysis-workspace/visualizations/create-stacked-visualizations.md)
