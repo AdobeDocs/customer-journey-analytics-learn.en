@@ -113,6 +113,8 @@ type: Tutorial
         + [Customize visualization legends](analysis-workspace/visualizations/cja-customize-visualization-legends.md)
         + [Set granularity for visualizations](analysis-workspace/visualizations/cja-set-granularity-for-visualizations.md)
         + [Add forecasting to your visualization](analysis-workspace/visualizations/forecasting.md)
+    + Calendar and Date Ranges {#calendar-and-date-ranges}
+        + [Use calendars and dates in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/cja-calendar-and-dates-in-analysis-workspace.md)
     + Annotations {#annotations}
         + [Create an annotation](analysis-workspace/annotations/create-an-annotation.md)
     + Curate and share {#curate-and-share}
