@@ -27,7 +27,7 @@ type: Tutorial
     + [Working with data](data-prep/working-with-data-in-cja.md)
     + [Ingest, map, and transform Adobe Analytics data](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
     + [Ingest and use Adobe Analytics classifications data](data-prep/ingest-and-use-analytics-classifications.md)
-+ Data mirror {#data-mirror}
++ Data Mirror {#data-mirror}
     + [Sync with external data warehouse](data-mirror/cja-data-mirror-sync-external-platforms.md)
 + Access Control {#access-control}
     + [Set up permissions](permissions/set-up-permissions.md)
