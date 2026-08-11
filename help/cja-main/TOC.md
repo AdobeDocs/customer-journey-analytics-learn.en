@@ -132,6 +132,7 @@ type: Tutorial
         + [Use segments as dimensions](components/filters/use-filters-as-dimensions.md)
         + [Create audiences from segments](components/filters/create-audiences-from-segments.md)
         + [Move Adobe Analytics segments to Customer Journey Analytics](components/filters/moving-adobe-analytics-segments-to-customer-journey-analytics.md)
+        + [Object-level segmentation using sub-events](components/filters/object-level-segmentation-using-sub-events.md)
     + [Real-time reporting](components/real-time-reporting.md)   
     + Dimensions {#dimensions}
         + [Event Depth](components/dimensions/event-depth-in-cja.md)
@@ -174,3 +175,4 @@ type: Tutorial
     + [Customer Journey Analytics blueprint](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
     + [Digital behavioral data consolidation scenario](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
     + [Call deflection journey analysis scenario](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
++ [Data Mirror for Customer Journey Analytics](data-mirror/cja-data-mirror-sync-external-platforms.md)
