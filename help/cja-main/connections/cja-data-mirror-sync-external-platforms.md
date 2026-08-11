@@ -3,10 +3,7 @@ title: Data Mirror - Automatically Sync Warehouse Data to CJA
 description: Learn how Data Mirror automatically reflects changes from cloud data warehouses like Snowflake, BigQuery, and Databricks into Customer Journey Analytics.
 feature: Connections
 topic: Integrations
-role:
-  - Admin
-  - Developer
-  - User
+role: Admin, Developer, User
 level: Intermediate
 doc-type: Feature Video
 duration: 266
