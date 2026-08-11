@@ -22,3 +22,4 @@ Data Mirror simplifies this process by automatically reflecting changes from sup
 For additional information, please visit the [documentation](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-data-mirror/relational){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3497061/?learn=on)
+
