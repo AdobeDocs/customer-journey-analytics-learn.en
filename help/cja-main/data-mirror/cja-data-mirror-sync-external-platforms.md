@@ -11,6 +11,8 @@ level: Intermediate
 doc-type: Feature Video
 duration: 266
 last-substantial-update: 2026-08-11
+nudge-edit:
+  - 2026-08-11
 jira: KT-22296
 ---
 # Data Mirror for [!DNL Customer Journey Analytics]: Sync Snowflake, BigQuery & Databricks Data with CJA

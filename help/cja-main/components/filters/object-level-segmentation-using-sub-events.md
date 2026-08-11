@@ -7,6 +7,8 @@ level: Intermediate
 doc-type: Feature Video
 duration: 264
 last-substantial-update: 2026-08-11
+nudge-edit:
+  - 2026-08-11
 jira: KT-22297
 ---
 # Analyze sub-events for object-level segmentation in CJA
