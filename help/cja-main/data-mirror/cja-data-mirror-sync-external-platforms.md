@@ -13,7 +13,7 @@ duration: 266
 last-substantial-update: 2026-08-11
 jira: KT-22296
 ---
-# Data Mirror for [!DNL Customer Journey Analytics]
+# Data Mirror for [!DNL Customer Journey Analytics]: Sync Snowflake, BigQuery & Databricks Data with CJA
 
 Keeping customer data consistent across cloud data warehouses and [!DNL Customer Journey Analytics] (CJA) can be challenging. Organizations often rely on manual processes to synchronize updates, which adds work for data engineering teams and increases the risk of discrepancies between systems.
 

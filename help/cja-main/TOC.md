@@ -27,6 +27,8 @@ type: Tutorial
     + [Working with data](data-prep/working-with-data-in-cja.md)
     + [Ingest, map, and transform Adobe Analytics data](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
     + [Ingest and use Adobe Analytics classifications data](data-prep/ingest-and-use-analytics-classifications.md)
++ Data mirror {#data-mirror}
+    + [Sync with external data warehouse](data-mirror/cja-data-mirror-sync-external-platforms.md)
 + Access Control {#access-control}
     + [Set up permissions](permissions/set-up-permissions.md)
 + Connections {#connections}
@@ -188,4 +190,3 @@ type: Tutorial
     + [Customer Journey Analytics blueprint](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/customer-journey-analytics/overview){target=_blank}
     + [Digital behavioral data consolidation scenario](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/cross-channel){target=_blank}
     + [Call deflection journey analysis scenario](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-usecases/cross-channel/call-center){target=_blank}
-+ [Data Mirror for Customer Journey Analytics](data-mirror/cja-data-mirror-sync-external-platforms.md)
