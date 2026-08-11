@@ -9,7 +9,7 @@ duration: 264
 last-substantial-update: 2026-08-11
 jira: KT-22297
 ---
-# Analyze Sub-Events for Object-Level Segmentation in CJA
+# Analyze sub-events for object-level segmentation in CJA
 
 Learn how to use [!UICONTROL Sub-Event Analysis] in [!DNL Customer Journey Analytics] to achieve more precise segmentation and reporting. Object-level segmentation eliminates over-attribution, improves revenue analysis, and enables deeper exploration across complex datasets using Adobe Experience Platform's extensible data model.
 
