@@ -7,6 +7,7 @@ auto-video-transcripts: true
 
 # Customer Journey Analytics video clips {#video-clips}
 
++ [Overview](summit/2025/video-clip-overview.md)
 + Adobe Summit {#summit}
     + 2025 {#2025}
         + {hide-from-toc} [Video short](./summit/2025/algorithmic-attribution-a-game-changer-for-marketers.md)

@@ -23,3 +23,4 @@ See how In-Line Derived Fields empowers users to clean and group data directly i
 
 <!-- 62_S102_3442449_192_inline-derived-fields-realtime-data-transformation-in-cja -->
 >[!VIDEO](https://video.tv.adobe.com/v/3458362/?learn=on&enablevpops=true)
+

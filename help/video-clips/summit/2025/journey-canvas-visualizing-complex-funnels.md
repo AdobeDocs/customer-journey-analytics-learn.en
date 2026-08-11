@@ -18,3 +18,4 @@ Explore the Journey Canvas in CJA, a powerful visualization tool for creating mu
 
 <!-- 72_S103_3442450_134_journey-canvas-visualizing-complex-funnels -->
 >[!VIDEO](https://video.tv.adobe.com/v/3458364/?learn=on&enablevpops=true)
+

@@ -27,3 +27,4 @@ Learn how the Gamifying Workspace feature helps users explore and master Custome
 
 <!-- 72_S102_3442449_228_gamifying-workspace-unlock-achievements-in-customer-journey-analytics -->
 >[!VIDEO](https://video.tv.adobe.com/v/3458360/?learn=on&enablevpops=true)
+

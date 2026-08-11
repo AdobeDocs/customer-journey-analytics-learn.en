@@ -85,23 +85,36 @@ type: Tutorial
     + Templates {#templates}
         + [Use templates](analysis-workspace/templates/use-templates.md)
         + [Create custom templates](analysis-workspace/templates/create-custom-templates.md)
+    + Freeform Tables {#freeform-tables}
+        + [Use in-line classifications](analysis-workspace/freeform-tables/in-line-classifications-for-cja.md)
     + Visualizations {#visualizations}
+        + [Getting data into visualizations](analysis-workspace/visualizations/getting-data-into-visualizations.md)
+        + [Use Component Dropdowns in Workspace](analysis-workspace/visualizations/component-dropdowns-in-analysis-workspace.md)
         + [Create cross-channel visualizations](analysis-workspace/visualizations/creating-cross-channel-visualizations-in-customer-journey-analytics.md)
         + [Cross-channel attribution](analysis-workspace/visualizations/cross-channel-attribution-in-customer-journey-analytics.md)
+        + [Dimension-Graph Live Linking](analysis-workspace/visualizations/dimension-graph-live-linking.md)
         + [Create intelligent captions](analysis-workspace/visualizations/intelligent-captions.md)
+        + [Table and visualization data source settings](analysis-workspace/visualizations/cja-configure-table-and-visualization-data-source-settings.md)
         + [Add area visualizations](analysis-workspace/visualizations/add-area-visualizations.md)
         + [Add bar visualizations](analysis-workspace/visualizations/add-bar-visualizations.md)
         + [Add bullet graph visualizations](analysis-workspace/visualizations/add-bullet-graph-visualizations.md)
         + [Add donut visualizations](analysis-workspace/visualizations/add-donut-visualizations.md)
         + [Multiple dimension columns in freeform tables](analysis-workspace/visualizations/multiple-dimension-columns-in-freeform-tables.md)
         + [Add line visualizations](analysis-workspace/visualizations/line-visualization.md)
+        + [Add trendlines to line visualizations](analysis-workspace/visualizations/cja-add-trendlines-to-line-visualizations.md)
+        + [Use the cumulative average function for metric smoothing](analysis-workspace/visualizations/cja-use-the-cumulative-average-function-for-metric-smoothing.md)
         + [Add and configure the map visualization](analysis-workspace/visualizations/configure-and-use-the-map-visualization.md)
         + [Add summary visualizations](analysis-workspace/visualizations/use-summary-visualizations.md)
         + [Add text visualizations](analysis-workspace/visualizations/add-text-visualizations.md)
+        + [Link inside or outside of your project](analysis-workspace/visualizations/cja-link-inside-or-outside-of-your-project.md)
         + [Add scatter visualizations](analysis-workspace/visualizations/use-scatterplot-visualizations.md)
         + [Add tree map visualizations](analysis-workspace/visualizations/add-treemap-visualizations.md)
         + [Create 100% stacked visualizations](analysis-workspace/visualizations/create-stacked-visualizations.md)
+        + [Customize visualization legends](analysis-workspace/visualizations/cja-customize-visualization-legends.md)
+        + [Set granularity for visualizations](analysis-workspace/visualizations/cja-set-granularity-for-visualizations.md)
         + [Add forecasting to your visualization](analysis-workspace/visualizations/forecasting.md)
+    + Calendar and Date Ranges {#calendar-and-date-ranges}
+        + [Use calendars and dates in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/cja-calendar-and-dates-in-analysis-workspace.md)
     + Annotations {#annotations}
         + [Create an annotation](analysis-workspace/annotations/create-an-annotation.md)
     + Curate and share {#curate-and-share}
