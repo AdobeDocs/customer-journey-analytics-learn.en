@@ -27,12 +27,11 @@ type: Tutorial
     + [Working with data](data-prep/working-with-data-in-cja.md)
     + [Ingest, map, and transform Adobe Analytics data](data-prep/ingest-map-and-transform-adobe-analytics-data.md)
     + [Ingest and use Adobe Analytics classifications data](data-prep/ingest-and-use-analytics-classifications.md)
-+ Data Mirror {#data-mirror}
-    + [Sync with external data warehouse](data-mirror/cja-data-mirror-sync-external-platforms.md)
 + Access Control {#access-control}
     + [Set up permissions](permissions/set-up-permissions.md)
 + Connections {#connections}
     + [Connect to Experience Platform data sources](connections/connecting-customer-journey-analytics-to-data-sources-in-platform.md)
+    + [Sync with external data warehouse](connections/cja-data-mirror-sync-external-platforms.md)
     + [View, troubleshoot, and modify connection settings](connections/connections-details-experience-in-cja.md)
     + [Add new data to a connection](connections/add-past-data-to-an-existing-connection-in-cja.md)
     + [CJA lookups for lookup and profile data](connections/cja-lookup-data.md)
