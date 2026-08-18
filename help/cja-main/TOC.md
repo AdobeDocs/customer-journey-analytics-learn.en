@@ -117,6 +117,7 @@ type: Tutorial
     + Calendar and Date Ranges {#calendar-and-date-ranges}
         + [Use calendars and dates in Analysis Workspace](analysis-workspace/calendar-and-date-ranges/cja-calendar-and-dates-in-analysis-workspace.md)
         + [Apply reusable date ranges in your project](analysis-workspace/calendar-and-date-ranges/cja-apply-reusable-date-ranges-in-your-project.md)
+        + [Use date ranges and comparisons](analysis-workspace/calendar-and-date-ranges/cja-use-date-ranges-and-comparisons.md)
     + Annotations {#annotations}
         + [Create an annotation](analysis-workspace/annotations/create-an-annotation.md)
     + Curate and share {#curate-and-share}
