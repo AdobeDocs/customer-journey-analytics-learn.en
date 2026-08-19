@@ -88,6 +88,7 @@ type: Tutorial
         + [Create custom templates](analysis-workspace/templates/create-custom-templates.md)
     + Freeform Tables {#freeform-tables}
         + [Use in-line classifications](analysis-workspace/freeform-tables/in-line-classifications-for-cja.md)
+        + [Explore row and column settings in freeform tables](analysis-workspace/freeform-tables/cja-explore-row-and-column-settings-in-freeform-tables.md)
     + Visualizations {#visualizations}
         + [Getting data into visualizations](analysis-workspace/visualizations/getting-data-into-visualizations.md)
         + [Use Component Dropdowns in Workspace](analysis-workspace/visualizations/component-dropdowns-in-analysis-workspace.md)
