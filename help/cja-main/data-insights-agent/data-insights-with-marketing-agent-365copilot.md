@@ -7,7 +7,7 @@ role: Admin, User
 level: Beginner
 doc-type: Feature Video
 duration: 184
-last-substantial-update: 2026-05-18
+last-substantial-update: 2026-05-18T00:00:00.000Z
 jira: KT-21103
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
@@ -21,6 +21,8 @@ subfeature_v2:
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner

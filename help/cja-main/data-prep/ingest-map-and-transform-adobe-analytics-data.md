@@ -9,10 +9,16 @@ doc-type: feature video
 thumbnail: 29687.jpg
 kt: 10421
 exl-id: 74998f1c-c2d2-425f-b662-58781c825bee
-TQID: https://experienceleague.adobe.com/HtWxTDte-zy6SCiVA1o-jEsuSX18-CuwU6wU4eZvF-c
+TQID: 'https://experienceleague.adobe.com/HtWxTDte-zy6SCiVA1o-jEsuSX18-CuwU6wU4eZvF-c'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
+feature_v2:
+  - id: e75a4a9c-d354-4ca4-9b02-1afeca73fa5e
+    internal-label: Integrations
+subfeature_v2:
+  - id: e1bd5a34-b16e-477b-84cc-247fa0793f4b
+    internal-label: Analytics integration
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

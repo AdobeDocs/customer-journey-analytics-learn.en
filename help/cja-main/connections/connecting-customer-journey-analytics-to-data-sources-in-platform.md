@@ -17,6 +17,11 @@ product_v2:
 feature_v2:
   - id: c73c4213-d623-4126-81f4-80b42e5e2656
     internal-label: Analysis Workspace
+  - id: ce577701-5b9e-4fe4-8fa3-4eedea976da4
+    internal-label: Components
+subfeature_v2:
+  - id: d1d3b429-e0a8-4e2f-af0a-a48d23e366b7
+    internal-label: Connections
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer

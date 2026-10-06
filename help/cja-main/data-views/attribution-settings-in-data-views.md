@@ -9,7 +9,7 @@ doc-type: feature video
 thumbnail: 30185.jpg
 kt: 3959
 exl-id: 9a1663ec-3fd1-4899-971f-11e42cea94fc
-TQID: https://experienceleague.adobe.com/9eUJSRg8gKbmcKaHx1JWnYFRKHLX7nnQUGRwZBvYKWU
+TQID: 'https://experienceleague.adobe.com/9eUJSRg8gKbmcKaHx1JWnYFRKHLX7nnQUGRwZBvYKWU'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
@@ -18,9 +18,13 @@ feature_v2:
     internal-label: Components
   - id: d76b9e53-27fb-4597-933f-419cc0dd46db
     internal-label: Administration
+  - id: b3197353-f189-4932-8378-3f3bc40e6071
+    internal-label: Data management
 subfeature_v2:
   - id: df7fb1db-aa1b-4314-98ac-59dbfcc3044f
     internal-label: Dimensions
+  - id: e1471301-a189-438e-8d48-264a8db508a6
+    internal-label: Data views
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

@@ -10,10 +10,16 @@ duration: 185
 last-substantial-update: 2026-01-26T00:00:00.000Z
 jira: KT-20192
 exl-id: 4e3195d4-b281-4681-87f9-814f096a04bd
-TQID: https://experienceleague.adobe.com/U-6jXWNTR1gNOUux-K1pSM03pAG7TuPdE77VfmcCr94
+TQID: 'https://experienceleague.adobe.com/U-6jXWNTR1gNOUux-K1pSM03pAG7TuPdE77VfmcCr94'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
+feature_v2:
+  - id: d76b9e53-27fb-4597-933f-419cc0dd46db
+    internal-label: Administration
+subfeature_v2:
+  - id: eed59de6-f140-4dd2-beca-afcbb0f6a2c5
+    internal-label: Upgrade
 role_v2:
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
     internal-label: Leader

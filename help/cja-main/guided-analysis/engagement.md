@@ -9,10 +9,16 @@ jira: KT-15095
 thumbnail: 3429489.jpeg
 last-substantial-update: 2024-06-14T00:00:00.000Z
 exl-id: 4fbe9012-58c9-4d32-9549-e382fc601f7f
-TQID: https://experienceleague.adobe.com/iRpi-DnerUDFh5e0439FjCaUhbkGkoIiFyJLQJF3AEU
+TQID: 'https://experienceleague.adobe.com/iRpi-DnerUDFh5e0439FjCaUhbkGkoIiFyJLQJF3AEU'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
+feature_v2:
+  - id: b3197353-f189-4932-8378-3f3bc40e6071
+    internal-label: Data management
+subfeature_v2:
+  - id: bfa38d8a-4e93-4fd8-8cd8-e72c589e3af8
+    internal-label: Guided analysis
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

@@ -2,7 +2,7 @@
 title: Working with data
 description: Learn how dataset schemas are translated into variables in Adobe Customer Journey Analytics, as well as how CJA handles very high cardinality.
 feature: Connections
-topics: null
+topics: 
 activity: understand
 doc-type: technical video
 team: Technical Marketing
@@ -11,10 +11,16 @@ kt: 3964
 role: Developer
 level: Intermediate
 exl-id: 5562f818-0c5f-4421-b715-ca083b81a00c
-TQID: https://experienceleague.adobe.com/LTz257i0F-uFbYq96OKoG9wEvnQP-mquyq--QQ6q4EY
+TQID: 'https://experienceleague.adobe.com/LTz257i0F-uFbYq96OKoG9wEvnQP-mquyq--QQ6q4EY'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
+feature_v2:
+  - id: ce577701-5b9e-4fe4-8fa3-4eedea976da4
+    internal-label: Components
+subfeature_v2:
+  - id: d1d3b429-e0a8-4e2f-af0a-a48d23e366b7
+    internal-label: Connections
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer

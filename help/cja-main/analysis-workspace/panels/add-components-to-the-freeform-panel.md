@@ -9,7 +9,7 @@ thumbnail: 3458210.jpg
 kt: 17506
 last-substantial-update: 2025-05-09T00:00:00.000Z
 exl-id: e5427085-5ab8-4d6b-96c6-83bc8005a08e
-TQID: https://experienceleague.adobe.com/4D-x8ysnu8qV-7vWNw4B-arpBFnEabE3BRd-DIO3Cy8
+TQID: 'https://experienceleague.adobe.com/4D-x8ysnu8qV-7vWNw4B-arpBFnEabE3BRd-DIO3Cy8'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
@@ -18,11 +18,13 @@ feature_v2:
     internal-label: Analysis Workspace
   - id: ce577701-5b9e-4fe4-8fa3-4eedea976da4
     internal-label: Components
+  - id: e634a07b-b7ca-4af3-a124-3024ce559e17
+    internal-label: Workspace panels
 subfeature_v2:
   - id: b1f5d324-a668-4e51-a59b-6fc0862d7310
     internal-label: Metrics
   - id: bc7a5a86-1a70-451f-985c-037b65f091d1
-    internal-label: Segments, Segments (CJA)
+    internal-label: Segments
   - id: df7fb1db-aa1b-4314-98ac-59dbfcc3044f
     internal-label: Dimensions
 role_v2:
@@ -33,6 +35,8 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience

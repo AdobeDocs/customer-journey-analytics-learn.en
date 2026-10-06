@@ -11,10 +11,16 @@ kt: 3955
 role: User
 level: Beginner
 exl-id: f835376c-36b8-45b6-a3fe-4efaf5fb6a12
-TQID: https://experienceleague.adobe.com/-xvDqeVyjqQQmUOUTeRc5sFlAYZTUUHXG6f1h0KNTIs
+TQID: 'https://experienceleague.adobe.com/-xvDqeVyjqQQmUOUTeRc5sFlAYZTUUHXG6f1h0KNTIs'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
+feature_v2:
+  - id: b3197353-f189-4932-8378-3f3bc40e6071
+    internal-label: Data management
+subfeature_v2:
+  - id: e0cfe18a-f68c-495b-bafc-f6bcc0392d6c
+    internal-label: Identity
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

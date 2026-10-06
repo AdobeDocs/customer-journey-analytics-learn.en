@@ -20,6 +20,12 @@ feature_v2:
 subfeature_v2:
   - id: a8b1c240-f315-46e3-b813-f545c4279dd1
     internal-label: Workspace basics
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 
 # Explore row and column settings in freeform tables

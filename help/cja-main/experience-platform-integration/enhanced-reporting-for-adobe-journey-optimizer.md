@@ -9,10 +9,16 @@ duration: 22500
 last-substantial-update: 2024-06-24T00:00:00.000Z
 jira: KT-15767
 exl-id: 9a3e1d44-e61f-416e-a4a2-c46bce7445c3
-TQID: https://experienceleague.adobe.com/uOUi2EW5FQqCx5rNErENkI4Sq1JMUhV6mgDkIwcZPyo
+TQID: 'https://experienceleague.adobe.com/uOUi2EW5FQqCx5rNErENkI4Sq1JMUhV6mgDkIwcZPyo'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
+feature_v2:
+  - id: e75a4a9c-d354-4ca4-9b02-1afeca73fa5e
+    internal-label: Integrations
+subfeature_v2:
+  - id: d3fb138f-79e4-4a81-aedb-76dd93560085
+    internal-label: Experience Platform integration
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

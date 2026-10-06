@@ -9,16 +9,24 @@ last-substantial-update: 2023-09-21T00:00:00.000Z
 jira: KT-14020
 thumbnail: 3424502.jpeg
 exl-id: a24a46f4-ee34-4f07-b2db-486ceff5d3b3
-TQID: https://experienceleague.adobe.com/87pyzv0MH1R1tvxpI2sKKeVCCietLxdzP55dFd5vnb8
+TQID: 'https://experienceleague.adobe.com/87pyzv0MH1R1tvxpI2sKKeVCCietLxdzP55dFd5vnb8'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
 feature_v2:
   - id: ce577701-5b9e-4fe4-8fa3-4eedea976da4
     internal-label: Components
+  - id: d76b9e53-27fb-4597-933f-419cc0dd46db
+    internal-label: Administration
+subfeature_v2:
+  - id: bf2b169f-d8b2-488a-97b9-f3bc9532e35c
+    internal-label: Use cases
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
     internal-label: Reporting

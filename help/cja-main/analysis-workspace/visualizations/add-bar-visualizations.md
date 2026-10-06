@@ -10,7 +10,7 @@ role: User
 level: Beginner
 last-substantial-update: 2026-02-04T00:00:00.000Z
 exl-id: 3e4cf780-29ea-4a1b-92af-09e08a91a637
-TQID: https://experienceleague.adobe.com/Gjfl8XN-uNiX0EIDhyxO7B726-NVudebQWMs8ilqbLA
+TQID: 'https://experienceleague.adobe.com/Gjfl8XN-uNiX0EIDhyxO7B726-NVudebQWMs8ilqbLA'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
@@ -23,11 +23,13 @@ subfeature_v2:
   - id: b1f5d324-a668-4e51-a59b-6fc0862d7310
     internal-label: Metrics
   - id: bc7a5a86-1a70-451f-985c-037b65f091d1
-    internal-label: Segments, Segments (CJA)
+    internal-label: Segments
   - id: c38ed341-fab2-46df-9d72-88d8166edebb
     internal-label: Workspace projects
   - id: e44e560d-5e5c-4a5f-9a87-eb8adbb817af
     internal-label: Calculated metrics
+  - id: bee1d787-7e5f-52f2-a27b-db3204cbc423
+    internal-label: Visualizations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

@@ -7,7 +7,7 @@ role: User
 level: Beginner
 last-substantial-update: 2026-02-25T00:00:00.000Z
 exl-id: 375c6b09-08f3-48a4-9c86-da5044060a83
-TQID: https://experienceleague.adobe.com/vupiWsJFT7dgmMHk9WegI-ftzlKRDH38lWt3cbfOqvA
+TQID: 'https://experienceleague.adobe.com/vupiWsJFT7dgmMHk9WegI-ftzlKRDH38lWt3cbfOqvA'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
@@ -17,6 +17,8 @@ feature_v2:
 subfeature_v2:
   - id: c38ed341-fab2-46df-9d72-88d8166edebb
     internal-label: Workspace projects
+  - id: bee1d787-7e5f-52f2-a27b-db3204cbc423
+    internal-label: Visualizations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

@@ -9,7 +9,7 @@ duration: 148
 last-substantial-update: 2025-06-12T00:00:00.000Z
 jira: KT-18322
 exl-id: 71dc9a71-8a54-48e6-a964-a1314a92adf0
-TQID: https://experienceleague.adobe.com/W7V8-yTxD5iMTrjqak7nxHq-AUezmQ2vr2jcCOBqhGs
+TQID: 'https://experienceleague.adobe.com/W7V8-yTxD5iMTrjqak7nxHq-AUezmQ2vr2jcCOBqhGs'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
@@ -18,6 +18,8 @@ feature_v2:
     internal-label: Analysis Workspace
   - id: ce577701-5b9e-4fe4-8fa3-4eedea976da4
     internal-label: Components
+  - id: ae3aff40-b2f6-4df1-8c01-0b0720d1510f
+    internal-label: AI Tools
 subfeature_v2:
   - id: d3c978ee-1ff0-4475-968a-721e2dd99ef1
     internal-label: Freeform tables
