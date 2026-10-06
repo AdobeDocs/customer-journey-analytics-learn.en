@@ -8,7 +8,7 @@ kt: 3958
 role: Admin
 level: Beginner
 exl-id: 132e8131-1574-4728-9108-8e5cdff3145e
-TQID: https://experienceleague.adobe.com/Zd0Ml2dDXHG6AWSI6Z48CLnYLAku87mTg2GiyJcg4zM
+TQID: 'https://experienceleague.adobe.com/Zd0Ml2dDXHG6AWSI6Z48CLnYLAku87mTg2GiyJcg4zM'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
@@ -17,6 +17,8 @@ feature_v2:
     internal-label: Analysis Workspace
   - id: ce577701-5b9e-4fe4-8fa3-4eedea976da4
     internal-label: Components
+  - id: b3197353-f189-4932-8378-3f3bc40e6071
+    internal-label: Data management
 subfeature_v2:
   - id: b1f5d324-a668-4e51-a59b-6fc0862d7310
     internal-label: Metrics
@@ -24,6 +26,8 @@ subfeature_v2:
     internal-label: Connections
   - id: df7fb1db-aa1b-4314-98ac-59dbfcc3044f
     internal-label: Dimensions
+  - id: e1471301-a189-438e-8d48-264a8db508a6
+    internal-label: Data views
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

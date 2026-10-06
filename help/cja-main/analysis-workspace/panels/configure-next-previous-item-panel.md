@@ -9,10 +9,13 @@ thumbnail: 344430.jpg
 kt: 10656
 last-substantial-update: 2022-06-28T00:00:00.000Z
 exl-id: 51a86808-75b2-4bd7-80dd-d7c8ef3c8368
-TQID: https://experienceleague.adobe.com/WQ0qT7q11bHdTZnXIrkZUsv2oSaqBktxacYJXwPf88g
+TQID: 'https://experienceleague.adobe.com/WQ0qT7q11bHdTZnXIrkZUsv2oSaqBktxacYJXwPf88g'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
+feature_v2:
+  - id: e634a07b-b7ca-4af3-a124-3024ce559e17
+    internal-label: Workspace panels
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

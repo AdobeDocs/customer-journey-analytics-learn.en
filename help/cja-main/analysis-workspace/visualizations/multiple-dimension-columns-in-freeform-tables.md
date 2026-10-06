@@ -9,10 +9,16 @@ duration: 268
 last-substantial-update: 2026-01-30T00:00:00.000Z
 jira: KT-20233
 exl-id: 0999be21-5687-4c43-8a23-26b2fbc3c795
-TQID: https://experienceleague.adobe.com/bY84qqkZVbteSnJd4AilXmBUAiz5ywxby5JeepJ6Tb8
+TQID: 'https://experienceleague.adobe.com/bY84qqkZVbteSnJd4AilXmBUAiz5ywxby5JeepJ6Tb8'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
+feature_v2:
+  - id: ce577701-5b9e-4fe4-8fa3-4eedea976da4
+    internal-label: Components
+subfeature_v2:
+  - id: d3c978ee-1ff0-4475-968a-721e2dd99ef1
+    internal-label: Freeform tables
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

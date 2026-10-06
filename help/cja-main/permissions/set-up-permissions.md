@@ -9,7 +9,7 @@ duration: 483
 last-substantial-update: 2025-05-05T00:00:00.000Z
 jira: KT-17501
 exl-id: c6dca701-08b8-4504-8c3e-0d19fcd4c979
-TQID: https://experienceleague.adobe.com/VbkT9hBiwYIJ45t6oApsrnPu-45x6wiaEQQMQ43l1RQ
+TQID: 'https://experienceleague.adobe.com/VbkT9hBiwYIJ45t6oApsrnPu-45x6wiaEQQMQ43l1RQ'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
@@ -18,6 +18,8 @@ feature_v2:
     internal-label: Data management
   - id: c73c4213-d623-4126-81f4-80b42e5e2656
     internal-label: Analysis Workspace
+  - id: d76b9e53-27fb-4597-933f-419cc0dd46db
+    internal-label: Administration
 subfeature_v2:
   - id: e0cfe18a-f68c-495b-bafc-f6bcc0392d6c
     internal-label: Identity
@@ -25,6 +27,8 @@ subfeature_v2:
     internal-label: Data views
   - id: e8abc408-b05c-427f-9e37-f8b033a6b3c3
     internal-label: Schema
+  - id: a67cb189-a535-41f6-afa2-448f39c4759f
+    internal-label: Access control
 role_v2:
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
     internal-label: Leader

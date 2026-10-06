@@ -11,7 +11,7 @@ level: Intermediate
 duration: 360
 last-substantial-update: 2026-04-20T00:00:00.000Z
 exl-id: 441e632f-b8d0-428a-9db6-c048bf173443
-TQID: https://experienceleague.adobe.com/orPayRJ0TCeHnswniUD6aVsyIrXcke5FY05WbQs3xCI
+TQID: 'https://experienceleague.adobe.com/orPayRJ0TCeHnswniUD6aVsyIrXcke5FY05WbQs3xCI'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
@@ -20,6 +20,9 @@ feature_v2:
     internal-label: Analysis Workspace
   - id: e75a4a9c-d354-4ca4-9b02-1afeca73fa5e
     internal-label: Integrations
+subfeature_v2:
+  - id: a8b1c240-f315-46e3-b813-f545c4279dd1
+    internal-label: Workspace basics
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer

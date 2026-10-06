@@ -9,10 +9,16 @@ last-substantial-update: 2024-07-12T00:00:00.000Z
 jira: KT-13673
 thumbnail: 3421663.jpeg
 exl-id: 52211513-1cda-4173-aebd-4af752c87604
-TQID: https://experienceleague.adobe.com/cF65oj8KaM8zzxdneCspO9slB2iuOol5ayyPp-v6-w4
+TQID: 'https://experienceleague.adobe.com/cF65oj8KaM8zzxdneCspO9slB2iuOol5ayyPp-v6-w4'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
+feature_v2:
+  - id: b3197353-f189-4932-8378-3f3bc40e6071
+    internal-label: Data management
+subfeature_v2:
+  - id: bfa38d8a-4e93-4fd8-8cd8-e72c589e3af8
+    internal-label: Guided analysis
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

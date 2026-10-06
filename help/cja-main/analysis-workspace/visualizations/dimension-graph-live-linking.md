@@ -17,6 +17,14 @@ feature_v2:
 subfeature_v2:
   - id: ddf59f64-0e46-4986-a525-056acc143c70
     internal-label: Workspace visualizations
+  - id: bee1d787-7e5f-52f2-a27b-db3204cbc423
+    internal-label: Visualizations
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 
 # Dimension-graph live linking in Analysis Workspace

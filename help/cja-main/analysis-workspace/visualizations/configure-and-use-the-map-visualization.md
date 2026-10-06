@@ -9,18 +9,22 @@ duration: 295
 last-substantial-update: 2025-08-14T00:00:00.000Z
 jira: KT-18759
 exl-id: a8c29857-9689-4210-ba59-faa9aee65a2f
-TQID: https://experienceleague.adobe.com/7BU4ApugL168FS1x4ZvNG6U0UsCyPKU-Wps9a-P8qkU
+TQID: 'https://experienceleague.adobe.com/7BU4ApugL168FS1x4ZvNG6U0UsCyPKU-Wps9a-P8qkU'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
 feature_v2:
   - id: ce577701-5b9e-4fe4-8fa3-4eedea976da4
     internal-label: Components
+  - id: c73c4213-d623-4126-81f4-80b42e5e2656
+    internal-label: Analysis Workspace
 subfeature_v2:
   - id: bc7a5a86-1a70-451f-985c-037b65f091d1
-    internal-label: Segments, Segments (CJA)
+    internal-label: Segments
   - id: df7fb1db-aa1b-4314-98ac-59dbfcc3044f
     internal-label: Dimensions
+  - id: bee1d787-7e5f-52f2-a27b-db3204cbc423
+    internal-label: Visualizations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

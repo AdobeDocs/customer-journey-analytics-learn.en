@@ -6,6 +6,9 @@ duration: 101
 index: false
 hide: true
 recommendations: noCatalog, noDisplay
+product_v2:
+  - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
+    internal-label: Customer Journey Analytics
 ---
 
 # Best Practices for Data Modeling and Identity in Adobe Experience Platform

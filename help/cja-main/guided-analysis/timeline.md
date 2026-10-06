@@ -8,10 +8,16 @@ doc-type: Feature Video
 last-substantial-update: 2024-03-15T00:00:00.000Z
 jira: KT-15092
 exl-id: 1eda14aa-6e1e-4a98-b0aa-f6dfc78d14c6
-TQID: https://experienceleague.adobe.com/Wn6GsMdrP924RevSp-6Jxe97oUy7wNXir4Sytyyz3gY
+TQID: 'https://experienceleague.adobe.com/Wn6GsMdrP924RevSp-6Jxe97oUy7wNXir4Sytyyz3gY'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
+feature_v2:
+  - id: b3197353-f189-4932-8378-3f3bc40e6071
+    internal-label: Data management
+subfeature_v2:
+  - id: bfa38d8a-4e93-4fd8-8cd8-e72c589e3af8
+    internal-label: Guided analysis
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

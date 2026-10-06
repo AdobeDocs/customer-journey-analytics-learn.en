@@ -11,7 +11,7 @@ role: Admin, User
 level: Beginner
 last-substantial-update: 2023-06-19T00:00:00.000Z
 exl-id: 70ebc514-5a2e-4947-ad2c-b90c35665b42
-TQID: https://experienceleague.adobe.com/5pfS7TvWyjE80e3rV5qV6rcMtuT6dJJfbrnatsBOtNE
+TQID: 'https://experienceleague.adobe.com/5pfS7TvWyjE80e3rV5qV6rcMtuT6dJJfbrnatsBOtNE'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
@@ -22,6 +22,8 @@ feature_v2:
     internal-label: Analysis Workspace
   - id: ce577701-5b9e-4fe4-8fa3-4eedea976da4
     internal-label: Components
+  - id: e75a4a9c-d354-4ca4-9b02-1afeca73fa5e
+    internal-label: Integrations
 subfeature_v2:
   - id: c38ed341-fab2-46df-9d72-88d8166edebb
     internal-label: Workspace projects
@@ -39,6 +41,8 @@ subfeature_v2:
     internal-label: Schema
   - id: f3ca85c1-72de-4df2-97ed-05753cd77c47
     internal-label: Derived fields
+  - id: e1bd5a34-b16e-477b-84cc-247fa0793f4b
+    internal-label: Analytics integration
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

@@ -7,10 +7,16 @@ level: Intermediate
 kt: 10375
 thumbnail: 342694.jpeg
 exl-id: 60c4884e-ebb2-4eb5-9912-d51c5ee20c5e
-TQID: https://experienceleague.adobe.com/z-4DWmerFQcegGbgbCfgySsmX4LnixLqgpfwN9926Uo
+TQID: 'https://experienceleague.adobe.com/z-4DWmerFQcegGbgbCfgySsmX4LnixLqgpfwN9926Uo'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
+feature_v2:
+  - id: b3197353-f189-4932-8378-3f3bc40e6071
+    internal-label: Data management
+subfeature_v2:
+  - id: e1471301-a189-438e-8d48-264a8db508a6
+    internal-label: Data views
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

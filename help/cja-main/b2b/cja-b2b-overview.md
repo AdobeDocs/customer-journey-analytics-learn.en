@@ -10,10 +10,16 @@ last-substantial-update: 2025-10-01T00:00:00.000Z
 jira: KT-19320
 thumbnail: KT-19320.jpeg
 exl-id: c6bac2f4-81da-44b1-be78-12c17afc44af
-TQID: https://experienceleague.adobe.com/36mFKCgBY1Twb-pNPuSbB5NL98DKMe74-PEaIPS7ryo
+TQID: 'https://experienceleague.adobe.com/36mFKCgBY1Twb-pNPuSbB5NL98DKMe74-PEaIPS7ryo'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
+feature_v2:
+  - id: d76b9e53-27fb-4597-933f-419cc0dd46db
+    internal-label: Administration
+subfeature_v2:
+  - id: c0173fff-a288-46f9-94aa-2b9ca0aa9ac1
+    internal-label: Basics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

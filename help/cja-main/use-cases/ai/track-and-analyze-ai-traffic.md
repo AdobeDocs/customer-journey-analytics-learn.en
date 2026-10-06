@@ -10,10 +10,16 @@ duration: 230
 last-substantial-update: 2026-01-07T00:00:00.000Z
 jira: KT-20054
 exl-id: 2cd7693b-7534-408f-a128-b782222a4762
-TQID: https://experienceleague.adobe.com/fu-KhUzNOSws548gvOAWFQ6Jb7YZke5HQSfWOlmzP-Q
+TQID: 'https://experienceleague.adobe.com/fu-KhUzNOSws548gvOAWFQ6Jb7YZke5HQSfWOlmzP-Q'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
+feature_v2:
+  - id: b3197353-f189-4932-8378-3f3bc40e6071
+    internal-label: Data management
+subfeature_v2:
+  - id: f3ca85c1-72de-4df2-97ed-05753cd77c47
+    internal-label: Derived fields
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

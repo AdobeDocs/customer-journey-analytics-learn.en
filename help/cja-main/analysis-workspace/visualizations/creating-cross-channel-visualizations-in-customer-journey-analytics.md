@@ -2,7 +2,7 @@
 title: Create Cross-Channel Visualizations in Customer Journey Analytics
 description: In this video, discover how Adobe Customer Journey Analytics allows you to create visualizations that include data from multiple data sets across multiple channels, including merging the data per visitor.
 feature: Visualizations
-topics: null
+topics: 
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,20 +11,24 @@ kt: 3961
 role: User
 level: Beginner
 exl-id: 077bed60-9aa2-47f9-af66-2f99453d64fb
-TQID: https://experienceleague.adobe.com/L2Jz-hPBxgC90xgGSwdshQMTcLB5-xpu-LaMRZ8ab8U
+TQID: 'https://experienceleague.adobe.com/L2Jz-hPBxgC90xgGSwdshQMTcLB5-xpu-LaMRZ8ab8U'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
 feature_v2:
   - id: ce577701-5b9e-4fe4-8fa3-4eedea976da4
     internal-label: Components
+  - id: c73c4213-d623-4126-81f4-80b42e5e2656
+    internal-label: Analysis Workspace
 subfeature_v2:
   - id: bc7a5a86-1a70-451f-985c-037b65f091d1
-    internal-label: Segments, Segments (CJA)
+    internal-label: Segments
   - id: bcaa1b08-8269-4ff3-a0c2-f599783b6107
     internal-label: Filters
   - id: df7fb1db-aa1b-4314-98ac-59dbfcc3044f
     internal-label: Dimensions
+  - id: bee1d787-7e5f-52f2-a27b-db3204cbc423
+    internal-label: Visualizations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
