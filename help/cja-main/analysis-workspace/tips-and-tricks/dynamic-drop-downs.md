@@ -9,7 +9,7 @@ last-substantial-update: 2023-06-08T00:00:00.000Z
 jira: KT-13460
 thumbnail: 3420315.jpeg
 exl-id: b67e8ae2-17c9-44b6-b62d-3adb1019c5fd
-TQID: https://experienceleague.adobe.com/S-ecKc6neSAaofKico-GkD9OYeIMXQ-jNWJlj7yyjRs
+TQID: 'https://experienceleague.adobe.com/S-ecKc6neSAaofKico-GkD9OYeIMXQ-jNWJlj7yyjRs'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
@@ -18,7 +18,7 @@ feature_v2:
     internal-label: Components
 subfeature_v2:
   - id: bc7a5a86-1a70-451f-985c-037b65f091d1
-    internal-label: Segments, Segments (CJA)
+    internal-label: Segments
   - id: bcaa1b08-8269-4ff3-a0c2-f599783b6107
     internal-label: Filters
 role_v2:

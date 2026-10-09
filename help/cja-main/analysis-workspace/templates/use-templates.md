@@ -9,7 +9,7 @@ thumbnail: 3470517.jpg
 kt: 18118
 last-substantial-update: 2025-08-06T00:00:00.000Z
 exl-id: f64e5cd9-dbc6-4b94-9e05-ccd1c727132b
-TQID: https://experienceleague.adobe.com/Y2JaNwz7f92fRxqIam3fcbF-B2CDbV9f2c-vyxsCv8A
+TQID: 'https://experienceleague.adobe.com/Y2JaNwz7f92fRxqIam3fcbF-B2CDbV9f2c-vyxsCv8A'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
@@ -22,7 +22,7 @@ feature_v2:
     internal-label: Administration
 subfeature_v2:
   - id: ad333ea6-e90d-4c8f-8d61-9f8690784d6f
-    internal-label: Templates, Templates (CJA)
+    internal-label: Templates
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin

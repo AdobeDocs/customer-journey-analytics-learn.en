@@ -10,7 +10,7 @@ thumbnail: 3418396.jpg
 kt: 13009
 last-substantial-update: 2023-04-14T00:00:00.000Z
 exl-id: 83f727f8-bba0-430d-b4f6-04f20ec225ad
-TQID: https://experienceleague.adobe.com/xjunx-lPf3UjHtd1pwnbrK-UY5cRVlqDkmEyWQTZHLg
+TQID: 'https://experienceleague.adobe.com/xjunx-lPf3UjHtd1pwnbrK-UY5cRVlqDkmEyWQTZHLg'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
@@ -23,7 +23,7 @@ subfeature_v2:
   - id: a8b1c240-f315-46e3-b813-f545c4279dd1
     internal-label: Workspace basics
   - id: ad333ea6-e90d-4c8f-8d61-9f8690784d6f
-    internal-label: Templates, Templates (CJA)
+    internal-label: Templates
   - id: b1f5d324-a668-4e51-a59b-6fc0862d7310
     internal-label: Metrics
   - id: bcaa1b08-8269-4ff3-a0c2-f599783b6107

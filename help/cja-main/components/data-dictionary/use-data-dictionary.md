@@ -1,6 +1,6 @@
 ---
 title: Use the data dictionary
-description: Learn about the Data Dictionary in Analysis Workspace for Customer Journey Analytics. This feature helps users and administrators track and understand the components used in projects. 
+description: "Learn about the Data Dictionary in Analysis Workspace for Customer Journey Analytics. This feature helps users and administrators track and understand the components used in projects.\_"
 topic: Administration
 doc-type: feature video
 thumbnail: 3418028.jpg
@@ -9,7 +9,7 @@ role: Admin, User
 level: Beginner
 last-substantial-update: 2023-05-16T00:00:00.000Z
 exl-id: b63f8e7d-ae3f-4e4c-a221-3a90607e3ba3
-TQID: https://experienceleague.adobe.com/3tXi1yeGQaz3TSEbs81CNg2CRBNwUBu1p-f7rx89BXg
+TQID: 'https://experienceleague.adobe.com/3tXi1yeGQaz3TSEbs81CNg2CRBNwUBu1p-f7rx89BXg'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
@@ -24,7 +24,7 @@ subfeature_v2:
   - id: b1f5d324-a668-4e51-a59b-6fc0862d7310
     internal-label: Metrics
   - id: bc7a5a86-1a70-451f-985c-037b65f091d1
-    internal-label: Segments, Segments (CJA)
+    internal-label: Segments
   - id: bcaa1b08-8269-4ff3-a0c2-f599783b6107
     internal-label: Filters
   - id: cc092ab1-90ba-4bbc-b4c6-6249d87daf5c
