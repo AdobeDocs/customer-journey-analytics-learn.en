@@ -10,7 +10,7 @@ thumbnail: 3418008.jpg
 kt: 13008
 last-substantial-update: 2023-04-10T00:00:00.000Z
 exl-id: a1b37000-b31f-4704-83e0-af0b3e8a7c25
-TQID: https://experienceleague.adobe.com/CyK2ybn-FWSvm8shUavMzIIe0vA3eRtlJB-lSL8mofM
+TQID: 'https://experienceleague.adobe.com/CyK2ybn-FWSvm8shUavMzIIe0vA3eRtlJB-lSL8mofM'
 product_v2:
   - id: e98b7246-966c-4318-9e95-cad2f7a17dc7
     internal-label: Customer Journey Analytics
@@ -25,7 +25,7 @@ subfeature_v2:
   - id: b1f5d324-a668-4e51-a59b-6fc0862d7310
     internal-label: Metrics
   - id: bc7a5a86-1a70-451f-985c-037b65f091d1
-    internal-label: Segments, Segments (CJA)
+    internal-label: Segments
   - id: bcaa1b08-8269-4ff3-a0c2-f599783b6107
     internal-label: Filters
   - id: c38ed341-fab2-46df-9d72-88d8166edebb
